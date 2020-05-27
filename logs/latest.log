@@ -1,0 +1,57 @@
+[19:05:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:05:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:05:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:05:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:05:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:05:51] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:05:51] [Server thread/INFO]: Loading properties
+[19:05:51] [Server thread/INFO]: Default game type: SURVIVAL
+[19:05:51] [Server thread/INFO]: Generating keypair
+[19:05:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:05:52] [Server thread/INFO]: Using default channel type
+[19:05:52] [Server thread/INFO]: Preparing level "world"
+[19:05:52] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[19:05:52] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:05:53] [Server thread/INFO]: Loaded 6 recipes
+[19:05:53] [Server thread/INFO]: Loaded 825 advancements
+[19:06:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:06:00] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:06:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:06:01] [Server-Worker-1/INFO]: Preparing spawn area: 2%
+[19:06:02] [Server-Worker-1/INFO]: Preparing spawn area: 4%
+[19:06:02] [Server-Worker-2/INFO]: Preparing spawn area: 7%
+[19:06:03] [Server-Worker-2/INFO]: Preparing spawn area: 10%
+[19:06:03] [Server-Worker-2/INFO]: Preparing spawn area: 14%
+[19:06:04] [Server-Worker-1/INFO]: Preparing spawn area: 22%
+[19:06:04] [Server-Worker-2/INFO]: Preparing spawn area: 26%
+[19:06:05] [Server-Worker-3/INFO]: Preparing spawn area: 31%
+[19:06:06] [Server-Worker-2/INFO]: Preparing spawn area: 31%
+[19:06:06] [Server-Worker-2/INFO]: Preparing spawn area: 31%
+[19:06:06] [Server-Worker-1/INFO]: Preparing spawn area: 45%
+[19:06:07] [Server-Worker-1/INFO]: Preparing spawn area: 45%
+[19:06:07] [Server-Worker-3/INFO]: Preparing spawn area: 56%
+[19:06:08] [Server-Worker-1/INFO]: Preparing spawn area: 61%
+[19:06:08] [Server-Worker-3/INFO]: Preparing spawn area: 70%
+[19:06:09] [Server-Worker-1/INFO]: Preparing spawn area: 76%
+[19:06:09] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:06:10] [Server-Worker-2/INFO]: Preparing spawn area: 85%
+[19:06:10] [Server-Worker-2/INFO]: Preparing spawn area: 97%
+[19:06:10] [Server thread/INFO]: Time elapsed: 10179 ms
+[19:06:10] [Server thread/INFO]: Done (18.487s)! For help, type "help"
+[19:09:03] [User Authenticator #1/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[19:09:03] [Server thread/INFO]: TastySandvich_[/127.0.0.1:52529] logged in with entity id 270 at (-101.5, 70.0, 42.5)
+[19:09:03] [Server thread/INFO]: TastySandvich_ joined the game
+[19:10:07] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[19:10:07] [Server thread/INFO]: TastySandvich_ left the game
+[19:10:21] [Server thread/INFO]: Stopping server
+[19:10:21] [Server thread/INFO]: Saving players
+[19:10:21] [Server thread/INFO]: Saving worlds
+[19:10:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:10:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:10:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:10:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:10:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
