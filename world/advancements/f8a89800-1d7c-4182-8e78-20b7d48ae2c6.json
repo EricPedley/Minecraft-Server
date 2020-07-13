@@ -2029,6 +2029,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2020-07-13 20:06:21 +0000",
       "minecraft:bee": "2020-07-13 17:12:50 +0000"
     },
     "done": false
