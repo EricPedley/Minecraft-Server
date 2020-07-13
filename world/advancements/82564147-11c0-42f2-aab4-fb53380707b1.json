@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-07-13 20:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-07-13 05:41:32 +0000"
@@ -908,7 +914,8 @@
       "minecraft:skeleton": "2020-07-13 07:13:45 +0000",
       "minecraft:creeper": "2020-07-13 07:29:03 +0000",
       "minecraft:zombie": "2020-07-13 06:00:42 +0000",
-      "minecraft:drowned": "2020-07-13 07:28:50 +0000"
+      "minecraft:drowned": "2020-07-13 07:28:50 +0000",
+      "minecraft:zombie_villager": "2020-07-13 20:07:22 +0000"
     },
     "done": false
   },

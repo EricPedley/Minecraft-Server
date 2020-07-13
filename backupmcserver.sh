@@ -1,5 +1,5 @@
 #!/bin/bash
-CURRENTDATE=`date +"%b %d, %Y"`
+CURRENTDATE=`date +"%Y-%m-%d %T"`
 git add .
 git commit -m "automatic backup at ${CURRENTDATE}"
 git push
