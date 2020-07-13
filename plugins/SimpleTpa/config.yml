@@ -1,0 +1,65 @@
+#  ____    _                       _          _____
+# / ___|  (_)  _ __ ___    _ __   | |   ___  |_   _|  _ __     __ _
+# \___ \  | | | '_ ` _ \  | '_ \  | |  / _ \   | |   | '_ \   / _` |
+#  ___) | | | | | | | | | | |_) | | | |  __/   | |   | |_) | | (_| |
+# |____/  |_| |_| |_| |_| | .__/  |_|  \___|   |_|   | .__/   \__,_|
+#                         |_|                        |_|
+
+#We are sponsored by TN-HOST.COM
+#The best hosting provider!
+#Minecraft, Rust, Garry's Mod and many more!
+
+#messages  placeholders:
+# %time% - the cooldown time.
+# %player% - the chosen player.
+# %option% - it will replace it with /tpaccept or /tpdeny.
+console-isnt-player: '&4Console is not a player!'
+
+cooldown-message: '&6You must wait &c%time% &6seconds cooldown in between teleport requests!'
+tprequest-to-online: '&6You can only send a teleport request to online players!'
+tpahererequest-to-online: '&6You can only send a tpahere request to online players!'
+notp-to-yourself: '&6You can''t send a teleport to yourself!'
+notpahere-to-yourself: '&6You can''t send a tpahere request to yourself!'
+usage-first: 'Send a teleport request to a player.'
+usage-fourth: 'Send a tpahere request to a player.'
+usage-second: '/tpa <player>'
+usage-third: '/tpahere <player>'
+
+teleport-message: '&6Teleporting...'
+player-left-tp-closed: '&6It seems the player to you were teleporting to has left the server!'
+no-teleport-requests: '&6You doesn''t have any current tp requests.'
+rejected-request: '&c%player% &6has rejected your teleport request!'
+sender-message: '&c%player% &6was rejected!'
+timedout-message: '&6Your teleport request timed out.'
+timedouttpahere-message: '&6Your tpahere request timed out.'
+sending-request-message: '&6Sending a teleport request to &c%player%&6.'
+accept-message: '&6To accept the teleport request, type &c%option%&6.'
+tpdeny-message: '&6To deny the teleport request, type &c%option%&6.'
+sent-request-on-you: '&c%player% &6has sent a request to teleport to you. '
+sending-tpahererequest-message: '&6Sending a tpahere request to &c%player%&6.'
+tpahereaccept-message: '&6To accept the tpahere request, type &c%option%&6.'
+tpaheretpdeny-message: '&6To deny the tpahere request, type &c%option%&6.'
+tpaheresent-request-on-you: '&c%player% &6has sent a tpahere request to you. '
+no-perm-message: '&cYou do not have permission to use this command!'
+tpdisablemsg: '&6The player has disabled the &cteleportion &6for themselves.'
+enabledmessage: '&6You have enabled the &cteleportation &6to you!'
+disabledmessage: '&6You have disabled the &cteleportation &6to you!'
+wait-time-msg: '&6You must wait &c%time% &6seconds!'
+backmessage: '&6You have been &cteleported &6to the previous location!'
+backmessage-error: '&6You don''t have any previous locations!'
+player-move-cancel-tp: '&6You moved and you canceled your &cteleport request&6.'
+death-message: '&6You can teleport back to your death location using &c/back'
+disabled-command: '&6The command has been &cdisabled&6!'
+
+#Intengers
+tpa-cooldown: 10
+wait-time-before-tp: 5
+keep-alive: 60
+
+#Booleans
+disable-back-command: false
+#if you disable this one, when you move it won't cancel your tp request.
+disable-move-system: false
+
+
+
