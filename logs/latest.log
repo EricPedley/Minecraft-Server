@@ -163,3 +163,12 @@
 [19:58:32] [Async Chat Thread - #0/INFO]: <rzt4097> nice[m
 [19:58:35] [Server thread/INFO]: Zukey0304 issued server command: /back
 [19:58:35] [Server thread/WARN]: Entity EntityPlayer['Zukey0304'/761, l='ServerLevel[world]', x=-239.18, y=80.50, z=256.75](Zukey0304 at -239.17621172712012,80.5,256.7453660339303) left loaded chunk area
+[19:59:00] [Async Chat Thread - #0/INFO]: <Zukey0304> appearently netherite isnt that good[m
+[20:01:24] [User Authenticator #4/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
+[20:01:25] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:53662] logged in with entity id 2734 at ([world]-326.8508983314547, 63.0, -880.9337784661863)
+[20:01:31] [Async Chat Thread - #1/INFO]: <HeyItsJaviTV> deez nuts[m
+[20:01:33] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
+[20:01:33] [Server thread/INFO]: HeyItsJaviTV left the game
+[20:01:53] [User Authenticator #5/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
+[20:01:53] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:53670] logged in with entity id 2940 at ([world]-327.1318071661208, 63.0, -881.2528718371882)
+[20:01:57] [Server thread/INFO]: rzt4097 issued server command: /sethome
