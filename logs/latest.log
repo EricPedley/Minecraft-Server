@@ -157,3 +157,9 @@
 [19:47:58] [Server thread/INFO]: TastySandvich_ left the game
 [19:49:46] [User Authenticator #2/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
 [19:49:46] [Server thread/INFO]: Zukey0304[/127.0.0.1:53596] logged in with entity id 761 at ([world]-224.7033325640663, 113.0, 244.644974818786)
+[19:58:10] [User Authenticator #3/INFO]: UUID of player rzt4097 is 82564147-11c0-42f2-aab4-fb53380707b1
+[19:58:11] [Server thread/INFO]: rzt4097[/127.0.0.1:53644] logged in with entity id 1870 at ([world]-202.39377610715263, 63.5, 410.2781784622271)
+[19:58:28] [Server thread/INFO]: Zukey0304 fell from a high place
+[19:58:32] [Async Chat Thread - #0/INFO]: <rzt4097> nice[m
+[19:58:35] [Server thread/INFO]: Zukey0304 issued server command: /back
+[19:58:35] [Server thread/WARN]: Entity EntityPlayer['Zukey0304'/761, l='ServerLevel[world]', x=-239.18, y=80.50, z=256.75](Zukey0304 at -239.17621172712012,80.5,256.7453660339303) left loaded chunk area
