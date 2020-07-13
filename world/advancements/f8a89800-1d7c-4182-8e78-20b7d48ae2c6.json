@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-07-13 21:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-06-04 19:44:07 +0000"
@@ -814,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-07-13 21:26:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-06-05 05:10:38 +0000"
@@ -1278,12 +1290,15 @@
       "minecraft:taiga": "2020-06-05 18:50:22 +0000",
       "minecraft:desert_hills": "2020-06-05 21:19:37 +0000",
       "minecraft:deep_cold_ocean": "2020-06-04 20:33:39 +0000",
+      "minecraft:taiga_hills": "2020-07-13 21:01:37 +0000",
       "minecraft:desert": "2020-06-04 20:34:23 +0000",
       "minecraft:birch_forest": "2020-06-06 02:16:19 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-07-13 21:18:05 +0000",
       "minecraft:savanna_plateau": "2020-06-08 20:54:47 +0000",
       "minecraft:beach": "2020-06-04 20:33:17 +0000",
       "minecraft:dark_forest": "2020-06-04 19:49:46 +0000",
       "minecraft:river": "2020-06-04 19:43:10 +0000",
+      "minecraft:lukewarm_ocean": "2020-07-13 21:18:04 +0000",
       "minecraft:birch_forest_hills": "2020-06-06 02:17:16 +0000",
       "minecraft:wooded_mountains": "2020-06-04 20:04:33 +0000",
       "minecraft:wooded_hills": "2020-06-04 19:57:52 +0000",
@@ -1856,6 +1871,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-06-04 20:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-07-13 21:19:59 +0000"
     },
     "done": true
   },
