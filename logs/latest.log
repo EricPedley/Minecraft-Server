@@ -1,455 +1,52 @@
-[19:46:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[19:46:21] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:46:23] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:46:26] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[19:46:26] [Server thread/INFO]: Loading properties
-[19:46:26] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-0287a20-7560f5f (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
-[19:46:27] [Server thread/INFO]: Debug logging is disabled
-[19:46:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:46:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:46:27] [Server thread/INFO]: Default game type: SURVIVAL
-[19:46:27] [Server thread/INFO]: Generating keypair
-[19:46:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:46:28] [Server thread/INFO]: Using epoll channel type
-[19:46:28] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[19:46:37] [Server thread/WARN]: Legacy plugin SimpleHomes v2.0.4 does not specify an api-version.
-[19:46:37] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v3.8
-[19:46:37] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.0.4
-[19:46:37] [Server thread/INFO]: Preparing level "world"
-[19:46:37] [Server thread/INFO]: -------- World Settings For [world] --------
-[19:46:37] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:46:37] [Server thread/INFO]: Mob Spawn Range: 6
-[19:46:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:46:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:46:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:46:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:46:37] [Server thread/INFO]: Max TNT Explosions: 100
-[19:46:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:46:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:46:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:46:37] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:46:37] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:46:37] [Server thread/INFO]: View Distance: 6
-[19:46:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:46:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:46:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:46:38] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[19:46:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:46:38] [Server thread/INFO]: Mob Spawn Range: 6
-[19:46:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:46:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:46:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:46:38] [Server thread/INFO]: Max TNT Explosions: 100
-[19:46:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:46:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:46:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:46:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:46:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:46:38] [Server thread/INFO]: View Distance: 6
-[19:46:38] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:46:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:46:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:46:38] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[19:46:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:46:38] [Server thread/INFO]: Mob Spawn Range: 6
-[19:46:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:46:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:46:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:46:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:46:38] [Server thread/INFO]: Max TNT Explosions: 100
-[19:46:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:46:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:46:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:46:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:46:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:46:38] [Server thread/INFO]: View Distance: 6
-[19:46:38] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:46:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:46:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:46:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:46:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:46:41] [Server thread/INFO]: Preparing spawn area: 37%
-[19:46:41] [Server thread/INFO]: Preparing spawn area: 93%
-[19:46:42] [Server thread/INFO]: Time elapsed: 4320 ms
-[19:46:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:46:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:44] [Server thread/INFO]: Preparing spawn area: 83%
-[19:46:45] [Server thread/INFO]: Time elapsed: 2562 ms
-[19:46:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[19:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[19:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[19:46:47] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[19:46:47] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[19:46:48] [Worker-Main-2/INFO]: Preparing spawn area: 84%
-[19:46:48] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[19:46:49] [Worker-Main-2/INFO]: Preparing spawn area: 98%
-[19:46:49] [Server thread/INFO]: Time elapsed: 4132 ms
-[19:46:49] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v3.8
-[19:46:49] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
-[19:46:49] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 3.8[m
-[19:46:49] [Server thread/INFO]: [SimpleTpa] Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[19:46:49] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.0.4
-[19:46:49] [Server thread/INFO]: [SimpleHomes] AutoUpdater Enabled: Notify
-[19:46:50] [Server thread/INFO]: [SimpleHomes] No update found.
-[19:46:50] [Server thread/INFO]: [SimpleHomes] SimpleHomes Enabled!
-[19:46:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:46:50] [Server thread/INFO]: Done (13.249s)! For help, type "help"
-[19:46:55] [User Authenticator #1/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[19:46:56] [Server thread/INFO]: TastySandvich_[/127.0.0.1:53580] logged in with entity id 313 at ([world]-187.61083494582905, 72.0, 909.1684016861885)
-[19:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[19:47:58] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[19:47:58] [Server thread/INFO]: TastySandvich_ left the game
-[19:49:46] [User Authenticator #2/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[19:49:46] [Server thread/INFO]: Zukey0304[/127.0.0.1:53596] logged in with entity id 761 at ([world]-224.7033325640663, 113.0, 244.644974818786)
-[19:58:10] [User Authenticator #3/INFO]: UUID of player rzt4097 is 82564147-11c0-42f2-aab4-fb53380707b1
-[19:58:11] [Server thread/INFO]: rzt4097[/127.0.0.1:53644] logged in with entity id 1870 at ([world]-202.39377610715263, 63.5, 410.2781784622271)
-[19:58:28] [Server thread/INFO]: Zukey0304 fell from a high place
-[19:58:32] [Async Chat Thread - #0/INFO]: <rzt4097> nice[m
-[19:58:35] [Server thread/INFO]: Zukey0304 issued server command: /back
-[19:58:35] [Server thread/WARN]: Entity EntityPlayer['Zukey0304'/761, l='ServerLevel[world]', x=-239.18, y=80.50, z=256.75](Zukey0304 at -239.17621172712012,80.5,256.7453660339303) left loaded chunk area
-[19:59:00] [Async Chat Thread - #0/INFO]: <Zukey0304> appearently netherite isnt that good[m
-[20:01:24] [User Authenticator #4/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
-[20:01:25] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:53662] logged in with entity id 2734 at ([world]-326.8508983314547, 63.0, -880.9337784661863)
-[20:01:31] [Async Chat Thread - #1/INFO]: <HeyItsJaviTV> deez nuts[m
-[20:01:33] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
-[20:01:33] [Server thread/INFO]: HeyItsJaviTV left the game
-[20:01:53] [User Authenticator #5/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
-[20:01:53] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:53670] logged in with entity id 2940 at ([world]-327.1318071661208, 63.0, -881.2528718371882)
-[20:01:57] [Server thread/INFO]: rzt4097 issued server command: /sethome
-[20:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
-[20:13:09] [Server thread/INFO]: [Server] just set up auto backups
-[20:13:15] [Async Chat Thread - #2/INFO]: <HeyItsJaviTV> deez nuts[m
-[20:13:19] [Async Chat Thread - #2/INFO]: <Zukey0304> how often[m
-[20:13:28] [Server thread/INFO]: [Server] every day at midnight
-[20:13:43] [Server thread/INFO]: [Server] it pushes all the files to a github repo
-[20:22:24] [Server thread/INFO]: HeyItsJaviTV has made the advancement [Hot Stuff]
-[20:22:33] [Server thread/INFO]: Villager EntityVillager['Nitwit'/774, l='ServerLevel[world]', x=-275.09, y=68.00, z=233.39] died, message: 'Nitwit burned to death'
-[20:27:09] [Server thread/INFO]: Zukey0304 fell from a high place
-[20:27:14] [Server thread/INFO]: Zukey0304 issued server command: /back
-[20:27:42] [Async Chat Thread - #3/INFO]: <HeyItsJaviTV> ryan do u have access to a bad?[m
-[20:27:47] [Async Chat Thread - #3/INFO]: <HeyItsJaviTV> bed?[m
-[20:36:26] [Server thread/INFO]: rzt4097 issued server command: /tpahere Zukey0304
-[20:36:33] [Server thread/INFO]: Zukey0304 issued server command: /tpa
-[20:36:36] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
-[20:37:00] [Async Chat Thread - #4/INFO]: <rzt4097> use sword[m
-[20:37:23] [Async Chat Thread - #4/INFO]: <rzt4097> both because aoe and also because sometimes shit won't quite die[m
-[20:40:23] [Server thread/INFO]: Zukey0304 was slain by Iron Golem
-[20:40:26] [Server thread/INFO]: Zukey0304 issued server command: /back
-[20:46:34] [Server thread/INFO]: [Server] auto backups are now at 8AM because we're likely gonna be still playing at midnight
-[20:46:36] [Async Chat Thread - #5/INFO]: <HeyItsJaviTV> helo[m
-[20:46:44] [Async Chat Thread - #5/INFO]: <Zukey0304> ty[m
-[20:58:06] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2873429442212583
-[20:58:06] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7728512105316057
-[20:58:06] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.26224966522215
-[20:58:06] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7537296821529509
-[20:58:06] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.25060379318762216
-[20:58:06] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7632217133719266
-[20:58:06] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.4599078246801085
-[20:58:11] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2622463823740375
-[20:58:11] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5360690697335855
-[20:58:11] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7807337619800521
-[20:59:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.29801986638567257
-[20:59:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.778090943463468
-[20:59:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.26271400256625554
-[20:59:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7488557374267231
-[21:00:54] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49700225338767723
-[21:00:55] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9951414432565571
-[21:00:55] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.4908800825729713
-[21:00:55] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.7738656252834062
-[21:02:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3978452626993203
-[21:02:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8499668843710424
-[21:02:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3304622663645205
-[21:02:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8262875420546152
-[21:02:47] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.33041287857940915
-[21:03:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.34088580232196364
-[21:03:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7543525778510229
-[21:03:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0
-[21:03:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.25820168378652397
-[21:04:32] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4364225001067439
-[21:04:33] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9538233559419496
-[21:04:33] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.433067720131703
-[21:04:33] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8744343449568532
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.30093173784871396
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7918635669630021
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.2884772327411156
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.7934341790191866
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.507501447076038
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5101322066627745
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.023934829178188
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5122913251443606
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.512633542684398
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0258490550202168
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5071871284899316
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.505878339644596
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0133237776624355
-[21:04:48] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5048033126129212
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5034408790229463
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49975722016324653
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0001703739762888
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4979732777071604
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49778596548276255
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49402082735991826
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.48190293293941977
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.6403721023580147
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.35948697149888176
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49264232744485525
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4350216509646998
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.31912882052506575
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2659590607752307
-[21:04:49] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2523038365989123
-[21:05:34] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.30745613691675544
-[21:05:34] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.791020909973497
-[21:05:34] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.274639537072403
-[21:05:34] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.7582869803954964
-[21:06:10] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2741496527865479
-[21:06:10] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7630587019982045
-[21:06:10] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4368649551568069
-[21:06:10] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0
-[21:06:15] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.29054888539940293
-[21:06:15] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7841307016005885
-[21:06:15] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2784832854113688
-[21:06:15] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7726797896030462
-[21:07:40] [Async Chat Thread - #6/INFO]: <Zukey0304> ryan[m
-[21:07:41] [Async Chat Thread - #6/INFO]: <Zukey0304> sleep[m
-[21:07:45] [Async Chat Thread - #6/INFO]: <HeyItsJaviTV> pls[m
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3377513185406757
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8460198233834508
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.3361992005315275
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5003755154184535
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9974324891740539
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4786088032178848
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9655993735502302
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5068452864540185
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0175897070391038
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.45057242551133614
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4501003832508757
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4720876523556298
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49007608154014515
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5012830712889551
-[21:10:43] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0090407675233026
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5113303705276553
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0234651357673166
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.50980360190995
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0184751957581026
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5116324619106833
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0071392507552148
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.510407994447631
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.027193900950724
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5211581670087551
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0443707585729802
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5235685976175581
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0084012205605999
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49331429592687803
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9899441812742941
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4776976013422427
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4670684456937124
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4598102400041171
-[21:10:44] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9205943063511768
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.31876612158513606
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7338310524124076
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.2003725978027604
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3847563131530478
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.810140986975739
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5208635117866206
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5227716474112378
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49896776086381894
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9940814508386199
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5005810752568817
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0009849796261154
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5063074868149013
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0165960107815828
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5119450245083662
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5128737926458214
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5136552162694592
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0276226933385155
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5021578067477177
-[21:10:45] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0073762920918465
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.27165663132155066
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3962379348518558
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.30632161365883803
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7144776614472903
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.177123284579011
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.6434799008015943
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4856826137046973
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9802505150930746
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.502953524946324
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0052463136882877
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.514010204752693
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.0333221329886897
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5052560866248265
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4867603342073952
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4991071993160677
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9941170065626024
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.502221126951211
-[21:10:46] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7709496387737819
-[21:12:54] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.46677723190526876
-[21:12:54] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9519917517834529
-[21:12:54] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.4446196162509182
-[21:12:54] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.9412142136019384
-[21:15:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.29979989457342526
-[21:15:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7907273716728014
-[21:15:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.2867408404090384
-[21:15:16] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 1.7846774023405487
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3323926345192376
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8586683581997931
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3699724935413542
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8633379132693335
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.45543378337879403
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.40623184673313517
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3796176637820281
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.39771444208554385
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.44423330319659726
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4739725111644475
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.48440595583088
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4899886840516956
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4929758906146162
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4945742852883086
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4970438047107564
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8873498223797469
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49810419603727496
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.6795378394599538
-[21:15:21] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.602968373114436
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.559413395203137
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5205910554968796
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4832428528384298
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.45352358096442913
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4422122425917223
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4612924956236384
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9471975856458812
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.49237706742815135
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4875133146160806
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.48464077829521557
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4886296316658445
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.5004879684620391
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.4569985330722375
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3811786347564521
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.32450635985242116
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2971886335863019
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.2913604068544373
-[21:15:22] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3769666650887302
-[21:15:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.33602858059202845
-[21:15:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.8064076696559823
-[21:15:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.29050510726710854
-[21:15:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.7819765253138939
-[21:15:26] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.27739361327030565
-[21:15:27] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.43116986167297
-[21:15:27] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9265279856549569
-[21:15:27] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.42240783691249817
-[21:15:27] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.9174542886780728
-[21:16:08] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3497335559250447
-[21:16:08] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3500999046768807
-[21:16:08] [Server thread/WARN]: Horse (vehicle of HeyItsJaviTV) moved wrongly! 0.3500999046768807
-[21:19:59] [Server thread/INFO]: HeyItsJaviTV has made the advancement [Who is Cutting Onions?]
-[21:21:06] [Server thread/WARN]: Boat (vehicle of HeyItsJaviTV) moved wrongly! 0.3039713692796795
-[21:21:06] [Server thread/WARN]: Boat (vehicle of HeyItsJaviTV) moved wrongly! 0.5416638365386461
-[21:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[21:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6301ms or 126 ticks behind
-[21:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[21:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
-[21:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5493ms or 109 ticks behind
-[21:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
-[21:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11576ms or 231 ticks behind
-[21:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20861ms or 417 ticks behind
-[21:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
-[21:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7732ms or 154 ticks behind
-[21:35:55] [Server thread/WARN]: HeyItsJaviTV moved too quickly! -2.144722323779206,-6.11996086142706,21.244410353322564
-[21:35:58] [Server thread/WARN]: HeyItsJaviTV moved too quickly! 0.11443487876931613,-8.75186400140906,23.060371154293534
-[21:36:03] [Server thread/WARN]: HeyItsJaviTV moved too quickly! -3.8381442865120334,0.36809686001799946,13.663882091440428
-[21:36:10] [Server thread/WARN]: HeyItsJaviTV moved too quickly! -1.608844578384378,-1.7384533533667508,10.344044559114081
-[21:36:34] [Server thread/WARN]: HeyItsJaviTV moved too quickly! 0.44463978476323973,-0.4959870982234804,10.180440351538891
-[21:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40970ms or 819 ticks behind
-[21:37:07] [Server thread/WARN]: HeyItsJaviTV moved too quickly! 2.7009321284713224,2.0,11.202306946605859
-[21:37:14] [Server thread/WARN]: HeyItsJaviTV moved too quickly! -3.211147776291,-0.41999998688697815,9.502966450264466
-[21:37:26] [Server thread/WARN]: Zukey0304 moved too quickly! -10.010707302877051,0.7531999805212024,0.4723930160174632
-[21:37:31] [Server thread/WARN]: HeyItsJaviTV moved too quickly! 2.7633298290820676,3.6668000063657757,10.161232397943422
-[21:37:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27942ms or 558 ticks behind
-[21:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11019ms or 220 ticks behind
-[21:39:10] [Async Chat Thread - #7/INFO]: <HeyItsJaviTV> hold up[m
-[21:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26654ms or 533 ticks behind
-[21:41:59] [Server thread/INFO]: [Server] im gonna load the sleep plugin
-[21:42:16] [Async Chat Thread - #8/INFO]: <Zukey0304> so will the server crash[m
-[21:42:16] [Server thread/INFO]: [Server] so i gotta reset the server
-[21:42:23] [Async Chat Thread - #8/INFO]: <Zukey0304> can you give me one moment[m
-[21:42:30] [Server thread/INFO]: [Server] ok tell me when you're ready
-[21:44:12] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
-[21:44:13] [Server thread/INFO]: HeyItsJaviTV left the game
-[21:44:16] [Async Chat Thread - #9/INFO]: <Zukey0304> ready[m
-[21:44:20] [Async Chat Thread - #9/INFO]: <Zukey0304> im gonna log out[m
-[21:44:21] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[21:44:21] [Server thread/INFO]: Zukey0304 left the game
-[21:46:51] [Server thread/INFO]: Stopping the server
-[21:46:51] [Server thread/INFO]: Stopping server
-[21:46:51] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.0.4
-[21:46:52] [Server thread/INFO]: [SimpleHomes] SimpleHomes Disabled!
-[21:46:52] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v3.8
-[21:46:52] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
-[21:46:52] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 3.8[m
-[21:46:52] [Server thread/INFO]: Saving players
-[21:46:52] [Server thread/INFO]: rzt4097 lost connection: Server closed
-[21:46:52] [Server thread/INFO]: rzt4097 left the game
-[21:46:52] [Server thread/INFO]: Saving worlds
-[21:46:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:46:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:46:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:46:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:46:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:46:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:46:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:47:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:47:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:49] [User Authenticator #5/INFO]: UUID of player rzt4097 is 82564147-11c0-42f2-aab4-fb53380707b1
+[00:04:49] [Server thread/INFO]: rzt4097[/127.0.0.1:36244] logged in with entity id 20883 at ([world]-204.69999998807907, 64.0, 415.48750001192093)
+[00:05:06] [Server thread/INFO]: rzt4097 lost connection: Disconnected
+[00:05:06] [Server thread/INFO]: rzt4097 left the game
+[00:15:02] [Server thread/INFO]: Zukey0304 issued server command: /sethome
+[00:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15380ms or 307 ticks behind
+[00:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7369ms or 147 ticks behind
+[00:22:50] [Server thread/INFO]: TastySandvich_ has made the advancement [Those Were the Days]
+[00:24:33] [Server thread/INFO]: TastySandvich_ has made the advancement [Oh Shiny]
+[00:32:56] [Server thread/INFO]: Zukey0304 fell from a high place
+[00:33:02] [Server thread/INFO]: Zukey0304 issued server command: /back
+[00:34:47] [Server thread/INFO]: Zukey0304 issued server command: /sethome
+[00:34:50] [Server thread/INFO]: Zukey0304 issued server command: /home
+[00:35:59] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[00:35:59] [Server thread/INFO]: TastySandvich_ left the game
+[00:53:38] [Server thread/INFO]: Zukey0304 issued server command: /sethome mob
+[00:53:42] [Server thread/INFO]: Zukey0304 issued server command: /home
+[00:53:47] [Server thread/INFO]: Zukey0304 issued server command: /homelist
+[00:53:56] [Server thread/INFO]: Zukey0304 issued server command: /sethome
+[00:54:10] [Server thread/INFO]: Zukey0304 issued server command: /sethome zukey0304
+[00:54:20] [Server thread/INFO]: Zukey0304 issued server command: /sethome home
+[00:56:50] [Server thread/INFO]: Zukey0304 issued server command: /home
+[00:57:01] [Server thread/INFO]: Zukey0304 issued server command: /back
+[00:59:02] [Server thread/INFO]: Zukey0304 issued server command: /home
+[01:25:07] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
+[01:25:08] [Server thread/INFO]: Zukey0304 left the game
+[01:25:10] [User Authenticator #6/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
+[01:25:10] [Server thread/INFO]: Zukey0304[/127.0.0.1:36276] logged in with entity id 32568 at ([world]-204.38552467309924, 64.0, 149.8656869010473)
+[01:48:39] [User Authenticator #7/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[01:48:40] [Server thread/INFO]: TastySandvich_[/127.0.0.1:36290] logged in with entity id 35332 at ([world_nether]-592.1728339780368, 35.0, -416.39427798944706)
+[01:49:14] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[01:49:14] [Server thread/INFO]: TastySandvich_ left the game
+[01:54:09] [User Authenticator #8/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[01:54:09] [Server thread/INFO]: TastySandvich_[/127.0.0.1:36298] logged in with entity id 36148 at ([world_nether]-649.4064225979906, 36.0, -409.7110229766053)
+[01:55:17] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[02:00:32] [Server thread/INFO]: TastySandvich_ has made the advancement [War Pigs]
+[02:17:51] [Server thread/INFO]: TastySandvich_ was slain by Piglin
+[02:20:47] [Server thread/INFO]: Zukey0304 issued server command: /home
+[02:20:50] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[02:24:11] [Server thread/INFO]: TastySandvich_ was slain by Piglin
+[02:27:22] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[02:41:29] [Server thread/INFO]: Zukey0304 issued server command: /home
+[02:54:50] [Server thread/INFO]: Zukey0304 issued server command: /sethome
+[03:37:57] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[03:41:58] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[03:41:58] [Server thread/INFO]: TastySandvich_ left the game
+[03:42:10] [User Authenticator #9/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
+[03:42:11] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:36340] logged in with entity id 57308 at ([world]5826.418770264069, 92.0, 4479.332219566263)
+[04:17:27] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
+[04:17:27] [Server thread/INFO]: HeyItsJaviTV left the game
+[07:19:51] [Server thread/INFO]: Villager EntityVillager['Farmer'/551, l='ServerLevel[world]', x=-232.30, y=84.50, z=259.25] died, message: 'Farmer hit the ground too hard'
+[07:23:00] [Server thread/WARN]: Boat (vehicle of Zukey0304) moved wrongly! 0.3216580462028844

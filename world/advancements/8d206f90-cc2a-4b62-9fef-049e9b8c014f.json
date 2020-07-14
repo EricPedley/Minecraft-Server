@@ -665,6 +665,7 @@
       "minecraft:spider": "2020-06-04 05:57:59 +0000",
       "minecraft:creeper": "2020-06-04 05:19:35 +0000",
       "minecraft:phantom": "2020-06-05 23:03:03 +0000",
+      "minecraft:witch": "2020-07-14 03:20:44 +0000",
       "minecraft:wither_skeleton": "2020-06-04 23:45:03 +0000",
       "minecraft:cave_spider": "2020-06-04 22:12:07 +0000",
       "minecraft:piglin": "2020-07-13 05:44:30 +0000",
@@ -870,6 +871,12 @@
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2020-06-16 05:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-07-13 23:10:07 +0000"
     },
     "done": true
   },
@@ -1107,6 +1114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-07-13 22:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-06-04 05:32:28 +0000"
@@ -1179,6 +1192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-07-13 22:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-06-04 05:32:28 +0000"
@@ -1188,6 +1207,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-06-04 05:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-07-14 07:30:52 +0000"
     },
     "done": true
   },
@@ -1971,6 +1996,7 @@
       "apple": "2020-06-04 06:06:44 +0000",
       "potato": "2020-06-04 06:31:06 +0000",
       "cooked_cod": "2020-06-04 20:30:00 +0000",
+      "pumpkin_pie": "2020-07-14 07:25:44 +0000",
       "bread": "2020-06-04 05:41:47 +0000",
       "rotten_flesh": "2020-06-04 22:12:29 +0000",
       "suspicious_stew": "2020-06-05 21:32:19 +0000",
@@ -3114,6 +3140,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-06-04 21:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-07-13 23:11:09 +0000"
     },
     "done": true
   },
