@@ -1,0 +1,5 @@
+server.basics:
+	description: Default Permissions
+	default: true
+	children:
+		simplehomes.multihomes

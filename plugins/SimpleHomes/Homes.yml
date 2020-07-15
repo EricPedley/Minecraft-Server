@@ -4,6 +4,46 @@
     x: -187
     y: 72
     z: 908
+  villager:
+    world: world
+    x: -218
+    y: 79
+    z: 901
+  stronghold:
+    world: world
+    x: 148
+    y: 78
+    z: 2173
+  endportal:
+    world: world
+    x: 269
+    y: 33
+    z: 2463
+  desert:
+    world: world
+    x: -368
+    y: 67
+    z: -938
+  netherwild:
+    world: world_nether
+    x: -135
+    y: 46
+    z: -91
+  max:
+    world: world
+    x: -203
+    y: 74
+    z: 256
+  javi:
+    world: world
+    x: -310
+    y: 61
+    z: -885
+  skycastle:
+    world: world
+    x: -224
+    y: 113
+    z: 251
 82564147-11c0-42f2-aab4-fb53380707b1:
   default:
     world: world
@@ -13,6 +53,17 @@
 8d206f90-cc2a-4b62-9fef-049e9b8c014f:
   default:
     world: world
-    x: -199
-    y: 62
-    z: 149
+    x: -200
+    y: 74
+    z: 245
+  goldmine:
+    world: world_nether
+    x: 11
+    y: 248
+    z: -2
+f8a89800-1d7c-4182-8e78-20b7d48ae2c6:
+  default:
+    world: world
+    x: -311
+    y: 67
+    z: -885

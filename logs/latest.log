@@ -1,52 +1,362 @@
-[00:04:49] [User Authenticator #5/INFO]: UUID of player rzt4097 is 82564147-11c0-42f2-aab4-fb53380707b1
-[00:04:49] [Server thread/INFO]: rzt4097[/127.0.0.1:36244] logged in with entity id 20883 at ([world]-204.69999998807907, 64.0, 415.48750001192093)
-[00:05:06] [Server thread/INFO]: rzt4097 lost connection: Disconnected
-[00:05:06] [Server thread/INFO]: rzt4097 left the game
-[00:15:02] [Server thread/INFO]: Zukey0304 issued server command: /sethome
-[00:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15380ms or 307 ticks behind
-[00:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7369ms or 147 ticks behind
-[00:22:50] [Server thread/INFO]: TastySandvich_ has made the advancement [Those Were the Days]
-[00:24:33] [Server thread/INFO]: TastySandvich_ has made the advancement [Oh Shiny]
-[00:32:56] [Server thread/INFO]: Zukey0304 fell from a high place
-[00:33:02] [Server thread/INFO]: Zukey0304 issued server command: /back
-[00:34:47] [Server thread/INFO]: Zukey0304 issued server command: /sethome
-[00:34:50] [Server thread/INFO]: Zukey0304 issued server command: /home
-[00:35:59] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[00:35:59] [Server thread/INFO]: TastySandvich_ left the game
-[00:53:38] [Server thread/INFO]: Zukey0304 issued server command: /sethome mob
-[00:53:42] [Server thread/INFO]: Zukey0304 issued server command: /home
-[00:53:47] [Server thread/INFO]: Zukey0304 issued server command: /homelist
-[00:53:56] [Server thread/INFO]: Zukey0304 issued server command: /sethome
-[00:54:10] [Server thread/INFO]: Zukey0304 issued server command: /sethome zukey0304
-[00:54:20] [Server thread/INFO]: Zukey0304 issued server command: /sethome home
-[00:56:50] [Server thread/INFO]: Zukey0304 issued server command: /home
-[00:57:01] [Server thread/INFO]: Zukey0304 issued server command: /back
-[00:59:02] [Server thread/INFO]: Zukey0304 issued server command: /home
-[01:25:07] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[01:25:08] [Server thread/INFO]: Zukey0304 left the game
-[01:25:10] [User Authenticator #6/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[01:25:10] [Server thread/INFO]: Zukey0304[/127.0.0.1:36276] logged in with entity id 32568 at ([world]-204.38552467309924, 64.0, 149.8656869010473)
-[01:48:39] [User Authenticator #7/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[01:48:40] [Server thread/INFO]: TastySandvich_[/127.0.0.1:36290] logged in with entity id 35332 at ([world_nether]-592.1728339780368, 35.0, -416.39427798944706)
-[01:49:14] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[01:49:14] [Server thread/INFO]: TastySandvich_ left the game
-[01:54:09] [User Authenticator #8/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[01:54:09] [Server thread/INFO]: TastySandvich_[/127.0.0.1:36298] logged in with entity id 36148 at ([world_nether]-649.4064225979906, 36.0, -409.7110229766053)
-[01:55:17] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[02:00:32] [Server thread/INFO]: TastySandvich_ has made the advancement [War Pigs]
-[02:17:51] [Server thread/INFO]: TastySandvich_ was slain by Piglin
-[02:20:47] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:20:50] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[02:24:11] [Server thread/INFO]: TastySandvich_ was slain by Piglin
-[02:27:22] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[02:41:29] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:54:50] [Server thread/INFO]: Zukey0304 issued server command: /sethome
-[03:37:57] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:41:58] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[03:41:58] [Server thread/INFO]: TastySandvich_ left the game
-[03:42:10] [User Authenticator #9/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
-[03:42:11] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:36340] logged in with entity id 57308 at ([world]5826.418770264069, 92.0, 4479.332219566263)
-[04:17:27] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
-[04:17:27] [Server thread/INFO]: HeyItsJaviTV left the game
-[07:19:51] [Server thread/INFO]: Villager EntityVillager['Farmer'/551, l='ServerLevel[world]', x=-232.30, y=84.50, z=259.25] died, message: 'Farmer hit the ground too hard'
-[07:23:00] [Server thread/WARN]: Boat (vehicle of Zukey0304) moved wrongly! 0.3216580462028844
+[00:00:37] [Server thread/INFO]: Zukey0304 issued server command: /tpa hey
+[00:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9005ms or 180 ticks behind
+[00:00:45] [Server thread/INFO]: Zukey0304 issued server command: /tpa hey
+[00:00:45] [Server thread/WARN]: TastySandvich_ moved too quickly! -3.8678991094987794,3.5,-8.60226408710173
+[00:00:54] [Server thread/INFO]: Zukey0304 issued server command: /tpa hey
+[00:13:42] [Server thread/INFO]: Zukey0304 fell from a high place
+[00:13:47] [Server thread/INFO]: Zukey0304 issued server command: /back
+[00:15:53] [Server thread/INFO]: Zukey0304 issued server command: /home
+[00:17:21] [Server thread/INFO]: Zukey0304 issued server command: /tpa h
+[00:17:34] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpaccept
+[00:17:45] [Server thread/INFO]: Zukey0304 issued server command: /tpa h
+[00:17:49] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpaccept
+[01:05:26] [Server thread/INFO]: Zukey0304 issued server command: /home
+[01:06:43] [Server thread/INFO]: Zukey0304 issued server command: /home
+[01:09:31] [Server thread/WARN]: HeyItsJaviTV moved too quickly! -9.616870201727053,2.1661092609382138,-2.1905944142097766
+[01:12:23] [Server thread/INFO]: Zukey0304 issued server command: /home
+[01:14:56] [Server thread/INFO]: HeyItsJaviTV issued server command: /sethome
+[01:17:30] [Server thread/INFO]: HeyItsJaviTV issued server command: /spscancel
+[01:17:30] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] HeyItsJaviTV has never slept before.
+[01:17:38] [Async Chat Thread - #3/INFO]: <HeyItsJaviTV> lets all sleep together[m
+[01:17:54] [Async Chat Thread - #3/INFO]: <HeyItsJaviTV> go[m
+[01:17:59] [Async Chat Thread - #3/INFO]: <TastySandvich_> its on a cooldown[m
+[01:22:41] [Server thread/INFO]: HeyItsJaviTV has made the advancement [Hidden in the Depths]
+[01:37:21] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[01:37:21] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/6549, l='ServerLevel[world]', x=-310.70, y=67.00, z=-884.70](HeyItsJaviTV at -310.69999998807907,67.0,-884.6999999880791) left loaded chunk area
+[01:37:59] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa Zukey0304
+[01:38:05] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[01:39:47] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa Zukey0304
+[01:39:53] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[02:09:35] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[02:09:35] [Server thread/INFO]: TastySandvich_ left the game
+[02:51:09] [User Authenticator #9/INFO]: UUID of player maxrob276 is acb00057-900c-42c6-88fb-dc3f7ecdc85e
+[02:51:10] [Server thread/INFO]: maxrob276[/127.0.0.1:36822] logged in with entity id 82390 at ([world]-195.29258421110472, 74.0, 243.39171011566486)
+[02:52:23] [Server thread/INFO]: Zukey0304 was squished too much
+[02:52:31] [Server thread/INFO]: Zukey0304 issued server command: /home
+[02:52:33] [Server thread/INFO]: Zukey0304 issued server command: /back
+[02:52:34] [Server thread/INFO]: Zukey0304 issued server command: /home
+[02:52:38] [Server thread/INFO]: Zukey0304 issued server command: /back
+[02:54:37] [Server thread/INFO]: Zukey0304 issued server command: /home
+[02:55:34] [Server thread/INFO]: Zukey0304 issued server command: /tpa ma
+[02:55:38] [Server thread/INFO]: maxrob276 issued server command: /tpaccept
+[02:55:42] [Server thread/INFO]: maxrob276 issued server command: /tpaccept
+[03:00:19] [Async Chat Thread - #4/INFO]: <HeyItsJaviTV> uh[m
+[03:00:24] [Async Chat Thread - #4/INFO]: <HeyItsJaviTV> how did u dide[m
+[03:00:58] [Server thread/INFO]: maxrob276 issued server command: /tpa Zukey0304
+[03:01:05] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[03:12:28] [Server thread/INFO]: Zukey0304 issued server command: /home
+[03:14:59] [Server thread/INFO]: Zukey0304 issued server command: /tpa ma
+[03:15:20] [Server thread/INFO]: Zukey0304 issued server command: /tpa ma
+[03:15:28] [Server thread/INFO]: maxrob276 issued server command: /tpaccept
+[03:16:37] [User Authenticator #10/INFO]: UUID of player HailPhyrexia is 8dcabf4a-3833-4537-a56a-b91294489c12
+[03:16:37] [Server thread/INFO]: HailPhyrexia[/127.0.0.1:36832] logged in with entity id 84283 at ([world]-348.5, 59.0000002, -907.5)
+[03:16:54] [Server thread/INFO]: Zukey0304 issued server command: /home
+[03:17:10] [Server thread/INFO]: Zukey0304 issued server command: /tpa z
+[03:17:16] [Server thread/INFO]: Zukey0304 issued server command: /tpa m
+[03:18:05] [User Authenticator #11/INFO]: UUID of player YeetTheMeat69 is 60c03d3c-30b9-4785-8eb6-29a3cec1254c
+[03:18:05] [Server thread/INFO]: YeetTheMeat69[/127.0.0.1:36836] logged in with entity id 84884 at ([world]-268.1214671261729, 72.0, 469.43113228822455)
+[03:18:10] [Server thread/INFO]: Zukey0304 issued server command: /tpa m
+[03:18:19] [Server thread/INFO]: Zukey0304 issued server command: /tpa m
+[03:18:25] [Server thread/INFO]: HailPhyrexia issued server command: /tpr YeetTheMeat69
+[03:18:25] [Server thread/INFO]: Zukey0304 issued server command: /tpa m
+[03:18:28] [Server thread/INFO]: YeetTheMeat69 issued server command: /tpaccept
+[03:18:30] [Server thread/INFO]: Zukey0304 issued server command: /tpa he
+[03:18:36] [Server thread/INFO]: HailPhyrexia issued server command: /tpr YeetTheMeat69
+[03:18:36] [Server thread/INFO]: Zukey0304 issued server command: /tpa he
+[03:18:38] [Server thread/INFO]: YeetTheMeat69 issued server command: /tpaccept
+[03:18:50] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpaccept
+[03:19:11] [Server thread/INFO]: YeetTheMeat69 was blown up by HailPhyrexia
+[03:19:12] [Async Chat Thread - #5/INFO]: <HeyItsJaviTV> still not at my keyboard[m
+[03:19:40] [Async Chat Thread - #5/INFO]: <HeyItsJaviTV> wtf was that jack[m
+[03:19:48] [Async Chat Thread - #5/INFO]: <YeetTheMeat69> he nuked my house[m
+[03:19:53] [Async Chat Thread - #5/INFO]: <YeetTheMeat69> which is also his dick[m
+[03:19:55] [Async Chat Thread - #5/INFO]: <HeyItsJaviTV> why[m
+[03:19:56] [Async Chat Thread - #5/INFO]: <YeetTheMeat69> but[m
+[03:24:08] [Async Chat Thread - #6/INFO]: <YeetTheMeat69> did you read the damn signs[m
+[03:24:55] [Server thread/INFO]: YeetTheMeat69 lost connection: Disconnected
+[03:24:55] [Server thread/INFO]: YeetTheMeat69 left the game
+[03:24:56] [Server thread/INFO]: maxrob276 issued server command: /back
+[03:25:26] [Async Chat Thread - #7/INFO]: <HeyItsJaviTV> is this in the middle of 4 chunks?[m
+[03:26:08] [Server thread/INFO]: HailPhyrexia lost connection: Disconnected
+[03:26:08] [Server thread/INFO]: HailPhyrexia left the game
+[03:29:13] [User Authenticator #12/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[03:29:13] [Server thread/INFO]: TastySandvich_[/127.0.0.1:36848] logged in with entity id 88377 at ([world]-193.5946446272921, 77.0, 886.1704279666611)
+[03:31:42] [Server thread/INFO]: Zukey0304 issued server command: /tpa ma
+[03:31:51] [Server thread/INFO]: TastySandvich_ issued server command: /sethome desert
+[03:31:52] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[03:31:52] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[03:32:11] [Server thread/INFO]: Zukey0304 issued server command: /tpa hey
+[03:32:32] [Server thread/INFO]: Zukey0304 issued server command: /tpa ta
+[03:32:37] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[03:32:59] [Server thread/INFO]: Zukey0304 issued server command: /back
+[03:34:04] [Server thread/INFO]: Zukey0304 issued server command: /home
+[03:34:45] [Server thread/INFO]: TastySandvich_ issued server command: /home desert
+[03:34:45] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-367.30, y=67.00, z=-937.50](TastySandvich_ at -367.30000001192093,67.0,-937.498420773352) left loaded chunk area
+[03:36:13] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[03:36:13] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[03:37:09] [Server thread/INFO]: maxrob276 issued server command: /tpa zukey0304
+[03:37:22] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[03:39:31] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[03:40:00] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpaccept
+[03:40:18] [Server thread/INFO]: maxrob276 issued server command: /tpa zukey0304
+[03:40:26] [Server thread/INFO]: Zukey0304 issued server command: /tpa
+[03:40:29] [Server thread/INFO]: Zukey0304 issued server command: /tpac
+[03:40:32] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[03:41:28] [Server thread/INFO]: maxrob276 issued server command: /tpa zukey0304
+[03:41:30] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[03:41:50] [Server thread/INFO]: maxrob276 issued server command: /back
+[03:42:30] [Server thread/INFO]: maxrob276 issued server command: /tpa zukey0304
+[03:42:32] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[03:44:21] [Server thread/INFO]: Zukey0304 issued server command: /home
+[03:49:15] [Server thread/INFO]: Zukey0304 issued server command: /tpa ma
+[03:49:38] [Server thread/INFO]: maxrob276 issued server command: /tpaccept
+[03:49:43] [Server thread/INFO]: TastySandvich_ issued server command: /home desert
+[03:49:43] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-367.30, y=67.00, z=-937.50](TastySandvich_ at -367.30000001192093,67.0,-937.498420773352) left loaded chunk area
+[03:50:05] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[03:50:05] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[03:50:53] [Server thread/INFO]: Zukey0304 issued server command: /tpa ma
+[03:51:00] [Server thread/INFO]: maxrob276 issued server command: /tpaccept
+[03:52:50] [Server thread/INFO]: maxrob276 lost connection: Disconnected
+[03:52:50] [Server thread/INFO]: maxrob276 left the game
+[03:54:55] [Server thread/INFO]: Zukey0304 was squished too much
+[03:55:03] [Server thread/INFO]: Zukey0304 issued server command: /home
+[03:55:05] [Server thread/INFO]: Zukey0304 issued server command: /back
+[03:55:10] [Server thread/INFO]: Zukey0304 issued server command: /home
+[03:56:20] [Server thread/INFO]: Zukey0304 hit the ground too hard
+[03:56:22] [Async Chat Thread - #8/INFO]: <HeyItsJaviTV> how did i not die[m
+[03:56:25] [Server thread/INFO]: Zukey0304 issued server command: /back
+[03:56:31] [Server thread/INFO]: Zukey0304 issued server command: /home
+[03:56:34] [Server thread/INFO]: Zukey0304 issued server command: /back
+[03:56:36] [Server thread/INFO]: Zukey0304 issued server command: /tpa hey
+[03:56:40] [Async Chat Thread - #8/INFO]: <Zukey0304> pls[m
+[03:57:05] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpaccept
+[03:57:08] [Async Chat Thread - #8/INFO]: <HeyItsJaviTV> there'[m
+[03:57:30] [Async Chat Thread - #8/INFO]: <HeyItsJaviTV> tpa to me[m
+[03:57:41] [Server thread/INFO]: Zukey0304 issued server command: /tpa hey
+[03:57:48] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpaccept
+[03:58:16] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[03:58:16] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[03:59:24] [Async Chat Thread - #9/INFO]: <Zukey0304> yo[m
+[04:00:01] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> yeah?[m
+[04:00:07] [Async Chat Thread - #9/INFO]: <Zukey0304> wassup[m
+[04:00:12] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> wassup[m
+[04:00:24] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> perks of having a wirelss keyboard[m
+[04:00:30] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> i dont havew to be gaming[m
+[04:01:02] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> whats been going on[m
+[04:01:20] [Async Chat Thread - #9/INFO]: <Zukey0304> nothing[m
+[04:01:34] [Async Chat Thread - #9/INFO]: <Zukey0304> farm isnt working for some reason[m
+[04:01:35] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> burh didnt jack blow up a baxde[m
+[04:01:37] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> base[m
+[04:01:42] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> how is it not[m
+[04:01:53] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> was working when u and i were standing there[m
+[04:01:57] [Async Chat Thread - #9/INFO]: <Zukey0304> ya[m
+[04:02:01] [Async Chat Thread - #9/INFO]: <Zukey0304> its not rn tho[m
+[04:02:04] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> has a tendency to turn off[m
+[04:02:06] [Async Chat Thread - #9/INFO]: <Zukey0304> nothing is spawwning[m
+[04:02:12] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> oh[m
+[04:02:13] [Async Chat Thread - #9/INFO]: <Zukey0304> it shouldnt[m
+[04:02:21] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> is any1 up there[m
+[04:02:27] [Async Chat Thread - #9/INFO]: <Zukey0304> ne[m
+[04:02:29] [Async Chat Thread - #9/INFO]: <Zukey0304> me[m
+[04:02:36] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> probably cause im down here[m
+[04:02:44] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> loading these chunksd[m
+[04:03:03] [Async Chat Thread - #9/INFO]: <Zukey0304> well can you come back[m
+[04:03:20] [Async Chat Thread - #9/INFO]: <Zukey0304> how many levels you got[m
+[04:03:44] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> open trapdoor[m
+[04:03:57] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> 82 levle[m
+[04:04:20] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> there we go[m
+[04:04:29] [Async Chat Thread - #9/INFO]: <Zukey0304> now it works[m
+[04:04:40] [Async Chat Thread - #9/INFO]: <Zukey0304> ty ty[m
+[04:04:46] [Async Chat Thread - #9/INFO]: <Zukey0304> shouldnt ever turn off now[m
+[04:04:51] [Async Chat Thread - #9/INFO]: <Zukey0304> unless we leave[m
+[04:04:51] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> yeah[m
+[04:04:56] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> hows the sorter[m
+[04:05:03] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> also how many levels do u have[m
+[04:05:08] [Async Chat Thread - #9/INFO]: <Zukey0304> max says it works but it breaks soemtimes[m
+[04:05:10] [Async Chat Thread - #9/INFO]: <Zukey0304> i died[m
+[04:05:14] [Async Chat Thread - #9/INFO]: <Zukey0304> i had 30[m
+[04:05:15] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> rip[m
+[04:05:20] [Async Chat Thread - #9/INFO]: <HeyItsJaviTV> 83 now[m
+[04:06:31] [Async Chat Thread - #10/INFO]: <Zukey0304> turned off for some reason[m
+[04:06:54] [Async Chat Thread - #10/INFO]: <Zukey0304> im gonna expand it[m
+[04:09:25] [Async Chat Thread - #11/INFO]: <Zukey0304> what are ytou doing[m
+[04:09:31] [Async Chat Thread - #11/INFO]: <Zukey0304> stop[m
+[04:09:33] [Async Chat Thread - #11/INFO]: <Zukey0304> pls[m
+[04:10:02] [Async Chat Thread - #11/INFO]: <HeyItsJaviTV> why[m
+[04:10:15] [Async Chat Thread - #11/INFO]: <Zukey0304> those keep agro[m
+[04:10:19] [Async Chat Thread - #11/INFO]: <Zukey0304> they are named[m
+[04:10:29] [Async Chat Thread - #11/INFO]: <HeyItsJaviTV> SHIT[m
+[04:10:30] [Async Chat Thread - #11/INFO]: <HeyItsJaviTV> sorry[m
+[04:10:32] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[04:10:51] [Async Chat Thread - #11/INFO]: <Zukey0304> its ok[m
+[04:10:59] [Async Chat Thread - #11/INFO]: <Zukey0304> just gotta name them again[m
+[04:11:32] [Async Chat Thread - #11/INFO]: <Zukey0304> can you shoot one of the none island ones[m
+[04:11:45] [Async Chat Thread - #11/INFO]: <HeyItsJaviTV> like that[m
+[04:11:48] [Async Chat Thread - #11/INFO]: <HeyItsJaviTV> ?[m
+[04:11:50] [Async Chat Thread - #11/INFO]: <Zukey0304> ye[m
+[04:16:32] [Async Chat Thread - #12/INFO]: <HeyItsJaviTV> should i shoot one[m
+[04:16:41] [Async Chat Thread - #12/INFO]: <Zukey0304> not rn[m
+[04:16:46] [Async Chat Thread - #12/INFO]: <HeyItsJaviTV> k[m
+[04:16:51] [Async Chat Thread - #12/INFO]: <Zukey0304> acyually sure[m
+[04:16:59] [Async Chat Thread - #12/INFO]: <Zukey0304> just dont hit the one on the floating block[m
+[04:17:40] [Async Chat Thread - #12/INFO]: <Zukey0304> snowballs in the chest if thats easier[m
+[04:17:50] [Async Chat Thread - #12/INFO]: <HeyItsJaviTV> is it gonna be magma roof as well[m
+[04:17:59] [Async Chat Thread - #12/INFO]: <Zukey0304> yes[m
+[04:18:05] [Async Chat Thread - #12/INFO]: <HeyItsJaviTV> shii[m
+[04:18:08] [Async Chat Thread - #12/INFO]: <Zukey0304> then one more but with the slabs[m
+[04:19:39] [Async Chat Thread - #13/INFO]: <Zukey0304> shoot them[m
+[04:25:21] [Async Chat Thread - #14/INFO]: <Zukey0304> javi[m
+[04:25:27] [Async Chat Thread - #14/INFO]: <Zukey0304> check the chest[m
+[04:25:30] [Async Chat Thread - #14/INFO]: <Zukey0304> pls[m
+[04:25:42] [Async Chat Thread - #14/INFO]: <Zukey0304> see if there is any swords and stuff in em[m
+[04:27:49] [Async Chat Thread - #15/INFO]: <HeyItsJaviTV> ok[m
+[04:28:56] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> checked[m
+[04:29:02] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> saw 1 in 1 chest[m
+[04:29:07] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> not in smelter[m
+[04:29:10] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> it should be fine[m
+[04:29:13] [Async Chat Thread - #16/INFO]: <Zukey0304> check the hopper?[m
+[04:29:19] [Async Chat Thread - #16/INFO]: <Zukey0304> real quick[m
+[04:29:53] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> yeah[m
+[04:29:55] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> was 1[m
+[04:30:01] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> idk if w eshoukld autosmelt[m
+[04:30:02] [Async Chat Thread - #16/INFO]: <Zukey0304> in the hopper[m
+[04:30:09] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> thyey sometimes drop enchanted[m
+[04:30:09] [Async Chat Thread - #16/INFO]: <Zukey0304> why not[m
+[04:30:15] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> we chould grindstonethat[m
+[04:30:21] [Async Chat Thread - #16/INFO]: <Zukey0304> you want an enchanted gold sword?[m
+[04:30:26] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> to grindstone[m
+[04:30:30] [Async Chat Thread - #16/INFO]: <Zukey0304> wdym[m
+[04:30:35] [Async Chat Thread - #16/INFO]: <Zukey0304> for levelks?[m
+[04:30:37] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> put it in gives exp and unenchants the item[m
+[04:31:00] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> is it possibkle to sort enchanted and non enchanted[m
+[04:31:04] [Async Chat Thread - #16/INFO]: <Zukey0304> idk[m
+[04:31:10] [Async Chat Thread - #16/INFO]: <Zukey0304> but what level are you[m
+[04:31:15] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> 95[m
+[04:31:19] [Async Chat Thread - #16/INFO]: <HeyItsJaviTV> kinda gaming rn[m
+[04:32:35] [Async Chat Thread - #17/INFO]: <HeyItsJaviTV> afk bbs[m
+[04:37:43] [Async Chat Thread - #18/INFO]: <HeyItsJaviTV> need mending book for shield[m
+[04:37:46] [Async Chat Thread - #18/INFO]: <HeyItsJaviTV> also unbreraking[m
+[04:44:47] [Server thread/INFO]: Zukey0304 issued server command: /tpa ta
+[04:44:53] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[04:45:01] [Server thread/INFO]: Zukey0304 issued server command: /home
+[04:45:16] [Server thread/INFO]: TastySandvich_ issued server command: /give TastySandvich_ quar
+[04:45:22] [Server thread/INFO]: TastySandvich_ issued server command: /give TastySandvich_ minecraft:quartz_block 64
+[04:45:22] [Server thread/INFO]: [TastySandvich_: Gave 64 [Block of Quartz] to TastySandvich_]
+[04:46:31] [Server thread/INFO]: Zukey0304 issued server command: /back
+[04:51:34] [Server thread/INFO]: TastySandvich_ issued server command: /sethome netherwild
+[04:51:35] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[05:00:27] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:09:16] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:09:16] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/6549, l='ServerLevel[world]', x=-310.70, y=67.00, z=-884.70](HeyItsJaviTV at -310.69999998807907,67.0,-884.6999999880791) left loaded chunk area
+[05:09:34] [Server thread/INFO]: TastySandvich_ issued server command: /sethome max
+[05:09:44] [Server thread/INFO]: HeyItsJaviTV issued server command: /back
+[05:09:47] [Server thread/INFO]: HeyItsJaviTV issued server command: /back
+[05:10:08] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:10:16] [Server thread/INFO]: TastySandvich_ issued server command: /sethome javi
+[05:10:37] [Server thread/INFO]: TastySandvich_ issued server command: /home max
+[05:10:37] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-202.66, y=74.00, z=256.73](TastySandvich_ at -202.65587005947094,74.0,256.72666562076233) left loaded chunk area
+[05:10:57] [Server thread/INFO]: TastySandvich_ issued server command: /home jav
+[05:10:59] [Server thread/INFO]: TastySandvich_ issued server command: /home havi
+[05:11:02] [Server thread/INFO]: TastySandvich_ issued server command: /home javi
+[05:11:19] [Server thread/INFO]: TastySandvich_ issued server command: /home max
+[05:11:19] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-202.66, y=74.00, z=256.73](TastySandvich_ at -202.65587005947094,74.0,256.72666562076233) left loaded chunk area
+[05:11:37] [Server thread/INFO]: Zukey0304 issued server command: /sethome goldmine
+[05:11:42] [Server thread/INFO]: Zukey0304 issued server command: /homeli
+[05:11:45] [Server thread/INFO]: Zukey0304 issued server command: /homelist
+[05:12:22] [Server thread/INFO]: HeyItsJaviTV issued server command: /sethome zohouse
+[05:12:30] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:12:39] [Server thread/INFO]: TastySandvich_ issued server command: /sethome skycastle
+[05:12:40] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[05:12:40] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[05:12:46] [Server thread/INFO]: HeyItsJaviTV issued server command: /homer
+[05:12:46] [Server thread/INFO]: Zukey0304 issued server command: /homelisyt
+[05:12:49] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:12:50] [Server thread/INFO]: Zukey0304 issued server command: /homelist
+[05:12:53] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:12:57] [Server thread/INFO]: HeyItsJaviTV issued server command: /home HeyItsJaviTV
+[05:13:01] [Server thread/INFO]: HeyItsJaviTV issued server command: /home Zukey0304
+[05:13:27] [Server thread/INFO]: HeyItsJaviTV issued server command: /homelist HeyItsJaviTV
+[05:13:44] [Server thread/INFO]: TastySandvich_ issued server command: /op Zukey0304
+[05:13:44] [Server thread/INFO]: [TastySandvich_: Made Zukey0304 a server operator]
+[05:13:52] [Server thread/INFO]: Zukey0304 issued server command: /sethome goldmine
+[05:13:56] [Server thread/INFO]: Zukey0304 issued server command: /homelist
+[05:14:07] [Server thread/INFO]: TastySandvich_ issued server command: /deop z
+[05:14:09] [Server thread/INFO]: HeyItsJaviTV issued server command: /sethome
+[05:14:10] [Server thread/INFO]: TastySandvich_ issued server command: /deop Zukey0304
+[05:14:10] [Server thread/INFO]: [TastySandvich_: Made Zukey0304 no longer a server operator]
+[05:14:17] [Server thread/INFO]: Zukey0304 issued server command: /home
+[05:14:37] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa Zukey0304
+[05:14:41] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[05:15:20] [Server thread/INFO]: HeyItsJaviTV was squished too much
+[05:15:26] [Server thread/INFO]: HeyItsJaviTV issued server command: /back
+[05:15:27] [Server thread/INFO]: HeyItsJaviTV was squished too much
+[05:15:35] [Server thread/INFO]: HeyItsJaviTV issued server command: /back
+[05:15:36] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:15:50] [Server thread/INFO]: Zukey0304 issued server command: /home goldmine
+[05:15:51] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa HeyItsJaviTV
+[05:16:23] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa
+[05:16:27] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa HeyItsJaviTV
+[05:16:45] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[05:16:52] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa Zukey0304
+[05:16:53] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[05:24:56] [Server thread/INFO]: TastySandvich_ issued server command: /home skycastle
+[05:24:56] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-223.39, y=113.00, z=251.48](TastySandvich_ at -223.38986531183764,113.0,251.47886698342518) left loaded chunk area
+[05:25:23] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[05:25:23] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[05:29:58] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[05:32:34] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpa Zukey0304
+[05:32:38] [Server thread/INFO]: Zukey0304 issued server command: /tpaccept
+[05:33:13] [Server thread/INFO]: HeyItsJaviTV issued server command: /back
+[05:36:25] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
+[05:36:25] [Server thread/INFO]: HeyItsJaviTV left the game
+[05:38:23] [Server thread/INFO]: TastySandvich_ issued server command: /home skycastle
+[05:38:24] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-223.39, y=113.00, z=251.48](TastySandvich_ at -223.38986531183764,113.0,251.47886698342518) left loaded chunk area
+[05:38:51] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[05:38:51] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[05:39:02] [Server thread/INFO]: TastySandvich_ issued server command: /home skycastle
+[05:39:02] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/88377, l='ServerLevel[world]', x=-223.39, y=113.00, z=251.48](TastySandvich_ at -223.38986531183764,113.0,251.47886698342518) left loaded chunk area
+[05:39:56] [Server thread/INFO]: TastySandvich_ issued server command: /home netherwild
+[05:41:04] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[05:41:18] [Server thread/INFO]: TastySandvich_ issued server command: /home netherwild
+[05:45:23] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
+[05:45:24] [Server thread/INFO]: Zukey0304 left the game
+[05:45:44] [User Authenticator #13/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
+[05:45:44] [Server thread/INFO]: Zukey0304[/127.0.0.1:36906] logged in with entity id 129913 at ([world_nether]14.543591696296136, 243.0, -4.441344425919304)
+[05:48:34] [Server thread/INFO]: Zukey0304 issued server command: /home goldmine
+[05:49:36] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[05:50:28] [Server thread/INFO]: TastySandvich_ issued server command: /give TastySandvich_ minecraft:quartz_block 172
+[05:50:28] [Server thread/INFO]: [TastySandvich_: Gave 172 [Block of Quartz] to TastySandvich_]
+[05:53:13] [Server thread/INFO]: Zukey0304 issued server command: /sethome
+[05:53:15] [Server thread/INFO]: Zukey0304 issued server command: /home
+[05:53:17] [Server thread/INFO]: Zukey0304 issued server command: /home goldmine
+[05:53:20] [Server thread/INFO]: Zukey0304 issued server command: /home goldmine
+[07:03:49] [Server thread/INFO]: Zukey0304 was slain by Zombified Piglin
+[07:03:54] [Server thread/INFO]: Zukey0304 issued server command: /back
+[07:04:09] [Server thread/INFO]: Zukey0304 was slain by Zombified Piglin
+[07:04:13] [Server thread/INFO]: Zukey0304 issued server command: /back
+[07:31:53] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:31:53] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:32:38] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:32:38] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:33:46] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:33:46] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:34:30] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:34:30] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:34:39] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:34:39] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:34:51] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:34:51] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:38:57] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:38:57] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:39:07] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:39:07] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:39:10] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:39:10] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:41:46] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:41:46] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:45:02] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:45:02] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:45:23] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:45:23] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:45:51] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[07:45:51] [Server thread/INFO]: TastySandvich_ left the game

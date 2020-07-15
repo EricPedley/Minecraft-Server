@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-07-15 02:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-06-04 05:18:37 +0000"
@@ -2003,6 +2009,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-06-04 05:25:58 +0000",
+      "chicken": "2020-07-15 03:28:16 +0000",
       "cooked_mutton": "2020-06-04 05:20:48 +0000",
       "sweet_berries": "2020-06-05 23:01:30 +0000",
       "cooked_beef": "2020-06-04 05:34:04 +0000",
