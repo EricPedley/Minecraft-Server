@@ -1570,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-07-16 05:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-06-07 00:16:25 +0000"
@@ -2011,6 +2017,7 @@
       "cooked_cod": "2020-06-04 20:30:00 +0000",
       "pumpkin_pie": "2020-07-14 07:25:44 +0000",
       "bread": "2020-06-04 05:41:47 +0000",
+      "golden_apple": "2020-07-17 00:29:42 +0000",
       "rotten_flesh": "2020-06-04 22:12:29 +0000",
       "suspicious_stew": "2020-06-05 21:32:19 +0000",
       "golden_carrot": "2020-06-05 23:24:06 +0000",
@@ -2517,6 +2524,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-06-04 05:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-07-17 00:14:33 +0000"
     },
     "done": true
   },
@@ -3039,6 +3052,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2020-07-13 05:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-07-15 19:39:47 +0000"
     },
     "done": true
   },

@@ -56,14 +56,29 @@
     x: -200
     y: 74
     z: 245
-  goldmine:
+  castle:
+    world: world
+    x: -236
+    y: 113
+    z: 263
+  gold:
     world: world_nether
-    x: 11
-    y: 248
-    z: -2
+    x: 14
+    y: 243
+    z: -5
 f8a89800-1d7c-4182-8e78-20b7d48ae2c6:
   default:
     world: world
-    x: -311
-    y: 67
-    z: -885
+    x: -307
+    y: 57
+    z: -887
+  goldfarm:
+    world: world_nether
+    x: 14
+    y: 248
+    z: -6
+  zohouse:
+    world: world
+    x: -202
+    y: 74
+    z: 241
