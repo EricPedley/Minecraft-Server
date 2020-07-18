@@ -581,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2020-07-18 06:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2020-07-13 03:56:34 +0000"
@@ -700,6 +706,7 @@
       "minecraft:creeper": "2020-06-05 07:16:28 +0000",
       "minecraft:slime": "2020-06-17 03:21:23 +0000",
       "minecraft:zombified_piglin": "2020-06-09 07:48:28 +0000",
+      "minecraft:witch": "2020-07-18 06:44:42 +0000",
       "minecraft:wither_skeleton": "2020-07-14 22:37:59 +0000",
       "minecraft:cave_spider": "2020-06-06 01:59:09 +0000",
       "minecraft:piglin": "2020-07-14 00:13:39 +0000",
@@ -800,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-07-18 06:47:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2020-06-05 07:28:11 +0000"
@@ -893,6 +906,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-13 03:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-07-18 06:42:58 +0000"
     },
     "done": true
   },
@@ -1214,6 +1233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-07-18 06:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-06-06 04:19:59 +0000"
@@ -1450,9 +1475,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-07-18 05:46:43 +0000",
       "minecraft:forest": "2020-06-05 06:47:09 +0000",
       "minecraft:mountains": "2020-06-05 06:47:45 +0000",
+      "minecraft:deep_cold_ocean": "2020-07-18 05:46:42 +0000",
       "minecraft:desert": "2020-06-10 07:17:29 +0000",
+      "minecraft:beach": "2020-07-18 05:46:25 +0000",
       "minecraft:dark_forest": "2020-06-05 07:22:38 +0000",
       "minecraft:river": "2020-06-05 06:56:15 +0000",
       "minecraft:wooded_mountains": "2020-06-05 07:02:54 +0000",
@@ -1625,6 +1653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2020-07-18 06:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-06-06 01:17:18 +0000"
@@ -1670,6 +1704,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2020-06-08 03:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-07-18 06:42:58 +0000"
     },
     "done": true
   },
@@ -2087,11 +2127,14 @@
       "porkchop": "2020-07-14 00:25:46 +0000",
       "apple": "2020-06-13 05:32:44 +0000",
       "pumpkin_pie": "2020-07-15 00:22:29 +0000",
+      "mutton": "2020-07-18 06:20:26 +0000",
       "bread": "2020-06-06 07:37:42 +0000",
       "rotten_flesh": "2020-06-05 07:28:18 +0000",
       "cookie": "2020-07-13 05:26:33 +0000",
+      "dried_kelp": "2020-07-18 06:56:59 +0000",
       "melon_slice": "2020-06-13 05:52:48 +0000",
       "golden_carrot": "2020-06-17 03:02:20 +0000",
+      "cod": "2020-07-18 06:54:10 +0000",
       "cooked_salmon": "2020-06-05 07:58:31 +0000",
       "carrot": "2020-06-06 04:19:17 +0000"
     },
@@ -2112,6 +2155,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-07-13 03:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-07-18 06:42:58 +0000"
     },
     "done": true
   },
@@ -2285,7 +2334,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2020-07-13 04:12:45 +0000"
+      "minecraft:sheep": "2020-07-13 04:12:45 +0000",
+      "minecraft:cow": "2020-07-18 06:34:28 +0000"
     },
     "done": false
   },
@@ -2550,6 +2600,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-06-08 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-07-18 06:44:43 +0000"
     },
     "done": true
   },

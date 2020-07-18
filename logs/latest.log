@@ -1,109 +1,274 @@
-[00:00:48] [Server thread/INFO]: Zukey0304 issued server command: /home
-[00:10:01] [Server thread/INFO]: Zukey0304 issued server command: /home
-[00:10:16] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[00:13:22] [Server thread/INFO]: Zukey0304 issued server command: /home
-[00:14:44] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[00:23:13] [Server thread/INFO]: Villager EntityVillager['Librarian'/963, l='ServerLevel[world]', x=-240.62, y=113.00, z=263.30] died, message: 'Librarian was slain by Zombie'
-[00:35:26] [Server thread/INFO]: Villager EntityVillager['Villager'/993, l='ServerLevel[world]', x=-239.81, y=113.06, z=263.32] died, message: 'Villager was slain by Zombie'
-[00:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5787ms or 115 ticks behind
-[00:44:51] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[00:44:52] [Server thread/INFO]: Zukey0304 left the game
-[01:17:23] [User Authenticator #16/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[01:17:24] [Server thread/INFO]: Zukey0304[/127.0.0.1:37886] logged in with entity id 528981 at ([world]-229.69999998807907, 113.5625, 255.3908562876942)
-[01:19:07] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[01:19:07] [Server thread/INFO]: Zukey0304 left the game
-[01:24:10] [User Authenticator #17/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[01:24:10] [Server thread/INFO]: Zukey0304[/127.0.0.1:37894] logged in with entity id 529954 at ([world]-229.58367848111874, 113.0625, 259.64377291490285)
-[01:24:41] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[01:24:41] [Server thread/INFO]: Zukey0304 left the game
-[01:27:53] [User Authenticator #18/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[01:27:53] [Server thread/INFO]: Zukey0304[/127.0.0.1:37902] logged in with entity id 530446 at ([world]-229.01219757585744, 113.0625, 261.69999998807907)
-[01:36:08] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[01:36:08] [Server thread/INFO]: Zukey0304 left the game
-[01:59:15] [User Authenticator #19/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[01:59:15] [Server thread/INFO]: Zukey0304[/127.0.0.1:37920] logged in with entity id 534950 at ([world]-229.1194710440034, 113.0625, 260.5239877046403)
-[02:01:39] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:01:47] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[02:02:25] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:02:58] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:03:01] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[02:03:11] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:49:09] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:49:21] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[02:49:31] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:49:36] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[02:51:41] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:52:19] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[02:53:26] [Server thread/INFO]: Zukey0304 issued server command: /home
-[02:53:41] [Server thread/INFO]: Zukey0304 issued server command: /home castle
-[02:57:43] [User Authenticator #20/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
-[02:57:43] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:37942] logged in with entity id 546874 at ([world]-308.30000001192093, 65.0, -879.2375000119209)
-[02:57:49] [Async Chat Thread - #7/INFO]: <HeyItsJaviTV> sup[m
-[02:57:55] [Async Chat Thread - #7/INFO]: <HeyItsJaviTV> neo has a small cock[m
-[02:57:57] [Async Chat Thread - #7/INFO]: <HeyItsJaviTV> heheheheheh[m
-[02:58:06] [Server thread/INFO]: HeyItsJaviTV issued server command: /home zohouse
-[02:58:55] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
-[02:58:55] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/546874, l='ServerLevel[world]', x=-307.00, y=57.00, z=-887.00](HeyItsJaviTV at -307.0,57.0,-887.0) left loaded chunk area
-[02:59:30] [Server thread/INFO]: HeyItsJaviTV issued server command: /home zohouse
-[03:02:06] [Server thread/WARN]: Boat (vehicle of Zukey0304) moved wrongly! 0.25896334239769203
-[03:10:25] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
-[03:10:25] [Server thread/INFO]: HeyItsJaviTV left the game
-[03:11:58] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[03:11:58] [Server thread/INFO]: Zukey0304 left the game
-[03:16:01] [User Authenticator #21/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[03:16:02] [Server thread/INFO]: Zukey0304[/127.0.0.1:37954] logged in with entity id 550809 at ([world]-237.69999998807907, 113.0625, 265.4474897233273)
-[03:16:19] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[03:16:19] [Server thread/INFO]: Zukey0304 left the game
-[03:22:35] [User Authenticator #22/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[03:22:35] [Server thread/INFO]: Zukey0304[/127.0.0.1:37962] logged in with entity id 551646 at ([world]-241.69999998807907, 113.0625, 263.8517785339952)
-[03:23:24] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[03:23:24] [Server thread/INFO]: Zukey0304 left the game
-[03:23:30] [User Authenticator #23/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[03:23:31] [Server thread/INFO]: Zukey0304[/127.0.0.1:37968] logged in with entity id 551844 at ([world]-240.02381277826157, 113.625, 264.51295220331843)
-[03:25:10] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[03:25:10] [Server thread/INFO]: Zukey0304 left the game
-[03:26:12] [User Authenticator #24/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[03:26:12] [Server thread/INFO]: Zukey0304[/127.0.0.1:37976] logged in with entity id 552329 at ([world]-237.9495582257043, 113.0625, 264.01577629596676)
-[03:27:42] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[03:27:42] [Server thread/INFO]: Zukey0304 left the game
-[03:28:01] [User Authenticator #25/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[03:28:02] [Server thread/INFO]: Zukey0304[/127.0.0.1:37982] logged in with entity id 552666 at ([world]-239.29256154078143, 113.0625, 263.7619309926499)
-[03:28:25] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[03:28:25] [Server thread/INFO]: Zukey0304 left the game
-[03:36:20] [User Authenticator #26/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[03:36:20] [Server thread/INFO]: TastySandvich_[/127.0.0.1:37992] logged in with entity id 553677 at ([world]-189.6177569154158, 72.5, 905.7858434842342)
-[03:39:52] [User Authenticator #27/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[03:39:52] [Server thread/INFO]: Zukey0304[/127.0.0.1:37996] logged in with entity id 554617 at ([world]-241.48316343508887, 113.0, 263.30000001192093)
-[03:53:20] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[03:53:20] [Server thread/INFO]: Zukey0304 left the game
-[04:17:13] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:23:11] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[04:23:11] [Server thread/INFO]: TastySandvich_ left the game
-[05:23:56] [User Authenticator #28/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[05:23:57] [Server thread/INFO]: TastySandvich_[/127.0.0.1:38038] logged in with entity id 573057 at ([world]-187.0, 72.0, 908.0)
-[05:24:10] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[05:24:10] [Server thread/INFO]: TastySandvich_ left the game
-[05:24:16] [User Authenticator #29/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[05:24:16] [Server thread/INFO]: TastySandvich_[/127.0.0.1:38046] logged in with entity id 573315 at ([world]-186.85690750980032, 72.0, 910.6577706925118)
-[06:33:23] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
-[06:33:23] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
-[06:34:09] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
-[06:34:09] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
-[06:56:40] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
-[06:56:40] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
-[06:56:59] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
-[06:56:59] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
-[06:59:15] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
-[06:59:15] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
-[07:00:16] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
-[07:00:16] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
-[07:08:51] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[07:08:51] [Server thread/INFO]: TastySandvich_ left the game
-[07:11:00] [User Authenticator #30/INFO]: UUID of player Zukey0304 is 8d206f90-cc2a-4b62-9fef-049e9b8c014f
-[07:11:00] [Server thread/INFO]: Zukey0304[/127.0.0.1:38086] logged in with entity id 594711 at ([world]-238.84193693891945, 113.0625, 263.769717774535)
-[07:23:47] [Server thread/INFO]: Zukey0304 issued server command: /home
-[07:24:53] [Server thread/INFO]: Zukey0304 issued server command: /home gold
-[07:24:59] [Server thread/INFO]: Zukey0304 issued server command: /home
-[14:49:35] [Server thread/INFO]: Zukey0304 issued server command: /home
-[14:51:04] [Server thread/INFO]: Zukey0304 lost connection: Disconnected
-[14:51:04] [Server thread/INFO]: Zukey0304 left the game
+[00:01:06] [Server thread/INFO]: HeyItsJaviTV issued server command: /home goldfarm
+[00:02:35] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[00:02:47] [Server thread/INFO]: HeyItsJaviTV issued server command: /home zohouse
+[00:02:47] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/672436, l='ServerLevel[world]', x=-202.00, y=74.00, z=241.00](HeyItsJaviTV at -202.0,74.0,241.0) left loaded chunk area
+[00:04:51] [Server thread/INFO]: HeyItsJaviTV issued server command: /home goldfarm
+[00:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9021ms or 180 ticks behind
+[00:10:30] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
+[00:10:30] [Server thread/INFO]: HeyItsJaviTV left the game
+[02:09:59] [User Authenticator #32/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
+[02:09:59] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:38462] logged in with entity id 683488 at ([world_nether]14.415004561922313, 243.0, -4.470964218974556)
+[02:17:06] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[02:17:34] [Server thread/INFO]: HeyItsJaviTV issued server command: /home zohouse
+[02:17:34] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/683488, l='ServerLevel[world]', x=-202.00, y=74.00, z=241.00](HeyItsJaviTV at -202.0,74.0,241.0) left loaded chunk area
+[02:18:12] [Server thread/INFO]: HeyItsJaviTV issued server command: /home goldfarm
+[02:18:35] [Server thread/INFO]: HeyItsJaviTV issued server command: /home zohouse
+[02:27:56] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[02:27:56] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/683488, l='ServerLevel[world]', x=-307.00, y=57.00, z=-887.00](HeyItsJaviTV at -307.0,57.0,-887.0) left loaded chunk area
+[02:29:29] [Server thread/INFO]: HeyItsJaviTV issued server command: /home zohouse
+[02:29:29] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/683488, l='ServerLevel[world]', x=-202.00, y=74.00, z=241.00](HeyItsJaviTV at -202.0,74.0,241.0) left loaded chunk area
+[02:30:12] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
+[02:30:12] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/683488, l='ServerLevel[world]', x=-307.00, y=57.00, z=-887.00](HeyItsJaviTV at -307.0,57.0,-887.0) left loaded chunk area
+[02:34:36] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
+[02:34:36] [Server thread/INFO]: HeyItsJaviTV left the game
+[05:13:29] [User Authenticator #33/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[05:13:30] [Server thread/INFO]: PikNik[/127.0.0.1:38522] logged in with entity id 699288 at ([world]-223.5, 74.0, 34.5)
+[05:19:45] [Server thread/INFO]: PikNik lost connection: Disconnected
+[05:19:45] [Server thread/INFO]: PikNik left the game
+[05:24:24] [User Authenticator #34/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[05:24:24] [Server thread/INFO]: PikNik[/127.0.0.1:38534] logged in with entity id 700459 at ([world]-489.2907387099033, 64.0, 120.41341576107001)
+[05:25:25] [Server thread/INFO]: PikNik was slain by Zombie
+[05:25:27] [User Authenticator #35/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[05:25:29] [Server thread/INFO]: TastySandvich_[/127.0.0.1:38542] logged in with entity id 700649 at ([world]-195.74849699512586, 77.0, 888.7595587783916)
+[05:27:00] [Server thread/INFO]: TastySandvich_ issued server command: /spawn
+[05:27:02] [Server thread/INFO]: TastySandvich_ issued server command: /spawn
+[05:27:06] [Server thread/INFO]: TastySandvich_ issued server command: /tpa PikNik
+[05:27:13] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[05:27:19] [Server thread/INFO]: TastySandvich_ issued server command: /tpa PikNik
+[05:27:27] [Server thread/INFO]: PikNik was blown up by Creeper
+[05:27:27] [Server thread/INFO]: PikNik issued server command: /taccept
+[05:27:31] [Server thread/INFO]: PikNik issued server command: /taccept
+[05:27:36] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[05:27:43] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[05:27:45] [Server thread/INFO]: TastySandvich_ issued server command: /tpa PikNik
+[05:27:47] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[05:28:02] [User Authenticator #36/INFO]: UUID of player pirateboy416 is e5321807-83f9-426c-8670-6f65e29e2c0d
+[05:28:02] [Server thread/INFO]: pirateboy416[/127.0.0.1:38548] logged in with entity id 701635 at ([world]-231.5, 73.0, 25.5)
+[05:28:41] [Server thread/INFO]: TastySandvich_ issued server command: /time set day
+[05:28:41] [Server thread/INFO]: [TastySandvich_: Set the time to 1000]
+[05:28:55] [Server thread/INFO]: TastySandvich_ issued server command: /weather clear
+[05:28:55] [Server thread/INFO]: [TastySandvich_: Set the weather to clear]
+[05:33:46] [Server thread/INFO]: pirateboy416 was slain by TastySandvich_
+[05:33:51] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:34:03] [Server thread/INFO]: TastySandvich_ issued server command: /weather clear
+[05:34:03] [Server thread/INFO]: [TastySandvich_: Set the weather to clear]
+[05:34:08] [Server thread/INFO]: PikNik was slain by pirateboy416
+[05:34:15] [Server thread/INFO]: PikNik issued server command: /back
+[05:34:16] [Async Chat Thread - #8/INFO]: <PikNik> n[m
+[05:34:45] [Async Chat Thread - #8/INFO]: <pirateboy416> i[m
+[05:35:30] [Server thread/INFO]: pirateboy416 has made the advancement [Stone Age]
+[05:36:33] [Server thread/INFO]: PikNik was slain by pirateboy416
+[05:36:39] [Server thread/INFO]: PikNik issued server command: /back
+[05:38:35] [Server thread/INFO]: PikNik has made the advancement [Stone Age]
+[05:38:49] [Server thread/INFO]: pirateboy416 has made the advancement [Getting an Upgrade]
+[05:38:52] [Server thread/INFO]: PikNik has made the advancement [Getting an Upgrade]
+[05:39:31] [Server thread/INFO]: pirateboy416 issued server command: /weather clear
+[05:40:01] [Server thread/INFO]: PikNik was slain by pirateboy416
+[05:40:07] [Server thread/INFO]: PikNik issued server command: /back
+[05:41:01] [Server thread/INFO]: pirateboy416 has made the advancement [Monster Hunter]
+[05:41:21] [Server thread/INFO]: TastySandvich_ issued server command: /difficulty
+[05:42:17] [Server thread/INFO]: pirateboy416 was blown up by Creeper
+[05:42:21] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:44:20] [Server thread/INFO]: TastySandvich_ was blown up by Creeper
+[05:44:28] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[05:45:17] [Server thread/INFO]: PikNik was blown up by Creeper
+[05:45:21] [Server thread/INFO]: PikNik issued server command: /back
+[05:46:45] [Server thread/WARN]: Boat (vehicle of PikNik) moved wrongly! 0.43089628818404435
+[05:46:45] [Server thread/WARN]: Boat (vehicle of PikNik) moved wrongly! 0.7397533328108921
+[05:46:45] [Server thread/WARN]: Boat (vehicle of PikNik) moved wrongly! 1.0490664635625535
+[05:46:49] [Server thread/WARN]: Boat (vehicle of PikNik) moved wrongly! 0.35494759058610725
+[05:46:49] [Server thread/WARN]: Boat (vehicle of PikNik) moved wrongly! 0.5523299819464
+[05:46:52] [Server thread/WARN]: Boat (vehicle of PikNik) moved wrongly! 0.3339844307670319
+[05:51:27] [Server thread/INFO]: pirateboy416 was slain by Zombie
+[05:51:32] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:51:33] [Server thread/INFO]: PikNik was slain by Zombie
+[05:51:38] [Server thread/INFO]: PikNik issued server command: /bacl
+[05:51:42] [Server thread/INFO]: PikNik issued server command: /back
+[05:53:38] [Server thread/INFO]: TastySandvich_ was blown up by Creeper
+[05:53:43] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[05:53:54] [Server thread/INFO]: PikNik was slain by Spider
+[05:53:57] [Server thread/INFO]: TastySandvich_ was blown up by Creeper
+[05:53:58] [Server thread/INFO]: PikNik issued server command: /back
+[05:54:00] [Server thread/INFO]: PikNik has made the advancement [Acquire Hardware]
+[05:54:00] [Server thread/INFO]: PikNik has made the advancement [Isn't It Iron Pick]
+[05:54:01] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[05:54:02] [Server thread/INFO]: PikNik was slain by Zombie
+[05:54:06] [Server thread/INFO]: PikNik issued server command: /back
+[05:54:19] [Server thread/INFO]: PikNik has made the advancement [Monster Hunter]
+[05:55:58] [Server thread/INFO]: TastySandvich_ issued server command: /time
+[05:56:15] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[05:56:17] [Server thread/INFO]: PikNik was shot by Skeleton
+[05:56:19] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:56:22] [Server thread/INFO]: PikNik issued server command: /back
+[05:56:46] [Server thread/INFO]: PikNik was shot by Skeleton
+[05:56:49] [Server thread/INFO]: PikNik issued server command: /back
+[05:56:54] [Server thread/INFO]: pirateboy416 has made the advancement [Acquire Hardware]
+[05:58:28] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[05:58:28] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[05:58:31] [Server thread/INFO]: PikNik was slain by Zombie
+[05:58:36] [Server thread/INFO]: PikNik issued server command: /back
+[05:59:24] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[05:59:24] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[06:02:11] [Server thread/INFO]: PikNik hit the ground too hard
+[06:02:20] [Server thread/INFO]: PikNik issued server command: /back
+[06:07:41] [Server thread/INFO]: PikNik issued server command: /tpa TastySandvich_
+[06:08:12] [Server thread/INFO]: PikNik issued server command: /tpa TastySandvich_
+[06:08:13] [Server thread/INFO]: TastySandvich_ was blown up by Creeper
+[06:08:17] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[06:08:42] [Server thread/INFO]: PikNik issued server command: /tpa TastySandvich_
+[06:08:46] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[06:08:55] [Server thread/INFO]: PikNik issued server command: /tpa TastySandvich_
+[06:09:14] [Server thread/INFO]: PikNik issued server command: /tpa TastySandvich_
+[06:09:20] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[06:09:24] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:09:35] [Server thread/INFO]: PikNik was killed by Witch using magic
+[06:09:38] [Server thread/INFO]: pirateboy416 was slain by Zombie
+[06:09:39] [Server thread/INFO]: PikNik issued server command: /back
+[06:09:42] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:10:53] [Server thread/INFO]: pirateboy416 tried to swim in lava to escape Zombie
+[06:10:56] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:11:18] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[06:11:26] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:11:30] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:11:33] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[06:11:35] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:12:07] [Server thread/INFO]: pirateboy416 was slain by Enderman
+[06:12:11] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:12:13] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:12:24] [Server thread/INFO]: pirateboy416 was slain by Enderman
+[06:12:27] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:13:01] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[06:13:01] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[06:14:14] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[06:14:14] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[06:14:49] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[06:14:51] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:14:57] [Server thread/INFO]: TastySandvich_ issued server command: /tpa
+[06:15:31] [Server thread/INFO]: PikNik lost connection: Disconnected
+[06:15:31] [Server thread/INFO]: PikNik left the game
+[06:16:19] [Server thread/INFO]: pirateboy416 has made the advancement [Suit Up]
+[06:16:37] [Server thread/INFO]: pirateboy416 has made the advancement [Isn't It Iron Pick]
+[06:20:26] [Server thread/INFO]: pirateboy416 has made the advancement [Not Today, Thank You]
+[06:21:48] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[06:21:53] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[06:24:22] [Server thread/INFO]: pirateboy416 was slain by Zombie
+[06:24:26] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:24:28] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:27:20] [Server thread/INFO]: pirateboy416 has made the advancement [A Seedy Place]
+[06:33:43] [User Authenticator #37/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[06:33:43] [Server thread/INFO]: PikNik[/127.0.0.1:38570] logged in with entity id 715713 at ([world]-1297.1074479165377, 70.0, -347.67593444239674)
+[06:39:27] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[06:39:27] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[06:40:28] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[06:40:28] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[06:42:59] [Server thread/INFO]: TastySandvich_ drowned
+[06:43:04] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[06:43:21] [Server thread/INFO]: PikNik hit the ground too hard whilst trying to escape Skeleton
+[06:43:24] [Server thread/INFO]: PikNik issued server command: /back
+[06:44:27] [Server thread/INFO]: TastySandvich_ was killed by Witch using magic
+[06:44:35] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[06:45:12] [Server thread/INFO]: TastySandvich_ was shot by Skeleton
+[06:45:15] [Server thread/INFO]: PikNik fell from a high place
+[06:45:16] [Server thread/INFO]: TastySandvich_ issued server command: /back
+[06:45:23] [Server thread/INFO]: PikNik issued server command: /back
+[06:55:15] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[06:55:15] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[06:56:14] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[06:56:14] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[06:58:35] [Server thread/INFO]: pirateboy416 has made the advancement [Best Friends Forever]
+[06:59:35] [Server thread/INFO]: PikNik has made the advancement [A Seedy Place]
+[07:00:13] [Server thread/INFO]: pirateboy416 was blown up by Creeper
+[07:00:17] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:00:18] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/701635, l='ServerLevel[world]', x=-1283.67, y=72.00, z=-530.60](pirateboy416 at -1283.6699101468475,72.0,-530.5951516775956) left loaded chunk area
+[07:01:36] [Server thread/INFO]: pirateboy416 has made the advancement [Sweet Dreams]
+[07:04:48] [Server thread/INFO]: TastySandvich_ issued server command: /weather clear
+[07:04:48] [Server thread/INFO]: [TastySandvich_: Set the weather to clear]
+[07:07:54] [Server thread/WARN]: PikNik moved wrongly!
+[07:09:58] [Server thread/INFO]: TastySandvich_ issued server command: /weather clear
+[07:09:58] [Server thread/INFO]: [TastySandvich_: Set the weather to clear]
+[07:15:44] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[07:15:48] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:16:08] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[07:16:12] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:16:19] [Server thread/INFO]: PikNik issued server command: /togglerain
+[07:16:26] [Async Chat Thread - #9/INFO]: <PikNik> ./toggle rain[m
+[07:16:58] [Async Chat Thread - #9/INFO]: <PikNik> ./\/ / /\/ _/ /\ 5 /-/ Y P 3 R[m
+[07:17:10] [Async Chat Thread - #9/INFO]: <PikNik> SickNick[m
+[07:17:23] [Async Chat Thread - #9/INFO]: <PikNik> Ill just talk like this since everyone else is sleeping[m
+[07:17:32] [Server thread/INFO]: pirateboy416 issued server command: /\/ / G G E R
+[07:17:36] [Async Chat Thread - #9/INFO]: <pirateboy416> ./\/ / G G E R[m
+[07:17:49] [Server thread/INFO]: pirateboy416 was blown up by Creeper
+[07:17:50] [Server thread/INFO]: PikNik was shot by Skeleton
+[07:17:52] [Async Chat Thread - #9/INFO]: <pirateboy416> ./\/ / G G E R[m
+[07:17:54] [Async Chat Thread - #9/INFO]: <PikNik> fuck bro[m
+[07:17:55] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:17:57] [Server thread/INFO]: PikNik issued server command: /back
+[07:18:05] [Async Chat Thread - #9/INFO]: <PikNik> hahahah[m
+[07:18:49] [Async Chat Thread - #9/INFO]: <PikNik> eric, what mats do you need for ur current construction[m
+[07:19:23] [Async Chat Thread - #9/INFO]: <PikNik> What if I placed my bed right next to urs...[m
+[07:19:27] [Async Chat Thread - #9/INFO]: <PikNik> hahah... unless?[m
+[07:20:20] [Async Chat Thread - #9/INFO]: <PikNik> Nig[m
+[07:20:55] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[07:21:00] [Server thread/INFO]: PikNik was slain by Zombie
+[07:21:04] [Server thread/INFO]: PikNik issued server command: /back
+[07:22:51] [Server thread/INFO]: PikNik was shot by Skeleton
+[07:22:56] [Server thread/INFO]: PikNik issued server command: /back
+[07:22:58] [Server thread/INFO]: TastySandvich_ issued server command: /weather clear
+[07:22:58] [Server thread/INFO]: [TastySandvich_: Set the weather to clear]
+[07:23:25] [Server thread/INFO]: TastySandvich_ was shot by Skeleton
+[07:23:40] [Async Chat Thread - #10/INFO]: <PikNik> pus[m
+[07:23:42] [Async Chat Thread - #10/INFO]: <PikNik> see[m
+[07:23:53] [Async Chat Thread - #10/INFO]: <PikNik> dont ban me pls[m
+[07:25:42] [Server thread/INFO]: PikNik has made the advancement [Suit Up]
+[07:26:10] [Async Chat Thread - #11/INFO]: <PikNik> I am a dwarf and Im digging a hole diggy diggy hole digging a hole[m
+[07:26:17] [Async Chat Thread - #11/INFO]: <pirateboy416> niggity[m
+[07:26:47] [Server thread/INFO]: pirateboy416 was slain by Enderman
+[07:26:51] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:27:00] [Async Chat Thread - #11/INFO]: <PikNik> tonsil stone[m
+[07:30:03] [Async Chat Thread - #12/INFO]: <PikNik> Nein[m
+[07:30:07] [Async Chat Thread - #12/INFO]: <PikNik> Anime*[m
+[07:30:49] [Server thread/INFO]: PikNik issued server command: /|(.)(.)|\
+[07:30:57] [Async Chat Thread - #12/INFO]: <PikNik> ----> /|(.)(.)|\[m
+[07:32:46] [Server thread/INFO]: PikNik lost connection: Disconnected
+[07:32:46] [Server thread/INFO]: PikNik left the game
+[07:34:00] [User Authenticator #38/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[07:34:00] [Server thread/INFO]: PikNik[/127.0.0.1:38592] logged in with entity id 728190 at ([world]-1321.7052764462567, 73.0, -380.62141995266285)
+[07:34:55] [Server thread/INFO]: PikNik was slain by Zombie
+[07:34:58] [Server thread/INFO]: PikNik issued server command: /bacl
+[07:35:02] [Server thread/INFO]: PikNik issued server command: /back
+[07:35:19] [Async Chat Thread - #13/INFO]: <PikNik> (<*>)[m
+[07:35:42] [Async Chat Thread - #13/INFO]: <PikNik> \(^o^)/[m
+[07:35:53] [Async Chat Thread - #13/INFO]: <PikNik> (*-*)[m
+[07:35:54] [Server thread/INFO]: pirateboy416 was slain by Endermite
+[07:35:58] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:36:08] [Async Chat Thread - #13/INFO]: <PikNik> [OWNER]: trash[m
+[07:36:25] [Server thread/INFO]: [Server] trash
+[07:37:02] [Async Chat Thread - #13/INFO]: <PikNik> <PikNik> <PikNik> <PikNik> <PikNik> <PikNik> <PikNik> <PikNik> <PikNik> <PikNik>[m
+[07:38:00] [Async Chat Thread - #13/INFO]: <PikNik> ----------------| ANNOUNCEMENT |----------------------[m
+[07:38:07] [Async Chat Thread - #13/INFO]: <PikNik> Danny is gey[m
+[07:38:15] [Async Chat Thread - #13/INFO]: <PikNik> ------| That is all |---------[m
+[07:39:06] [Async Chat Thread - #13/INFO]: <PikNik> "Love each other - my final message, goodbye" - Muhammed Gandy[m
+[07:41:43] [Async Chat Thread - #14/INFO]: <PikNik> *$q8578625 SeX n0w *&*&$*$& www.com $&*e878 HoTGirl$ Wanna C4t $&(*@^&^#(*[m
+[07:42:49] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[07:42:54] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:43:06] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[07:43:10] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:46:37] [Server thread/WARN]: TastySandvich_ moved wrongly!
+[07:49:45] [Server thread/WARN]: PikNik moved wrongly!
+[07:50:45] [Async Chat Thread - #15/INFO]: <PikNik> "They're not whores, mom, they're content creators" - Muhmad Gande[m
+[07:51:26] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[07:51:26] [Server thread/INFO]: TastySandvich_ left the game
+[07:51:54] [Async Chat Thread - #16/INFO]: <PikNik> Fortnite?[m
+[07:52:29] [Server thread/INFO]: pirateboy416 has made the advancement [Diamonds!]
+[08:05:48] [Server thread/INFO]: PikNik was slain by Spider
+[08:05:55] [Server thread/INFO]: PikNik issued server command: /back
+[08:05:55] [Server thread/WARN]: Entity EntityPlayer['PikNik'/728190, l='ServerLevel[world]', x=-1323.71, y=76.00, z=-376.81](PikNik at -1323.7106029136219,76.0,-376.80976950843814) left loaded chunk area
+[08:10:05] [Server thread/INFO]: pirateboy416 was blown up by Creeper
+[08:10:09] [Server thread/INFO]: pirateboy416 issued server command: /back
+[08:10:09] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/701635, l='ServerLevel[world]', x=-1504.00, y=17.00, z=-416.40](pirateboy416 at -1504.0015841893578,17.0,-416.3999250467307) left loaded chunk area
+[08:11:43] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[08:11:47] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[08:12:19] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
+[08:12:19] [Server thread/INFO]: pirateboy416 left the game
+[08:12:20] [Server thread/INFO]: PikNik lost connection: Disconnected
+[08:12:20] [Server thread/INFO]: PikNik left the game

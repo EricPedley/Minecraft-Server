@@ -52,14 +52,14 @@ death-message: '&6You can teleport back to your death location using &c/back'
 disabled-command: '&6The command has been &cdisabled&6!'
 
 #Intengers
-tpa-cooldown: 10
-wait-time-before-tp: 5
+tpa-cooldown: 0
+wait-time-before-tp: 0
 keep-alive: 60
 
 #Booleans
 disable-back-command: false
 #if you disable this one, when you move it won't cancel your tp request.
-disable-move-system: false
+disable-move-system: true
 
 
 
