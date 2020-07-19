@@ -45,11 +45,11 @@ cancelbroadcast: true
 # Set the time limit in seconds which a player must wait between attempting to sleep again.
 # This prevents a user from spamming chat with sleep messages.
 # Set to 0 to disable.
-sleeplimit: 60
+sleeplimit: 5
 # Set the time limit in seconds which a player must wait between attempting to cancel again.
 # This prevents a user from spamming chat with cancel messages.
 # Set to 0 to disable.
-cancellimit: 60
+cancellimit: 5
 
 
 # Set whether the player should be told it must be night to use.
