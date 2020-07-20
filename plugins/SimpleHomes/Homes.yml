@@ -24,11 +24,6 @@
     x: -368
     y: 67
     z: -938
-  netherwild:
-    world: world_nether
-    x: -135
-    y: 46
-    z: -91
   max:
     world: world
     x: -203
@@ -44,6 +39,16 @@
     x: -224
     y: 113
     z: 251
+  danny:
+    world: world
+    x: -1297
+    y: 72
+    z: -378
+  fortress:
+    world: world_nether
+    x: -61
+    y: 53
+    z: 759
 82564147-11c0-42f2-aab4-fb53380707b1:
   default:
     world: world
@@ -82,3 +87,9 @@ f8a89800-1d7c-4182-8e78-20b7d48ae2c6:
     x: -202
     y: 74
     z: 241
+bb2c2a7a-3028-4d64-82df-d2f4ac9324ce:
+  default:
+    world: world
+    x: -1171
+    y: 76
+    z: 1333
