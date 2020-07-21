@@ -9,11 +9,6 @@
     x: -218
     y: 79
     z: 901
-  stronghold:
-    world: world
-    x: 148
-    y: 78
-    z: 2173
   endportal:
     world: world
     x: 269
@@ -46,9 +41,14 @@
     z: -378
   fortress:
     world: world_nether
-    x: -61
+    x: -59
     y: 53
-    z: 759
+    z: 750
+  end:
+    world: world_the_end
+    x: 77
+    y: 59
+    z: 2
 82564147-11c0-42f2-aab4-fb53380707b1:
   default:
     world: world
@@ -87,6 +87,11 @@ f8a89800-1d7c-4182-8e78-20b7d48ae2c6:
     x: -202
     y: 74
     z: 241
+  end:
+    world: world_the_end
+    x: 31
+    y: 65
+    z: 22
 bb2c2a7a-3028-4d64-82df-d2f4ac9324ce:
   default:
     world: world
