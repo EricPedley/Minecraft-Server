@@ -1,112 +1,71 @@
-[00:16:33] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:51:44] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:56:59] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[01:56:59] [Server thread/INFO]: TastySandvich_ left the game
-[01:59:29] [User Authenticator #25/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[01:59:30] [Server thread/INFO]: TastySandvich_[/127.0.0.1:51226] logged in with entity id 149101 at ([world]-192.64443009747987, 5.0, 907.3064353494833)
-[02:05:08] [Server thread/INFO]: TastySandvich_ issued server command: /home stronghold
-[02:05:08] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/149101, l='ServerLevel[world]', x=148.00, y=78.00, z=2173.00](TastySandvich_ at 148.0,78.0,2173.0) left loaded chunk area
-[02:05:35] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[02:05:35] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/149101, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
-[02:09:52] [Server thread/INFO]: TastySandvich_ issued server command: /sethome end
-[02:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
-[02:09:57] [Server thread/INFO]: TastySandvich_ issued server command: /delhome stronghold
-[02:09:59] [Server thread/INFO]: TastySandvich_ issued server command: /sethome end
-[02:10:19] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[02:12:38] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[02:19:50] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[02:39:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7151ms or 143 ticks behind
-[02:39:21] [Server thread/WARN]: TastySandvich_ moved too quickly! 90.10226575465981,-30.51764133386004,0.49703814206270636
-[02:41:10] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode creative
-[02:41:10] [Server thread/INFO]: [TastySandvich_: Set own game mode to Creative Mode]
-[02:59:25] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
-[02:59:25] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
-[03:08:38] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[03:10:41] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:13:37] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:15:03] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[03:15:03] [Server thread/INFO]: TastySandvich_ left the game
-[03:15:13] [User Authenticator #26/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[03:15:14] [Server thread/INFO]: TastySandvich_[/127.0.0.1:51286] logged in with entity id 159967 at ([world_nether]-62.832039213639035, 53.0, 762.9201929037043)
-[03:16:00] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:17:02] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[03:18:48] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:19:21] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:19:34] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:25:54] [User Authenticator #27/INFO]: UUID of player HeyItsJaviTV is f8a89800-1d7c-4182-8e78-20b7d48ae2c6
-[03:25:55] [Server thread/INFO]: HeyItsJaviTV[/127.0.0.1:51294] logged in with entity id 161539 at ([world]-309.9241063871462, 64.0, -881.3542829446243)
-[03:26:02] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:26:08] [Server thread/INFO]: TastySandvich_ issued server command: /tpa HeyItsJaviTV
-[03:26:12] [Server thread/INFO]: HeyItsJaviTV issued server command: /tpaccept
-[03:26:16] [Server thread/INFO]: HeyItsJaviTV has reached the goal [Sky's the Limit]
-[03:26:18] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:26:18] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/159967, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
-[03:27:31] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:27:33] [Server thread/INFO]: HeyItsJaviTV issued server command: /home zohouse
-[03:27:33] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/161539, l='ServerLevel[world]', x=-202.00, y=74.00, z=241.00](HeyItsJaviTV at -202.0,74.0,241.0) left loaded chunk area
-[03:28:22] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[03:29:34] [Server thread/INFO]: HeyItsJaviTV issued server command: /home
-[03:29:34] [Server thread/WARN]: Entity EntityPlayer['HeyItsJaviTV'/161539, l='ServerLevel[world]', x=-307.00, y=57.00, z=-887.00](HeyItsJaviTV at -307.0,57.0,-887.0) left loaded chunk area
-[03:30:12] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:30:34] [Server thread/INFO]: TastySandvich_ issued server command: /home fortres
-[03:30:37] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:31:09] [Server thread/INFO]: HeyItsJaviTV lost connection: Disconnected
-[03:31:09] [Server thread/INFO]: HeyItsJaviTV left the game
-[03:43:45] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:44:09] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[03:45:33] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:45:43] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:47:13] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:47:18] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:47:22] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:47:52] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:48:08] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:49:54] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:52:11] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:52:50] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[03:55:48] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:56:26] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[03:57:15] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[03:57:28] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[04:02:38] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:03:50] [Server thread/INFO]: TastySandvich_ issued server command: /home max
-[04:03:50] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/159967, l='ServerLevel[world]', x=-203.00, y=74.00, z=256.00](TastySandvich_ at -203.0,74.0,256.0) left loaded chunk area
-[04:06:52] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:06:52] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/159967, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
-[04:07:49] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[04:10:06] [User Authenticator #28/INFO]: UUID of player pirateboy416 is e5321807-83f9-426c-8670-6f65e29e2c0d
-[04:10:06] [Server thread/INFO]: pirateboy416[/127.0.0.1:51338] logged in with entity id 170719 at ([world]-1308.1767791217067, 74.0, -377.68983237374476)
-[04:10:29] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:12:31] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.4505856449775365
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.38711400764827886
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.35315160000141077
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.3349789928067821
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.3252551930197569
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.32005218162544224
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.32005218162544224
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.32005218162544224
-[04:13:25] [Server thread/WARN]: Horse (vehicle of pirateboy416) moved wrongly! 0.32005218162544224
-[04:14:08] [Server thread/INFO]: TastySandvich_ has made the advancement [Withering Heights]
-[04:15:30] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:17:27] [Server thread/INFO]: TastySandvich_ issued server command: /home end
-[04:17:31] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[04:17:48] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[04:17:50] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:18:05] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[04:20:29] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:20:36] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[04:23:27] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:23:33] [Server thread/INFO]: pirateboy416 has made the advancement [Fishy Business]
-[04:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
-[04:23:46] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[04:24:02] [Server thread/INFO]: TastySandvich_ issued server command: /sethome fortress
-[04:25:33] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
-[04:25:33] [Server thread/INFO]: pirateboy416 left the game
-[04:28:55] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[04:29:35] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[04:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[04:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17999ms or 359 ticks behind
-[05:45:33] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[06:58:03] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[06:58:03] [Server thread/INFO]: TastySandvich_ left the game
+[06:27:53] [User Authenticator #29/INFO]: UUID of player pirateboy416 is e5321807-83f9-426c-8670-6f65e29e2c0d
+[06:28:00] [Server thread/INFO]: pirateboy416[/127.0.0.1:53032] logged in with entity id 187574 at ([world]-1251.7492978696655, 62.52326522304745, -353.2466663638517)
+[06:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6603ms or 132 ticks behind
+[06:30:21] [User Authenticator #30/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[06:30:22] [Server thread/INFO]: TastySandvich_[/127.0.0.1:53040] logged in with entity id 188101 at ([world]-188.95385363691898, 73.5, 906.962996482773)
+[06:31:41] [Server thread/INFO]: TastySandvich_ issued server command: /tpa pirateboy416
+[06:31:46] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:31:53] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[06:31:54] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/188101, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[06:32:17] [Server thread/INFO]: TastySandvich_ issued server command: /tpa pirateboy416
+[06:32:25] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:35:48] [User Authenticator #31/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[06:35:50] [Server thread/INFO]: Snickers7070[/127.0.0.1:53054] logged in with entity id 189707 at ([world]-217.5, 81.0, 24.5)
+[06:36:42] [Server thread/INFO]: TastySandvich_ issued server command: /tpahere Snickers7070
+[06:36:47] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[06:38:18] [Server thread/INFO]: Snickers7070 has made the advancement [A Seedy Place]
+[06:39:43] [Server thread/INFO]: Snickers7070 has made the advancement [Stone Age]
+[06:39:57] [Server thread/INFO]: pirateboy416 issued server command: /sethome penis
+[06:40:30] [Server thread/INFO]: pirateboy416 issued server command: /tpa tastysandvich_
+[06:40:33] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[06:42:18] [Server thread/INFO]: Snickers7070 has made the advancement [Sweet Dreams]
+[06:43:15] [Server thread/INFO]: Snickers7070 has made the advancement [Acquire Hardware]
+[06:43:31] [Server thread/INFO]: Snickers7070 has made the advancement [Suit Up]
+[06:43:47] [Server thread/INFO]: pirateboy416 issued server command: /home penis
+[06:43:47] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/187574, l='ServerLevel[world]', x=-1512.53, y=13.00, z=-421.70](pirateboy416 at -1512.5327230903758,13.0,-421.69999998807907) left loaded chunk area
+[06:44:03] [Server thread/INFO]: pirateboy416 has made the advancement [Ice Bucket Challenge]
+[06:44:23] [Server thread/INFO]: pirateboy416 has made the advancement [Hot Stuff]
+[06:44:24] [Server thread/INFO]: pirateboy416 burned to death
+[06:44:41] [Server thread/INFO]: Snickers7070 has made the advancement [Isn't It Iron Pick]
+[06:45:01] [Server thread/WARN]: Horse (vehicle of Snickers7070) moved wrongly! 2.1222498247888453
+[06:45:01] [Server thread/WARN]: Horse (vehicle of Snickers7070) moved wrongly! 2.1222498247888453
+[06:45:01] [Server thread/WARN]: Horse (vehicle of Snickers7070) moved wrongly! 2.1222498247888453
+[06:45:01] [Server thread/WARN]: Horse (vehicle of Snickers7070) moved wrongly! 2.1222498247888453
+[06:45:01] [Server thread/WARN]: Horse (vehicle of Snickers7070) moved wrongly! 2.1222498247888453
+[06:45:01] [Server thread/WARN]: Horse (vehicle of Snickers7070) moved wrongly! 2.1222498247888453
+[06:45:23] [Server thread/INFO]: Snickers7070 has made the advancement [Best Friends Forever]
+[06:47:24] [Server thread/INFO]: pirateboy416 issued server command: /home penis
+[06:47:24] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/187574, l='ServerLevel[world]', x=-1512.53, y=13.00, z=-421.70](pirateboy416 at -1512.5327230903758,13.0,-421.69999998807907) left loaded chunk area
+[06:47:56] [Server thread/INFO]: Snickers7070 issued server command: /tprequest pirateboy416
+[06:47:59] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:51:15] [Server thread/INFO]: pirateboy416 issued server command: /tpa tastysandvich_
+[06:51:19] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[06:51:34] [Server thread/INFO]: pirateboy416 issued server command: /sethome house
+[06:51:37] [Server thread/INFO]: Snickers7070 issued server command: /tprequest TastySandvich_
+[06:51:38] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
+[06:51:38] [Server thread/INFO]: pirateboy416 left the game
+[06:51:42] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[06:54:47] [Async Chat Thread - #0/INFO]: <Snickers7070> thats kinda weird[m
+[06:54:49] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[06:54:49] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[06:55:25] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[06:55:25] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[06:58:49] [Server thread/WARN]: Snickers7070 moved too quickly! -9.713246621990947,2.0,2.9172185738238454
+[06:58:54] [Server thread/WARN]: Snickers7070 moved too quickly! 12.903019277938029,-3.0784000015258783,-1.8618683954422863
+[06:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5906ms or 118 ticks behind
+[07:21:59] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:21:59] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:23:05] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:23:05] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:25:56] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:25:56] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:26:12] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:26:12] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:42:23] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[07:42:23] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[07:42:39] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[07:42:39] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[07:44:29] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[07:44:29] [Server thread/INFO]: TastySandvich_ left the game
+[07:44:57] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
+[07:44:57] [Server thread/INFO]: Snickers7070 left the game
