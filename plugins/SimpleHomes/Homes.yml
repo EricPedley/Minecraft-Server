@@ -36,9 +36,9 @@
     z: 251
   danny:
     world: world
-    x: -1297
-    y: 72
-    z: -378
+    x: -1310
+    y: 73
+    z: -380
   fortress:
     world: world_nether
     x: -59
@@ -101,11 +101,21 @@ bb2c2a7a-3028-4d64-82df-d2f4ac9324ce:
 e5321807-83f9-426c-8670-6f65e29e2c0d:
   penis:
     world: world
-    x: -1513
-    y: 13
-    z: -422
+    x: -1520
+    y: 11
+    z: -405
   house:
     world: world
     x: -1315
     y: 73
     z: -372
+  penis2:
+    world: world
+    x: -1289
+    y: 11
+    z: -339
+  nether:
+    world: world_nether
+    x: -166
+    y: 36
+    z: -391
