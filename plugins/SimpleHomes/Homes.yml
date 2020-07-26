@@ -142,16 +142,21 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -488
   '2':
     world: world
-    x: -1296
+    x: -1310
     y: 69
-    z: -358
+    z: -354
   '3':
     world: world_nether
-    x: -186
-    y: 64
-    z: -33
+    x: -248
+    y: 39
+    z: -46
   '4':
     world: world
-    x: -1466
+    x: -1432
+    y: 14
+    z: -614
+  '5':
+    world: world
+    x: -1317
     y: 11
-    z: -612
+    z: -416
