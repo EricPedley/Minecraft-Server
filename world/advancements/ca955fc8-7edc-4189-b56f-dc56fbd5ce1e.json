@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-07-27 07:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-07-22 06:43:15 +0000"
@@ -578,7 +584,8 @@
       "minecraft:zombified_piglin": "2020-07-25 07:28:14 +0000",
       "minecraft:enderman": "2020-07-25 06:39:37 +0000",
       "minecraft:zombie": "2020-07-25 07:58:58 +0000",
-      "minecraft:drowned": "2020-07-25 07:59:15 +0000"
+      "minecraft:drowned": "2020-07-25 07:59:15 +0000",
+      "minecraft:zombie_villager": "2020-07-27 07:52:26 +0000"
     },
     "done": false
   },
@@ -2085,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-07-27 07:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-07-25 18:35:43 +0000"
@@ -2487,6 +2500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-07-27 07:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-07-25 18:29:24 +0000"
@@ -2559,6 +2578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-07-27 07:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-25 23:35:19 +0000"
@@ -2574,6 +2599,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-07-22 06:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-07-27 07:30:32 +0000"
     },
     "done": true
   },
