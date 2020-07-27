@@ -1645,9 +1645,11 @@
       "minecraft:mountains": "2020-06-05 06:47:45 +0000",
       "minecraft:deep_cold_ocean": "2020-07-18 05:46:42 +0000",
       "minecraft:desert": "2020-06-10 07:17:29 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-07-27 02:48:01 +0000",
       "minecraft:beach": "2020-07-18 05:46:25 +0000",
       "minecraft:dark_forest": "2020-06-05 07:22:38 +0000",
       "minecraft:river": "2020-06-05 06:56:15 +0000",
+      "minecraft:lukewarm_ocean": "2020-07-27 02:48:07 +0000",
       "minecraft:wooded_mountains": "2020-06-05 07:02:54 +0000",
       "minecraft:wooded_hills": "2020-06-05 06:45:52 +0000",
       "minecraft:stone_shore": "2020-07-24 00:56:28 +0000",
@@ -2306,6 +2308,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-07-15 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-07-27 04:18:53 +0000"
     },
     "done": true
   },
@@ -3658,6 +3666,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-06-09 03:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2020-07-27 06:03:05 +0000"
     },
     "done": true
   },

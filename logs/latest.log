@@ -1,149 +1,1200 @@
-[00:01:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16660ms or 333 ticks behind
-[00:56:28] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[00:56:28] [Server thread/INFO]: ttvNaThanosn left the game
-[01:11:38] [User Authenticator #66/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[01:11:38] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:57488] logged in with entity id 423411 at ([world]-1338.699999988079, 70.0, -354.30000001192093)
-[01:31:20] [Server thread/INFO]: ttvNaThanosn issued server command: /s
-[01:45:06] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[01:45:06] [Server thread/INFO]: ttvNaThanosn left the game
-[03:00:10] [User Authenticator #67/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[03:00:11] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:57574] logged in with entity id 428225 at ([world]-1316.1056177387154, 73.0, -375.35413117196083)
-[03:01:34] [Server thread/WARN]: ttvNaThanosn moved wrongly!
-[03:01:52] [Server thread/WARN]: ttvNaThanosn moved wrongly!
-[03:01:53] [Server thread/WARN]: ttvNaThanosn moved wrongly!
-[03:01:53] [Server thread/WARN]: ttvNaThanosn moved wrongly!
-[03:02:09] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[03:02:10] [Server thread/INFO]: ttvNaThanosn left the game
-[03:17:30] [User Authenticator #68/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[03:17:31] [Server thread/INFO]: PikNik[/127.0.0.1:57602] logged in with entity id 428657 at ([world]-1271.2563565674952, 70.0, -455.20273506179973)
-[03:17:32] [User Authenticator #69/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[03:17:34] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:57606] logged in with entity id 428690 at ([world]-1320.2330960406841, 79.0, -386.9315435589764)
-[03:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
-[03:17:48] [Async Chat Thread - #46/INFO]: <PikNik> wait we joined at the same time[m
-[03:17:52] [Async Chat Thread - #46/INFO]: <ttvNaThanosn> bruh[m
-[03:17:57] [Server thread/INFO]: PikNik issued server command: /home
-[03:18:09] [Async Chat Thread - #46/INFO]: <PikNik> I just joined less than 30 seconds ago lol[m
-[03:18:16] [Async Chat Thread - #46/INFO]: <ttvNaThanosn> lol[m
-[03:18:23] [Server thread/INFO]: PikNik was slain by Zombie
-[03:18:27] [Server thread/INFO]: PikNik issued server command: /back
-[03:18:33] [Async Chat Thread - #46/INFO]: <ttvNaThanosn> join security room if ya want[m
-[03:18:41] [Async Chat Thread - #46/INFO]: <ttvNaThanosn> in freddys funtime[m
-[03:19:22] [Async Chat Thread - #46/INFO]: <ttvNaThanosn> is ur mic not working?[m
-[03:19:46] [Async Chat Thread - #46/INFO]: <PikNik> wait[m
-[03:19:59] [Async Chat Thread - #46/INFO]: <PikNik> everytime i connect my airpods it breaks the mic input for some reason[m
-[03:20:11] [Async Chat Thread - #46/INFO]: <ttvNaThanosn> oh[m
-[03:21:41] [Async Chat Thread - #47/INFO]: <ttvNaThanosn> brb[m
-[03:21:42] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[03:21:42] [Server thread/INFO]: ttvNaThanosn left the game
-[03:23:08] [User Authenticator #70/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[03:23:08] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:57612] logged in with entity id 429882 at ([world]-1308.028235711625, 73.5625, -370.50758032742345)
-[03:23:48] [Server thread/INFO]: PikNik issued server command: /home
-[03:31:44] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[03:31:53] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
-[03:31:55] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
-[03:40:37] [Server thread/INFO]: PikNik lost connection: Disconnected
-[03:40:37] [Server thread/INFO]: PikNik left the game
-[03:46:40] [Server thread/INFO]: ttvNaThanosn tried to swim in lava
-[03:46:49] [Server thread/INFO]: ttvNaThanosn issued server command: /back
-[03:46:51] [Server thread/INFO]: ttvNaThanosn tried to swim in lava
-[03:53:09] [Async Chat Thread - #48/INFO]: <ttvNaThanosn> my fucking fortune 3 pick is now fucking gone great[m
-[03:53:55] [Async Chat Thread - #48/INFO]: <ttvNaThanosn> and the quartz that took me forever to get[m
-[03:58:03] [Async Chat Thread - #49/INFO]: <ttvNaThanosn> and the rest of my shit too[m
-[03:58:09] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[03:58:09] [Server thread/INFO]: ttvNaThanosn left the game
-[04:07:09] [User Authenticator #71/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[04:07:09] [Server thread/INFO]: PikNik[/127.0.0.1:57640] logged in with entity id 436595 at ([world]-1348.020519057539, 70.0, -439.829689957569)
-[04:07:30] [Server thread/INFO]: PikNik issued server command: /home
-[04:24:10] [Server thread/INFO]: PikNik issued server command: /home 2
-[04:30:41] [Server thread/INFO]: PikNik lost connection: Timed out
-[04:30:41] [Server thread/INFO]: PikNik left the game
-[04:41:33] [User Authenticator #72/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[04:41:34] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:57662] logged in with entity id 440266 at ([world]-1308.0461213767817, 73.0, -369.25381520209964)
-[04:45:47] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[04:45:47] [Server thread/INFO]: ttvNaThanosn left the game
-[06:26:47] [User Authenticator #73/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[06:26:48] [Server thread/INFO]: PikNik[/127.0.0.1:57750] logged in with entity id 441021 at ([world]-1284.7420794079019, 63.9375, -408.16884256622916)
-[06:27:21] [Server thread/INFO]: PikNik issued server command: /home
-[06:27:24] [Server thread/INFO]: PikNik issued server command: /home 2
-[06:27:24] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1304.00, y=69.00, z=-357.00](PikNik at -1304.0,69.0,-357.0) left loaded chunk area
-[06:27:36] [Server thread/INFO]: PikNik issued server command: /sethome 2
-[06:33:11] [Server thread/INFO]: PikNik issued server command: /home
-[06:33:14] [Server thread/INFO]: PikNik issued server command: /home 4
-[06:33:14] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1432.00, y=14.00, z=-614.00](PikNik at -1432.0,14.0,-614.0) left loaded chunk area
-[06:34:41] [Server thread/INFO]: PikNik issued server command: /home
-[06:35:57] [Server thread/INFO]: PikNik issued server command: /home 4
-[06:35:57] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1432.00, y=14.00, z=-614.00](PikNik at -1432.0,14.0,-614.0) left loaded chunk area
-[06:46:41] [Server thread/INFO]: PikNik issued server command: /home
-[06:47:59] [Server thread/INFO]: PikNik issued server command: /back
-[06:48:04] [Server thread/INFO]: PikNik issued server command: /home 4
-[06:48:04] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1432.00, y=14.00, z=-614.00](PikNik at -1432.0,14.0,-614.0) left loaded chunk area
-[06:58:18] [Server thread/INFO]: PikNik issued server command: /home 2
-[06:58:18] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[06:58:42] [Server thread/INFO]: PikNik issued server command: /home
-[06:58:42] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1288.00, y=72.00, z=-488.00](PikNik at -1288.0,72.0,-488.0) left loaded chunk area
-[06:59:03] [Server thread/INFO]: PikNik issued server command: /home 2
-[06:59:03] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[06:59:10] [Server thread/INFO]: PikNik issued server command: /home
-[06:59:10] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1288.00, y=72.00, z=-488.00](PikNik at -1288.0,72.0,-488.0) left loaded chunk area
-[06:59:40] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:00:03] [Server thread/INFO]: PikNik issued server command: /home
-[07:00:30] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:00:30] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[07:02:24] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:02:43] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:03:40] [Server thread/INFO]: PikNik issued server command: /home
-[07:04:07] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:04:07] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[07:04:36] [Server thread/INFO]: PikNik issued server command: /sethome 5
-[07:11:36] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:11:47] [Server thread/INFO]: PikNik issued server command: /home 5
-[07:21:46] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:22:07] [Server thread/INFO]: PikNik has made the advancement [Enchanter]
-[07:22:20] [Server thread/INFO]: PikNik issued server command: /home 55
-[07:22:22] [Server thread/INFO]: PikNik issued server command: /home 3
-[07:22:26] [Server thread/INFO]: PikNik issued server command: /home 5
-[07:26:52] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:26:54] [Server thread/INFO]: PikNik issued server command: /home
-[07:26:54] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1288.00, y=72.00, z=-488.00](PikNik at -1288.0,72.0,-488.0) left loaded chunk area
-[07:27:26] [Server thread/INFO]: PikNik issued server command: /home 5
-[07:27:57] [Server thread/INFO]: PikNik issued server command: /home
-[07:28:23] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:28:23] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[07:28:42] [Server thread/INFO]: PikNik issued server command: /home 5
-[07:32:46] [Server thread/INFO]: PikNik issued server command: /home
-[07:33:24] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:33:24] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[07:33:29] [Server thread/INFO]: PikNik issued server command: /home
-[07:33:29] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1288.00, y=72.00, z=-488.00](PikNik at -1288.0,72.0,-488.0) left loaded chunk area
-[07:33:38] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:33:38] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[07:34:01] [Server thread/INFO]: PikNik issued server command: /home 5
-[07:35:25] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:36:10] [Server thread/INFO]: PikNik issued server command: /home
-[07:36:53] [Server thread/INFO]: PikNik was blown up by Creeper
-[07:36:58] [Server thread/INFO]: PikNik issued server command: /back
-[07:36:58] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1286.98, y=72.00, z=-490.16](PikNik at -1286.975128811136,72.0,-490.1631333133138) left loaded chunk area
-[07:37:34] [Server thread/INFO]: PikNik issued server command: /home 2
-[07:37:34] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1309.12, y=69.00, z=-353.79](PikNik at -1309.1160083611628,69.0,-353.7907632023713) left loaded chunk area
-[07:38:03] [Server thread/INFO]: PikNik issued server command: /home
-[07:38:03] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1288.00, y=72.00, z=-488.00](PikNik at -1288.0,72.0,-488.0) left loaded chunk area
-[07:39:49] [Server thread/INFO]: PikNik issued server command: /home 4
-[07:39:49] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1432.00, y=14.00, z=-614.00](PikNik at -1432.0,14.0,-614.0) left loaded chunk area
-[07:40:00] [Server thread/INFO]: PikNik issued server command: /home
-[07:40:00] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1288.00, y=72.00, z=-488.00](PikNik at -1288.0,72.0,-488.0) left loaded chunk area
-[07:40:59] [Server thread/INFO]: PikNik was slain by Zombie
-[07:41:04] [Server thread/INFO]: PikNik issued server command: /back
-[07:41:04] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1286.31, y=71.00, z=-491.30](PikNik at -1286.3091413008985,71.0,-491.30000001192093) left loaded chunk area
-[07:41:20] [Server thread/INFO]: PikNik was slain by Zombie
-[07:41:25] [Server thread/INFO]: PikNik issued server command: /back
-[07:41:25] [Server thread/WARN]: Entity EntityPlayer['PikNik'/441021, l='ServerLevel[world]', x=-1271.82, y=72.00, z=-484.62](PikNik at -1271.8249581022221,72.0,-484.6244582089035) left loaded chunk area
-[07:42:16] [Server thread/INFO]: PikNik issued server command: /home 3
-[07:43:53] [Server thread/INFO]: PikNik issued server command: /home 3
-[07:45:53] [Server thread/INFO]: PikNik issued server command: /home 3
-[07:47:03] [Server thread/INFO]: PikNik issued server command: /sethome 3
-[07:47:11] [Server thread/WARN]: PikNik moved wrongly!
-[07:48:03] [Server thread/INFO]: PikNik issued server command: /home
-[07:48:26] [Server thread/INFO]: PikNik issued server command: /home 3
-[07:51:40] [Server thread/INFO]: PikNik issued server command: /home
-[07:51:41] [Server thread/INFO]: PikNik lost connection: Disconnected
-[07:51:41] [Server thread/INFO]: PikNik left the game
+[00:01:20] [User Authenticator #84/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[00:01:21] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:58604] logged in with entity id 506121 at ([world]-1301.5, 71.0, -374.5)
+[00:01:51] [Server thread/INFO]: pirateboy416 tried to swim in lava
+[00:02:01] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:02:04] [Server thread/INFO]: pirateboy416 tried to swim in lava
+[00:02:08] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:02:11] [Server thread/INFO]: pirateboy416 tried to swim in lava
+[00:02:16] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:02:30] [Async Chat Thread - #52/INFO]: <ttvNaThanosn> hey piknik[m
+[00:02:30] [Server thread/INFO]: pirateboy416 burned to death
+[00:02:33] [Async Chat Thread - #52/INFO]: <PikNik> sup[m
+[00:02:34] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:02:40] [Async Chat Thread - #52/INFO]: <ttvNaThanosn> i lsot the pick[m
+[00:02:42] [Async Chat Thread - #52/INFO]: <ttvNaThanosn> lost*[m
+[00:02:44] [Async Chat Thread - #52/INFO]: <PikNik> what pick[m
+[00:02:51] [Async Chat Thread - #52/INFO]: <ttvNaThanosn> the e4 f3[m
+[00:03:01] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[00:03:02] [Async Chat Thread - #52/INFO]: <Snickers7070> join bean army[m
+[00:03:08] [Async Chat Thread - #52/INFO]: <PikNik> beanos[m
+[00:04:50] [Server thread/INFO]: PikNik issued server command: /home
+[00:05:14] [Server thread/INFO]: ttvNaThanosn has made the advancement [Voluntary Exile]
+[00:07:33] [Server thread/INFO]: pirateboy416 issued server command: /home debri
+[00:07:37] [Server thread/INFO]: pirateboy416 tried to swim in lava
+[00:07:46] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:07:49] [Server thread/INFO]: pirateboy416 tried to swim in lava
+[00:07:53] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:07:55] [Server thread/INFO]: pirateboy416 tried to swim in lava
+[00:08:01] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:08:09] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[00:08:24] [Server thread/INFO]: pirateboy416 issued server command: /sethome water
+[00:08:28] [Server thread/INFO]: PikNik issued server command: /home
+[00:08:30] [Server thread/INFO]: pirateboy416 issued server command: /home water
+[00:08:42] [Server thread/INFO]: PikNik issued server command: /home 2
+[00:09:46] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[00:09:49] [Server thread/INFO]: PikNik issued server command: /home
+[00:11:00] [Server thread/INFO]: PikNik issued server command: /sethome 7
+[00:11:02] [Server thread/INFO]: PikNik issued server command: /home
+[00:11:05] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:11:18] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:11:20] [Server thread/INFO]: PikNik issued server command: /home
+[00:11:27] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:11:51] [Server thread/INFO]: PikNik issued server command: /home
+[00:11:56] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:12:08] [Server thread/INFO]: PikNik issued server command: /home
+[00:12:15] [Server thread/INFO]: PikNik issued server command: /home
+[00:12:17] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:12:32] [Server thread/INFO]: PikNik issued server command: /home
+[00:12:44] [Server thread/INFO]: PikNik issued server command: /home
+[00:12:47] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:13:01] [Server thread/INFO]: PikNik issued server command: /home
+[00:13:14] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:13:28] [Server thread/INFO]: PikNik issued server command: /home
+[00:13:37] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:14:19] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:15:51] [Server thread/INFO]: PikNik issued server command: /home 2
+[00:16:20] [Server thread/INFO]: PikNik issued server command: /home
+[00:17:06] [Server thread/INFO]: pirateboy416 drowned
+[00:17:07] [Server thread/INFO]: PikNik issued server command: /home 2
+[00:17:11] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:17:11] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1023.31, y=16.00, z=-248.55](pirateboy416 at -1023.3091652654117,16.0,-248.55302657912878) left loaded chunk area
+[00:18:13] [Server thread/INFO]: PikNik issued server command: /home
+[00:18:17] [Server thread/INFO]: PikNik issued server command: /home 7
+[00:18:22] [Server thread/INFO]: PikNik issued server command: /sethome 1
+[00:18:24] [Server thread/INFO]: PikNik issued server command: /home
+[00:18:26] [Server thread/INFO]: PikNik issued server command: /home 1
+[00:18:29] [Server thread/INFO]: PikNik issued server command: /sethome
+[00:18:33] [Server thread/INFO]: pirateboy416 issued server command: /sethome mine2
+[00:18:40] [Server thread/INFO]: PikNik issued server command: /homelist
+[00:18:59] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
+[00:19:03] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
+[00:19:33] [Server thread/INFO]: PikNik issued server command: /home
+[00:19:41] [Server thread/INFO]: PikNik issued server command: /home 5
+[00:19:43] [Server thread/INFO]: PikNik issued server command: /home 6
+[00:21:43] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
+[00:21:43] [Server thread/INFO]: Snickers7070 left the game
+[00:22:20] [Server thread/INFO]: PikNik issued server command: /home
+[00:22:25] [Server thread/INFO]: PikNik issued server command: /home
+[00:22:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@d57250d[id=<null>,name=Snickers7070,properties={},legacy=false] (/127.0.0.1:58632) lost connection: Timed out
+[00:23:49] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[00:23:49] [Server thread/INFO]: ttvNaThanosn left the game
+[00:23:50] [User Authenticator #85/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[00:23:50] [Server thread/INFO]: Snickers7070[/127.0.0.1:58636] logged in with entity id 513662 at ([world]-1310.739849566629, 73.0, -375.56602952048274)
+[00:24:02] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[00:24:06] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:24:14] [Server thread/INFO]: pirateboy416 issued server command: /seed
+[00:24:17] [User Authenticator #86/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[00:24:18] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:58642] logged in with entity id 514022 at ([world]-1307.2539907891542, 74.0, -371.7058056346273)
+[00:24:21] [Server thread/INFO]: ttvNaThanosn issued server command: /seed
+[00:25:50] [Server thread/INFO]: PikNik issued server command: /home
+[00:28:22] [Server thread/INFO]: PikNik issued server command: /home
+[00:28:37] [Server thread/INFO]: PikNik issued server command: /home
+[00:29:53] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[00:29:57] [Server thread/INFO]: pirateboy416 issued server command: /seed
+[00:29:59] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:29:59] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-971.22, y=12.42, z=-255.30](pirateboy416 at -971.2246326357355,12.419999986886978,-255.30000001192093) left loaded chunk area
+[00:33:05] [Server thread/INFO]: PikNik issued server command: /home
+[00:33:05] [Server thread/WARN]: Entity EntityPlayer['PikNik'/485215, l='ServerLevel[world]', x=-1277.52, y=77.00, z=-488.40](PikNik at -1277.5210633949685,77.0,-488.4049193981388) left loaded chunk area
+[00:33:31] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome
+[00:33:36] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:33:54] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
+[00:33:54] [Server thread/INFO]: Snickers7070 left the game
+[00:36:02] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[00:36:13] [Server thread/INFO]: PikNik issued server command: /home
+[00:36:36] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[00:36:36] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1014.78, y=13.00, z=-246.70](pirateboy416 at -1014.7840067202301,13.0,-246.69999998807907) left loaded chunk area
+[00:37:11] [Server thread/INFO]: PikNik issued server command: /home
+[00:37:43] [Server thread/INFO]: PikNik issued server command: /home
+[00:38:14] [Server thread/INFO]: PikNik issued server command: /home
+[00:38:50] [Server thread/INFO]: PikNik issued server command: /home
+[00:38:54] [Server thread/INFO]: PikNik issued server command: /home 2
+[00:39:23] [Server thread/INFO]: pirateboy416 tried to swim in lava
+[00:39:46] [Server thread/INFO]: pirateboy416 issued server command: /home water
+[00:39:48] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:39:48] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-934.30, y=9.55, z=-228.63](pirateboy416 at -934.3000000119209,9.548124985024334,-228.62635550445756) left loaded chunk area
+[00:39:49] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:39:50] [Server thread/INFO]: pirateboy416 issued server command: /home water
+[00:39:56] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[00:39:56] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1014.78, y=13.00, z=-246.70](pirateboy416 at -1014.7840067202301,13.0,-246.69999998807907) left loaded chunk area
+[00:40:44] [Server thread/INFO]: PikNik issued server command: /home
+[00:42:42] [Server thread/INFO]: PikNik issued server command: /home
+[00:43:23] [Server thread/INFO]: PikNik issued server command: /home 2
+[00:43:43] [Server thread/INFO]: PikNik issued server command: /home 3
+[00:44:35] [User Authenticator #87/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[00:44:36] [Server thread/INFO]: Snickers7070[/127.0.0.1:58668] logged in with entity id 521464 at ([world]-1490.5741880650892, 68.0, -229.27701096649358)
+[00:45:01] [Server thread/INFO]: pirateboy416 fell from a high place
+[00:45:06] [Server thread/INFO]: pirateboy416 issued server command: /back
+[00:45:06] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-988.39, y=14.00, z=-262.83](pirateboy416 at -988.3893055728192,14.0,-262.83312246606) left loaded chunk area
+[00:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6108ms or 122 ticks behind
+[00:48:13] [Server thread/WARN]: Snickers7070 moved too quickly! -0.643665559930696,-1.4707767887922358,-20.48319020937413
+[00:48:14] [Server thread/INFO]: ttvNaThanosn was slain by Zombie
+[00:48:17] [Server thread/WARN]: Snickers7070 moved too quickly! 11.13732764605993,0.8232407249357578,-8.035581959041565
+[00:48:21] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[00:48:22] [Server thread/INFO]: ttvNaThanosn was slain by Zombie
+[00:48:26] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[00:48:28] [Server thread/INFO]: ttvNaThanosn was slain by Zombie
+[00:48:31] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[00:48:36] [Server thread/INFO]: ttvNaThanosn was slain by Zombie
+[00:48:39] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[00:48:41] [Server thread/INFO]: ttvNaThanosn was slain by Zombie
+[00:48:45] [Server thread/WARN]: PikNik moved wrongly!
+[00:48:45] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[00:48:53] [Server thread/WARN]: PikNik moved wrongly!
+[00:48:59] [Server thread/INFO]: ttvNaThanosn was slain by Zombie
+[00:49:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19039ms or 380 ticks behind
+[00:49:02] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[00:49:26] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
+[00:49:27] [Server thread/INFO]: Snickers7070 left the game
+[00:49:31] [User Authenticator #88/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[00:49:32] [Server thread/INFO]: Snickers7070[/127.0.0.1:58676] logged in with entity id 524771 at ([world]-1549.8835868940039, 73.0, -760.0096568290868)
+[00:49:32] [Server thread/INFO]: PikNik issued server command: /home
+[00:50:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5174ms or 103 ticks behind
+[00:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6299ms or 125 ticks behind
+[00:51:23] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[00:51:23] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1014.78, y=13.00, z=-246.70](pirateboy416 at -1014.7840067202301,13.0,-246.69999998807907) left loaded chunk area
+[00:51:41] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[00:52:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
+[00:52:33] [Server thread/INFO]: PikNik issued server command: /home
+[00:53:06] [Server thread/INFO]: PikNik issued server command: /home
+[00:53:22] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[00:53:22] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1014.78, y=13.00, z=-246.70](pirateboy416 at -1014.7840067202301,13.0,-246.69999998807907) left loaded chunk area
+[00:53:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8000ms or 160 ticks behind
+[00:53:29] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1007.82, y=13.20, z=-246.54](pirateboy416 at -1007.8194451637494,13.200000047683716,-246.53663187205856) left loaded chunk area
+[00:53:58] [Server thread/INFO]: PikNik issued server command: /home
+[00:54:09] [Server thread/WARN]: PikNik moved too quickly! -10.246223727187726,-0.09687275232550974,-4.773551861669489
+[00:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14656ms or 293 ticks behind
+[00:54:36] [Server thread/WARN]: Snickers7070 moved too quickly! -23.267344417871982,-2.419999986886978,0.9568371090958863
+[00:54:36] [Server thread/WARN]: pirateboy416 moved too quickly! -0.12893156273935347,-0.12160004615783748,24.096183699729096
+[00:54:46] [Server thread/INFO]: PikNik issued server command: /home
+[00:54:57] [Async Chat Thread - #53/INFO]: <pirateboy416> ./toggle lag[m
+[00:55:25] [Server thread/WARN]: PikNik moved too quickly! 4.667401547672625,-5.078400001525878,7.301009934783394
+[00:55:25] [Server thread/WARN]: pirateboy416 moved wrongly!
+[00:55:25] [Server thread/WARN]: PikNik moved wrongly!
+[00:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47021ms or 940 ticks behind
+[00:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6961ms or 139 ticks behind
+[00:56:36] [Server thread/INFO]: PikNik issued server command: /home
+[00:56:41] [Server thread/INFO]: PikNik issued server command: /home 2
+[00:56:44] [Server thread/INFO]: PikNik issued server command: /home
+[00:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
+[00:56:50] [Server thread/INFO]: PikNik issued server command: /home 2
+[00:57:02] [Server thread/WARN]: Snickers7070 moved too quickly! -14.892981155233201,-5.0,4.477173234215343
+[00:57:05] [Server thread/WARN]: PikNik moved too quickly! -32.002836562666744,2.7752370094690093,5.725182121812793
+[00:57:06] [Server thread/WARN]: PikNik moved too quickly! -20.066202059385205,-3.176759275064242,5.130554242557821
+[00:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
+[00:58:05] [Server thread/WARN]: Snickers7070 moved too quickly! -15.833960297362637,-3.7531999805212024,14.60387514712761
+[00:58:24] [Server thread/WARN]: pirateboy416 moved too quickly! 0.12944943029151545,0.0,-10.337755252663882
+[00:58:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41983ms or 839 ticks behind
+[00:58:40] [Server thread/INFO]: PikNik issued server command: /home
+[00:58:40] [Server thread/WARN]: Entity EntityPlayer['PikNik'/485215, l='ServerLevel[world]', x=-1277.52, y=77.00, z=-488.40](PikNik at -1277.5210633949685,77.0,-488.4049193981388) left loaded chunk area
+[00:59:46] [Server thread/INFO]: PikNik issued server command: /home
+[00:59:56] [Server thread/INFO]: PikNik issued server command: /home
+[01:00:10] [Server thread/INFO]: PikNik issued server command: /home
+[01:00:25] [Server thread/INFO]: Snickers7070 has made the advancement [Not Today, Thank You]
+[01:00:26] [Server thread/INFO]: pirateboy416 suffocated in a wall
+[01:00:32] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:00:32] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1022.30, y=16.60, z=-249.35](pirateboy416 at -1022.3000000119209,16.597000047683714,-249.35007374462992) left loaded chunk area
+[01:00:43] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[01:00:56] [Server thread/INFO]: PikNik issued server command: /home
+[01:02:10] [Async Chat Thread - #54/INFO]: <PikNik> Me when *$(*(#*(Q@)(R)$*(#*(# Bottom Text[m
+[01:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[01:02:41] [Async Chat Thread - #54/INFO]: <PikNik> You know that feeling when your foot goes %&)(#*&&$W(*&$(*&Q*&(*&$*&$#[m
+[01:02:51] [Server thread/WARN]: PikNik moved too quickly! 9.906631959454216,-2.080000013113022,2.0975624444491814
+[01:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23120ms or 462 ticks behind
+[01:03:31] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[01:03:40] [Server thread/INFO]: PikNik issued server command: /home
+[01:03:44] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[01:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17134ms or 342 ticks behind
+[01:04:17] [Server thread/INFO]: PikNik issued server command: /home 5
+[01:04:23] [Server thread/INFO]: PikNik issued server command: /home
+[01:06:31] [Server thread/INFO]: pirateboy416 issued server command: /tpa snickers7070
+[01:06:41] [Server thread/INFO]: Snickers7070 issued server command: /tpacc
+[01:06:44] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[01:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5885ms or 117 ticks behind
+[01:07:06] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:12] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:12] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:13] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:14] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:14] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:15] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:15] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:15] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:19] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:20] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416t
+[01:07:20] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416t
+[01:07:23] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:23] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:24] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:25] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:25] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:25] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:26] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:26] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:27] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:28] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:29] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:29] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:30] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:31] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:07:31] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[01:08:34] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:08:39] [Server thread/INFO]: Snickers7070 fell from a high place
+[01:08:43] [Server thread/INFO]: Snickers7070 issued server command: /back
+[01:09:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
+[01:09:44] [Server thread/WARN]: pirateboy416 moved wrongly!
+[01:10:08] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[01:10:08] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/496817, l='ServerLevel[world]', x=-1014.78, y=13.00, z=-246.70](pirateboy416 at -1014.7840067202301,13.0,-246.69999998807907) left loaded chunk area
+[01:10:24] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[01:11:25] [Server thread/WARN]: Snickers7070 moved too quickly! -11.431044672612188,-2.5475485219240284,5.824380415262453
+[01:11:32] [Server thread/INFO]: PikNik issued server command: /home
+[01:11:32] [Server thread/INFO]: Snickers7070 issued server command: /home
+[01:11:38] [Server thread/INFO]: Snickers7070 issued server command: /sethome
+[01:11:42] [Server thread/INFO]: PikNik issued server command: /home
+[01:11:56] [Server thread/WARN]: pirateboy416 moved too quickly! -10.400164378406544,0.9969837384909539,-1.299151399643165
+[01:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5055ms or 101 ticks behind
+[01:12:03] [Server thread/INFO]: PikNik issued server command: /home
+[01:12:12] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[01:12:18] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:18] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:19] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:19] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:20] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:21] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:21] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:22] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:23] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:23] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:24] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:24] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:25] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:25] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:26] [Server thread/INFO]: PikNik issued server command: /msg pirateboy416 boi bring me my quartz or I will slap those (.)(.)
+[01:12:34] [Server thread/INFO]: ttvNaThanosn issued server command: /tpahere ttvNaThanosn Snickers7070
+[01:12:50] [Server thread/INFO]: PikNik issued server command: /home
+[01:12:57] [Server thread/INFO]: ttvNaThanosn issued server command: /tprequest Snickers7070 ttvNaThanosn
+[01:13:01] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[01:13:08] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[01:13:15] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:13:42] [Server thread/INFO]: PikNik issued server command: /home
+[01:13:51] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[01:14:11] [Server thread/INFO]: PikNik issued server command: /home
+[01:14:26] [Server thread/INFO]: PikNik issued server command: /home
+[01:14:28] [Server thread/INFO]: PikNik issued server command: /home 2
+[01:14:54] [Server thread/INFO]: PikNik issued server command: /home
+[01:14:59] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[01:15:02] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:15:10] [Server thread/INFO]: PikNik issued server command: /home 2
+[01:15:48] [Server thread/INFO]: PikNik issued server command: /home
+[01:16:13] [Server thread/INFO]: PikNik issued server command: /home
+[01:16:25] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[01:16:29] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:16:38] [Server thread/INFO]: PikNik issued server command: /home
+[01:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5973ms or 119 ticks behind
+[01:17:23] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[01:17:26] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:18:27] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[01:18:30] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:18:39] [Server thread/INFO]: PikNik issued server command: /home
+[01:18:43] [Server thread/INFO]: PikNik issued server command: /home
+[01:18:45] [Server thread/INFO]: PikNik issued server command: /home 2
+[01:18:55] [Server thread/INFO]: PikNik issued server command: /home
+[01:19:21] [Server thread/INFO]: Snickers7070 issued server command: /homelist
+[01:19:27] [Server thread/INFO]: Snickers7070 issued server command: /sethome
+[01:19:31] [Server thread/INFO]: Snickers7070 issued server command: /homelist
+[01:19:54] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[01:19:58] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:20:04] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
+[01:20:04] [Server thread/INFO]: Snickers7070 left the game
+[01:20:07] [Server thread/INFO]: PikNik issued server command: /home
+[01:20:14] [Server thread/INFO]: PikNik issued server command: /home
+[01:20:17] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[01:20:21] [Server thread/INFO]: pirateboy416 issued server command: /back
+[01:20:23] [Server thread/INFO]: PikNik issued server command: /home 2
+[01:21:52] [Server thread/INFO]: PikNik issued server command: /home
+[01:21:54] [Server thread/INFO]: PikNik issued server command: /home 2
+[01:22:33] [Server thread/INFO]: PikNik issued server command: /home
+[01:22:56] [Server thread/INFO]: PikNik issued server command: /home
+[01:22:58] [Server thread/INFO]: PikNik issued server command: /home 2
+[01:23:45] [Server thread/INFO]: PikNik issued server command: /home
+[01:24:10] [Server thread/INFO]: PikNik was slain by pirateboy416
+[01:24:17] [Server thread/INFO]: PikNik issued server command: /back
+[01:24:23] [Server thread/INFO]: PikNik lost connection: Disconnected
+[01:24:23] [Server thread/INFO]: PikNik left the game
+[01:24:50] [User Authenticator #89/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[01:24:51] [Server thread/INFO]: PikNik[/127.0.0.1:58710] logged in with entity id 538855 at ([world]-1270.1610500016868, 72.5, -478.8670837794513)
+[01:25:00] [Server thread/INFO]: PikNik was slain by pirateboy416
+[01:25:02] [Server thread/INFO]: PikNik lost connection: Disconnected
+[01:25:02] [Server thread/INFO]: PikNik left the game
+[01:25:05] [User Authenticator #90/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[01:25:05] [Server thread/INFO]: PikNik[/127.0.0.1:58716] logged in with entity id 538912 at ([world]-1271.5, 77.0000002, -483.5)
+[01:25:07] [Server thread/INFO]: PikNik lost connection: Disconnected
+[01:25:07] [Server thread/INFO]: PikNik left the game
+[01:25:09] [User Authenticator #91/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[01:25:09] [Server thread/INFO]: PikNik[/127.0.0.1:58722] logged in with entity id 538917 at ([world]-1271.5, 77.0000002, -483.5)
+[01:25:10] [Server thread/INFO]: PikNik lost connection: Disconnected
+[01:25:10] [Server thread/INFO]: PikNik left the game
+[01:25:12] [User Authenticator #92/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[01:25:12] [Server thread/INFO]: PikNik[/127.0.0.1:58726] logged in with entity id 538920 at ([world]-1271.5, 77.0000002, -483.5)
+[01:25:36] [Server thread/INFO]: PikNik was slain by pirateboy416
+[01:25:46] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[01:25:46] [Server thread/INFO]: ttvNaThanosn left the game
+[01:26:07] [Server thread/INFO]: pirateboy416 has made the advancement [Take Aim]
+[01:26:08] [Server thread/INFO]: PikNik was shot by pirateboy416
+[01:26:13] [Server thread/INFO]: PikNik lost connection: Disconnected
+[01:26:13] [Server thread/INFO]: PikNik left the game
+[01:26:16] [User Authenticator #93/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[01:26:16] [Server thread/INFO]: PikNik[/127.0.0.1:58732] logged in with entity id 539105 at ([world]-1267.5290220555976, 72.0, -504.25493215604985)
+[01:26:22] [Server thread/INFO]: PikNik was slain by pirateboy416
+[01:26:51] [Server thread/INFO]: PikNik was slain by pirateboy416
+[01:26:55] [Server thread/INFO]: PikNik issued server command: /home
+[01:27:08] [Server thread/INFO]: PikNik was shot by pirateboy416
+[01:27:10] [Server thread/INFO]: PikNik lost connection: Disconnected
+[01:27:10] [Server thread/INFO]: PikNik left the game
+[01:28:01] [Async Chat Thread - #55/INFO]: <pirateboy416> i put it in his chest lol[m
+[01:30:00] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
+[01:30:00] [Server thread/INFO]: pirateboy416 left the game
+[01:30:18] [User Authenticator #94/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[01:30:18] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:58742] logged in with entity id 539640 at ([world]-1261.1146546347697, 64.0, -463.92753049416825)
+[01:30:23] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[01:30:23] [Server thread/INFO]: ttvNaThanosn left the game
+[02:12:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@38466d1f[id=<null>,name=PikNik,properties={},legacy=false] (/127.0.0.1:58776) lost connection: Disconnected
+[02:13:00] [User Authenticator #95/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[02:13:00] [Server thread/INFO]: PikNik[/127.0.0.1:58782] logged in with entity id 539834 at ([world]-1268.0080017342202, 72.5, -500.93714310947195)
+[02:13:16] [Server thread/INFO]: PikNik issued server command: /home
+[02:15:33] [Server thread/INFO]: PikNik issued server command: /home 2
+[02:15:33] [Server thread/WARN]: Entity EntityPlayer['PikNik'/539834, l='ServerLevel[world]', x=-1309.00, y=69.00, z=-354.00](PikNik at -1309.0,69.0,-354.0) left loaded chunk area
+[02:16:13] [Server thread/INFO]: PikNik issued server command: /home
+[02:18:44] [Server thread/INFO]: PikNik issued server command: /home
+[02:20:59] [Server thread/INFO]: PikNik issued server command: /home
+[02:22:20] [Server thread/INFO]: PikNik issued server command: /home
+[02:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[02:23:53] [Server thread/INFO]: PikNik issued server command: /home 2
+[02:23:53] [Server thread/WARN]: Entity EntityPlayer['PikNik'/539834, l='ServerLevel[world]', x=-1309.00, y=69.00, z=-354.00](PikNik at -1309.0,69.0,-354.0) left loaded chunk area
+[02:24:02] [Server thread/INFO]: PikNik issued server command: /home 3
+[02:25:20] [Server thread/INFO]: PikNik issued server command: /home
+[02:25:30] [Server thread/INFO]: PikNik issued server command: /home 3
+[02:27:15] [Server thread/INFO]: PikNik issued server command: /sethome quartz
+[02:28:02] [Server thread/INFO]: PikNik issued server command: /sethome quartz
+[02:28:48] [Server thread/INFO]: PikNik issued server command: /sethome quartz2
+[02:29:00] [User Authenticator #96/INFO]: UUID of player pirateboy416 is e5321807-83f9-426c-8670-6f65e29e2c0d
+[02:29:00] [Server thread/INFO]: pirateboy416[/127.0.0.1:58804] logged in with entity id 542082 at ([world]-1324.29383550152, 78.0, -381.04773899312494)
+[02:29:08] [Server thread/INFO]: PikNik issued server command: /home 3
+[02:29:47] [User Authenticator #97/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[02:29:47] [Server thread/INFO]: TastySandvich_[/127.0.0.1:58814] logged in with entity id 542489 at ([world]-2319.6951226233555, 64.0, -1090.637766067782)
+[02:30:27] [Server thread/INFO]: PikNik issued server command: /sethome quartz3
+[02:31:06] [Server thread/INFO]: PikNik issued server command: /home
+[02:38:02] [Server thread/INFO]: PikNik issued server command: /home quartz
+[02:38:37] [Server thread/INFO]: PikNik issued server command: /home
+[02:38:49] [Server thread/INFO]: PikNik issued server command: /home quartz
+[02:39:43] [Server thread/WARN]: PikNik moved wrongly!
+[02:40:36] [Server thread/INFO]: PikNik issued server command: /home quartz2
+[02:41:57] [Server thread/INFO]: PikNik issued server command: /home quartz2
+[02:42:37] [Server thread/INFO]: PikNik issued server command: /home quartz2
+[02:43:57] [Server thread/INFO]: PikNik issued server command: /home
+[02:46:23] [Server thread/INFO]: PikNik issued server command: /home
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -20.05187910434347,0.0,-2.6338960011414088
+[02:47:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8443ms or 168 ticks behind
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -20.263026271780063,0.0,1.42507034610162
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -20.65874495654225,0.0,1.4828739282504557
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -21.054440629844294,0.0,1.5408877314619076
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -21.450115592832844,0.0,1.5990907336246778
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -21.84577191653966,0.0,1.6574640148391495
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -22.241411464893417,0.0,1.7159905471960428
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -22.637035915429806,0.0,1.7746550055775288
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -23.03264677793095,0.0,1.8334435973778227
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -23.428245411200578,0.0,1.8923439092521335
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -23.82383303816232,0.0,1.9513447691903139
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -24.2194107594471,0.0,2.0104361223836236
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -24.61497956562289,0.0,2.0696089195043896
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -25.01054034820072,0.0,2.1288550161578996
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -25.406093909540687,0.0,2.1881670823892136
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -25.8016409717668,0.0,2.24753852123888
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -26.197182184790336,0.0,2.306963395443688
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -26.59271813353189,0.0,2.3664363614668673
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -26.988249344419728,0.0,2.425952610125421
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -27.38377629123943,0.0,2.4855078131547543
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -27.779299400397804,0.0,2.5450980751168686
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -28.174819055661146,0.0,2.6047198901176785
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -28.570335602419163,0.0,2.6643701028525584
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -28.965849351522138,0.0,2.724045873547425
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -29.36136058273587,0.0,2.783744646405637
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -29.75686954784942,0.0,2.8434641212103315
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -30.152376473472714,0.0,2.9032022277663714
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -30.54788156355471,0.0,2.9629571028981445
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -30.943385001649858,0.0,3.0227270697477593
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -31.338769986291936,0.0,3.083237569963501
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -31.733811546124798,0.0,3.145681088822357
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -32.1282806679651,0.0,3.211062868580882
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -32.52198192408605,0.0,3.2801010945102007
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -32.914730265324124,0.0,3.3533762832432785
+[02:47:18] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -33.30637288630692,0.0,3.431287144660871
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -21.336410397239433,0.0,4.757099966869077
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -21.699046233377658,0.0,4.9224568649974
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -22.06083890994296,0.0,5.089862816237883
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -22.421844192287836,0.0,5.2591672281003525
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -22.782112187271878,0.0,5.430234522643843
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -23.14168790911117,0.0,5.602942635021066
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -23.500640585136807,0.0,5.777127483409572
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -23.85900371972548,0.0,5.952695574795143
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -24.21680738113423,0.0,6.1295627226263605
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -24.574107516694085,0.0,6.307599021227645
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -24.93092551487007,0.0,6.486741646709277
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -25.28730958941196,0.0,6.666879966356817
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -25.64327408287977,0.0,6.84796845724162
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -25.99886095339093,0.0,7.029912102217281
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -26.353752931908957,0.0,7.213270436633309
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -26.707338021668875,0.0,7.39906717291035
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -27.059093581340903,0.0,7.588097230750975
+[02:47:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -27.408622394716986,0.0,7.780904119446575
+[02:47:20] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved too quickly! -20.595142602668375,0.0,4.475316126912247
+[02:47:58] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved wrongly! 0.40341299846639345
+[02:47:58] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved wrongly! 0.4638653333105651
+[02:48:17] [Server thread/INFO]: PikNik issued server command: /home
+[02:49:05] [Server thread/INFO]: PikNik issued server command: /home
+[02:49:17] [Server thread/INFO]: PikNik issued server command: /home
+[02:51:13] [Server thread/INFO]: PikNik issued server command: /home
+[02:52:48] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[02:53:37] [Server thread/INFO]: TastySandvich_ issued server command: /spscancel
+[02:53:37] [Server thread/INFO]: TastySandvich_ issued server command: /spscancel
+[02:53:37] [Server thread/INFO]: TastySandvich_ issued server command: /spscancel
+[02:55:38] [Server thread/INFO]: PikNik issued server command: /home quartz
+[02:56:39] [Server thread/INFO]: PikNik issued server command: /home quartz2
+[02:56:56] [Server thread/INFO]: PikNik issued server command: /home 2
+[02:57:07] [Server thread/INFO]: PikNik issued server command: /home 5
+[02:58:13] [Server thread/INFO]: PikNik issued server command: /home
+[03:00:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved wrongly! 0.32941656576986134
+[03:00:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved wrongly! 1.016490146014803
+[03:00:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved wrongly! 0.6987171112634769
+[03:00:19] [Server thread/WARN]: Boat (vehicle of TastySandvich_) moved wrongly! 0.31588228046894073
+[03:00:24] [Server thread/INFO]: PikNik issued server command: /home
+[03:10:28] [Server thread/INFO]: pirateboy416 has made the advancement [What a Deal!]
+[03:11:28] [Server thread/INFO]: TastySandvich_ issued server command: /spscancel
+[03:11:46] [Server thread/INFO]: PikNik issued server command: /home
+[03:14:15] [Server thread/INFO]: TastySandvich_ issued server command: /spscancel
+[03:16:05] [Server thread/INFO]: PikNik issued server command: /home quartz2
+[03:16:15] [Server thread/INFO]: PikNik issued server command: /home
+[03:16:25] [Server thread/INFO]: PikNik issued server command: /home 2
+[03:17:10] [Async Chat Thread - #56/INFO]: <PikNik> i know[m
+[03:18:43] [Async Chat Thread - #57/INFO]: <PikNik> Eric is it possible to reset/overwrite /homes? Like I want my /home 5 to be /home farm[m
+[03:18:50] [Async Chat Thread - #57/INFO]: <TastySandvich_> you can delete homes[m
+[03:18:57] [Async Chat Thread - #57/INFO]: <PikNik> I can here you talk[m
+[03:19:12] [Async Chat Thread - #57/INFO]: <PikNik> thx[m
+[03:19:21] [Async Chat Thread - #57/INFO]: <PikNik> I cant talk cuz my mom is on the phone next to me[m
+[03:19:26] [Async Chat Thread - #57/INFO]: <PikNik> shes talking to her sister[m
+[03:19:28] [Async Chat Thread - #57/INFO]: <PikNik> its annoying[m
+[03:19:34] [Async Chat Thread - #57/INFO]: <PikNik> say "Marissa" louder[m
+[03:19:40] [Async Chat Thread - #57/INFO]: <PikNik> again[m
+[03:21:22] [Server thread/INFO]: PikNik issued server command: /home
+[03:21:33] [Server thread/INFO]: TastySandvich_ issued server command: /weather clear
+[03:21:33] [Server thread/INFO]: [TastySandvich_: Set the weather to clear]
+[03:22:31] [Server thread/INFO]: PikNik issued server command: /home
+[03:22:33] [Server thread/INFO]: PikNik was slain by pirateboy416
+[03:22:33] [Server thread/INFO]: PikNik issued server command: /home 2
+[03:23:30] [Server thread/INFO]: PikNik issued server command: /home
+[03:23:34] [Server thread/INFO]: PikNik issued server command: /home 2
+[03:23:50] [Server thread/INFO]: PikNik issued server command: /home
+[03:26:09] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[03:26:09] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/542082, l='ServerLevel[world]', x=-1015.00, y=13.00, z=-247.00](pirateboy416 at -1015.0,13.0,-247.0) left loaded chunk area
+[03:26:51] [Server thread/INFO]: PikNik issued server command: /home
+[03:32:16] [Server thread/INFO]: PikNik issued server command: /home
+[03:35:22] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[03:35:25] [Async Chat Thread - #58/INFO]: <PikNik> LOLLOLOLOLOLOL[m
+[03:35:27] [Server thread/INFO]: pirateboy416 issued server command: /back
+[03:35:27] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/542082, l='ServerLevel[world]', x=-1104.70, y=27.00, z=-267.30](pirateboy416 at -1104.699999988079,27.0,-267.30000001192093) left loaded chunk area
+[03:35:28] [Async Chat Thread - #58/INFO]: <PikNik> $*&*(#^$&^&%*$&#$^*&$Y*&#Y$*Y$#(*&$*[m
+[03:36:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28049ms or 560 ticks behind
+[03:36:03] [Server thread/WARN]: pirateboy416 moved wrongly!
+[03:37:00] [Async Chat Thread - #59/INFO]: <PikNik> ./toggle lag[m
+[03:37:07] [Async Chat Thread - #59/INFO]: <PikNik> ./set fps 120[m
+[03:38:27] [Server thread/INFO]: PikNik issued server command: /home
+[03:41:40] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[03:42:09] [Server thread/WARN]: TastySandvich_ moved too quickly! 5.133643786130278,-1.9816290030030217,-9.017083159443871
+[03:42:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5588ms or 111 ticks behind
+[03:42:28] [Server thread/INFO]: pirateboy416 issued server command: /back
+[03:42:44] [Server thread/INFO]: PikNik issued server command: /home 2
+[03:42:59] [Server thread/INFO]: PikNik issued server command: /home 4
+[03:42:59] [Server thread/WARN]: Entity EntityPlayer['PikNik'/539834, l='ServerLevel[world]', x=-1432.00, y=14.00, z=-614.00](PikNik at -1432.0,14.0,-614.0) left loaded chunk area
+[03:43:49] [Server thread/INFO]: PikNik issued server command: /home 4
+[03:46:20] [Server thread/INFO]: PikNik issued server command: /home
+[03:46:20] [Server thread/WARN]: Entity EntityPlayer['PikNik'/539834, l='ServerLevel[world]', x=-1278.00, y=77.00, z=-489.00](PikNik at -1278.0,77.0,-489.0) left loaded chunk area
+[03:49:07] [Async Chat Thread - #60/INFO]: <PikNik> setHome(4);[m
+[03:49:33] [Async Chat Thread - #60/INFO]: <PikNik> System.out.println("Home Set: " + setHome(4));[m
+[03:50:11] [Async Chat Thread - #60/INFO]: <PikNik> isFunny("pirateboy416");[m
+[03:50:16] [Async Chat Thread - #60/INFO]: <PikNik> false[m
+[03:51:13] [Server thread/INFO]: Villager EntityVillager['Farmer'/544098, l='ServerLevel[world]', x=-1324.17, y=75.00, z=-389.85] died, message: 'Farmer was slain by Zombie'
+[03:51:21] [Server thread/INFO]: Villager EntityVillager['Farmer'/557154, l='ServerLevel[world]', x=-1320.70, y=75.00, z=-385.30] died, message: 'Farmer was slain by Zombie'
+[03:51:31] [Server thread/INFO]: PikNik issued server command: /home
+[03:51:48] [Async Chat Thread - #61/INFO]: <PikNik> Jules > Yellow Jacket > Sun Strider[m
+[03:52:36] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:52:43] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:53:00] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:53:09] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:53:13] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:53:18] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:53:22] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:53:28] [Async Chat Thread - #62/INFO]: <PikNik> <.><.> <----- Tomb Raider PS2[m
+[03:53:43] [Async Chat Thread - #62/INFO]: <PikNik> (.)(.) <----- Tomb Raider PS5[m
+[03:53:48] [Server thread/INFO]: TastySandvich_ was slain by Zombie
+[03:53:51] [Async Chat Thread - #62/INFO]: <PikNik> Any further explanation?[m
+[03:54:33] [Server thread/INFO]: pirateboy416 was blown up by Creeper
+[03:54:38] [Server thread/INFO]: pirateboy416 issued server command: /back
+[03:54:38] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/542082, l='ServerLevel[world]', x=-943.81, y=21.00, z=-190.70](pirateboy416 at -943.8077412560499,21.0,-190.69999998807907) left loaded chunk area
+[04:00:14] [Server thread/INFO]: pirateboy416 issued server command: /home mine2
+[04:00:14] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/542082, l='ServerLevel[world]', x=-1015.00, y=13.00, z=-247.00](pirateboy416 at -1015.0,13.0,-247.0) left loaded chunk area
+[04:00:55] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[04:01:11] [Server thread/INFO]: PikNik issued server command: /home
+[04:01:12] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[04:01:12] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/542489, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[04:01:35] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[04:01:52] [Server thread/INFO]: PikNik issued server command: /home 5
+[04:02:01] [Server thread/INFO]: PikNik issued server command: /home
+[04:02:23] [Server thread/INFO]: PikNik issued server command: /home
+[04:03:18] [Server thread/INFO]: PikNik issued server command: /tpa TastySandvich_
+[04:03:21] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[04:03:33] [Server thread/INFO]: PikNik issued server command: /home
+[04:04:10] [Server thread/INFO]: PikNik issued server command: /home
+[04:04:27] [Server thread/INFO]: TastySandvich_ was slain by Zombie Villager
+[04:04:41] [Server thread/INFO]: PikNik issued server command: /home
+[04:06:52] [Server thread/INFO]: PikNik issued server command: /home 2
+[04:07:38] [Server thread/INFO]: PikNik issued server command: /home
+[04:14:37] [Async Chat Thread - #63/INFO]: <PikNik> *&$(*&(*%&(*#&$(&$*$&$*&$*($&($*&&$*$*$*$[m
+[04:16:53] [Async Chat Thread - #64/INFO]: <PikNik> Not Another Teen Movie[m
+[04:17:04] [Async Chat Thread - #64/INFO]: <PikNik> And it has bewbs[m
+[04:17:08] [Async Chat Thread - #64/INFO]: <PikNik> Real bewbs[m
+[04:17:56] [Server thread/INFO]: PikNik issued server command: /home
+[04:19:34] [Server thread/INFO]: PikNik issued server command: /home 2
+[04:19:39] [Server thread/INFO]: PikNik issued server command: /home
+[04:19:46] [Server thread/INFO]: PikNik issued server command: /home 2
+[04:19:57] [Server thread/INFO]: PikNik issued server command: /home
+[04:20:48] [Server thread/INFO]: PikNik issued server command: /home
+[04:21:36] [Server thread/INFO]: PikNik issued server command: /home
+[04:25:15] [Server thread/INFO]: PikNik issued server command: /home
+[04:25:25] [Server thread/INFO]: PikNik issued server command: /home 2
+[04:25:42] [Server thread/INFO]: pirateboy416 was slain by Zombie
+[04:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5079ms or 101 ticks behind
+[04:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5359ms or 107 ticks behind
+[04:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9123ms or 182 ticks behind
+[04:37:13] [Server thread/INFO]: PikNik issued server command: /home
+[04:37:14] [Server thread/WARN]: Entity EntityPlayer['PikNik'/539834, l='ServerLevel[world]', x=-1278.00, y=77.00, z=-489.00](PikNik at -1278.0,77.0,-489.0) left loaded chunk area
+[04:37:24] [Server thread/INFO]: PikNik issued server command: /home 2
+[04:38:01] [Server thread/INFO]: PikNik issued server command: /home 4
+[04:38:01] [Server thread/WARN]: Entity EntityPlayer['PikNik'/539834, l='ServerLevel[world]', x=-1432.00, y=14.00, z=-614.00](PikNik at -1432.0,14.0,-614.0) left loaded chunk area
+[04:40:43] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[04:40:44] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[04:41:05] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[04:41:05] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[04:41:46] [Server thread/WARN]: TastySandvich_ moved wrongly!
+[04:42:43] [Server thread/INFO]: PikNik issued server command: /home
+[04:45:43] [Server thread/INFO]: pirateboy416 issued server command: /back
+[04:47:31] [Server thread/INFO]: PikNik issued server command: /home
+[04:49:13] [Server thread/INFO]: PikNik issued server command: /home
+[04:52:26] [Server thread/INFO]: PikNik issued server command: /home
+[04:56:59] [Server thread/INFO]: pirateboy416 fell from a high place
+[04:57:04] [Server thread/INFO]: PikNik issued server command: /sethome 5
+[04:57:04] [Server thread/INFO]: pirateboy416 issued server command: /back
+[04:57:10] [Server thread/INFO]: PikNik issued server command: /home
+[04:57:26] [Server thread/INFO]: PikNik issued server command: /home
+[04:57:29] [Server thread/INFO]: PikNik issued server command: /home 6
+[04:57:33] [Server thread/INFO]: PikNik issued server command: /home
+[04:57:44] [Server thread/INFO]: PikNik issued server command: /sethome 6
+[04:57:47] [Server thread/INFO]: PikNik issued server command: /home
+[04:58:02] [Server thread/INFO]: TastySandvich_ issued server command: /tpa PikNik
+[04:58:05] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[04:58:24] [Server thread/INFO]: PikNik issued server command: /home 6
+[04:58:27] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[04:58:28] [Server thread/INFO]: pirateboy416 fell from a high place
+[04:58:30] [Server thread/INFO]: PikNik issued server command: /home 5
+[04:58:32] [Server thread/INFO]: pirateboy416 issued server command: /back
+[04:58:50] [Server thread/INFO]: PikNik issued server command: /home
+[04:59:20] [Server thread/INFO]: pirateboy416 fell from a high place
+[04:59:24] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:00:03] [Server thread/INFO]: pirateboy416 fell from a high place
+[05:00:04] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:00:07] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:00:38] [Server thread/INFO]: pirateboy416 fell from a high place
+[05:00:44] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:01:40] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:01:40] [Server thread/INFO]: pirateboy416 fell from a high place
+[05:01:43] [Server thread/INFO]: PikNik issued server command: /hoem 5
+[05:01:44] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:01:45] [Server thread/INFO]: PikNik issued server command: /hoome 5
+[05:01:48] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:02:49] [Server thread/INFO]: PikNik issued server command: /home
+[05:03:24] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:03:28] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:03:37] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:04:03] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:04:17] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:04:22] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:04:30] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:04:33] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:04:46] [Server thread/INFO]: pirateboy416 fell from a high place
+[05:04:50] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:05:09] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:05:13] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:05:28] [Server thread/INFO]: pirateboy416 was shot by Skeleton
+[05:05:32] [Server thread/INFO]: pirateboy416 issued server command: /back
+[05:05:51] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:07:17] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:07:19] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:07:57] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:08:25] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:11:07] [Server thread/INFO]: pirateboy416 issued server command: /spscancel
+[05:11:19] [Server thread/INFO]: PikNik issued server command: /hoem 6
+[05:11:21] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:16:57] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:17:38] [Server thread/INFO]: PikNik issued server command: /home
+[05:17:49] [Server thread/INFO]: PikNik issued server command: /home 2
+[05:20:14] [Server thread/INFO]: PikNik issued server command: /home
+[05:21:40] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:22:06] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:22:08] [Server thread/INFO]: PikNik issued server command: /home
+[05:22:51] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:23:12] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:23:21] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:23:36] [Server thread/INFO]: PikNik issued server command: /home
+[05:23:50] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:23:53] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:24:22] [Server thread/INFO]: PikNik issued server command: /home
+[05:24:35] [Server thread/INFO]: PikNik issued server command: /home
+[05:24:37] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:25:07] [Server thread/INFO]: PikNik issued server command: /home
+[05:25:18] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:25:43] [Server thread/INFO]: PikNik issued server command: /home
+[05:26:44] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:28:05] [Server thread/INFO]: PikNik issued server command: /sethome 7
+[05:28:32] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:28:47] [Server thread/INFO]: PikNik issued server command: /home
+[05:31:08] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:32:44] [Server thread/INFO]: PikNik issued server command: /sethome 8
+[05:32:49] [Server thread/INFO]: PikNik issued server command: /sethome quartz
+[05:32:56] [Server thread/INFO]: PikNik issued server command: /home
+[05:32:58] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:33:08] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:34:56] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:35:07] [Server thread/INFO]: PikNik issued server command: /sethome quartz
+[05:35:08] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:35:19] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:35:52] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:36:06] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode spectator
+[05:36:06] [Server thread/INFO]: [TastySandvich_: Set own game mode to Spectator Mode]
+[05:36:40] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode creative
+[05:36:40] [Server thread/INFO]: [TastySandvich_: Set own game mode to Creative Mode]
+[05:36:49] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:37:06] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode surviavl
+[05:37:25] [Server thread/INFO]: TastySandvich_ issued server command: /gamemode survival
+[05:37:25] [Server thread/INFO]: [TastySandvich_: Set own game mode to Survival Mode]
+[05:38:48] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:39:12] [User Authenticator #98/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[05:39:14] [Server thread/INFO]: Snickers7070[/127.0.0.1:58984] logged in with entity id 600002 at ([world]-2450.1654987281504, 64.0, -504.2243056968635)
+[05:40:12] [Server thread/INFO]: TastySandvich_ issued server command: /tpa Snickers7070
+[05:40:17] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[05:40:27] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:41:35] [Server thread/INFO]: PikNik issued server command: /sethome 5
+[05:41:37] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:41:49] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:42:01] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:42:05] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:42:36] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:43:03] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[05:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6095ms or 121 ticks behind
+[05:43:18] [Server thread/WARN]: TastySandvich_ moved too quickly! -6.486068619541129,-0.20326439933128881,13.076929258998291
+[05:43:18] [Server thread/WARN]: PikNik moved wrongly!
+[05:43:45] [Server thread/INFO]: TastySandvich_ issued server command: /tp TastySandvich_ -1315 73 -375
+[05:43:45] [Server thread/INFO]: [TastySandvich_: Teleported TastySandvich_ to -1314.5, 73.0, -374.5]
+[05:43:46] [Server thread/INFO]: TastySandvich_ issued server command: /tppos -1315 73 -375
+[05:43:47] [Server thread/INFO]: PikNik issued server command: /home
+[05:44:09] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:45:03] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:45:38] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:45:55] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:46:03] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:46:13] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:46:22] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:46:47] [Server thread/INFO]: PikNik issued server command: /sethome quartz
+[05:46:49] [Server thread/INFO]: PikNik issued server command: /home
+[05:47:00] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:47:51] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:48:07] [Server thread/INFO]: pirateboy416 issued server command: /tpa snickers7070
+[05:48:10] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[05:48:17] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[05:48:24] [Server thread/INFO]: PikNik issued server command: /home 2
+[05:48:28] [Server thread/INFO]: Snickers7070 issued server command: /tprequest PikNik
+[05:48:36] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:48:38] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[05:48:39] [Server thread/WARN]: Snickers7070 moved too quickly! -1437.7754892434423,-37.0,-197.44387729301894
+[05:48:40] [Server thread/INFO]: PikNik suffocated in a wall
+[05:48:42] [Server thread/INFO]: Snickers7070 issued server command: /home
+[05:48:43] [Server thread/WARN]: Entity EntityPlayer['Snickers7070'/600002, l='ServerLevel[world]', x=-2463.00, y=65.00, z=-487.00](Snickers7070 at -2463.0,65.0,-487.0) left loaded chunk area
+[05:48:46] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[05:48:47] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:48:55] [Server thread/INFO]: PikNik issued server command: /home
+[05:49:11] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:49:12] [Server thread/INFO]: PikNik suffocated in a wall
+[05:49:15] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:49:26] [Server thread/INFO]: PikNik issued server command: /home 2
+[05:49:28] [Server thread/INFO]: PikNik issued server command: /home
+[05:49:49] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:50:23] [Server thread/INFO]: PikNik issued server command: /sethome quartz
+[05:51:14] [Server thread/INFO]: PikNik issued server command: /home 6
+[05:51:39] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[05:51:43] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[05:52:01] [Server thread/INFO]: PikNik issued server command: /home 5
+[05:52:35] [Server thread/INFO]: PikNik issued server command: /tpahere Snickers7070
+[05:52:39] [Server thread/INFO]: Snickers7070 issued server command: /tpdeny
+[05:52:42] [Async Chat Thread - #65/INFO]: <Snickers7070> lol[m
+[05:52:48] [Async Chat Thread - #65/INFO]: <Snickers7070> in a second[m
+[05:52:50] [Async Chat Thread - #65/INFO]: <Snickers7070> chilllll[m
+[05:52:54] [Async Chat Thread - #65/INFO]: <PikNik> NIONSFINOEIWANDOINDF[m
+[05:52:55] [Async Chat Thread - #65/INFO]: <PikNik> JBDFIJLHSBNIHJDBFSIBNF[m
+[05:52:57] [Async Chat Thread - #65/INFO]: <PikNik> IM CHILL[m
+[05:52:59] [Async Chat Thread - #65/INFO]: <PikNik> NRIBNUBIDBIJB[m
+[05:53:00] [Async Chat Thread - #65/INFO]: <PikNik> NDFKJBNKFJSBNKJDBNJKF[m
+[05:53:03] [Async Chat Thread - #65/INFO]: <PikNik> JFNDJNFDNSOFOHO:IHJDOI:HFOI:SHF:ONFOJNDSFJNF[m
+[05:53:08] [Async Chat Thread - #65/INFO]: <PikNik> ¨©ˆ¬¥¨ƒ©¥ß©ˆ¬¨©∂¬¨ˆ©¬ˆ¨ß¥©ˆ´¨˙©¬£¢¶©∫ˆ¨´˙¬[m
+[05:53:22] [Async Chat Thread - #65/INFO]: <PikNik> ∫x^2[m
+[05:53:36] [Async Chat Thread - #65/INFO]: <PikNik> ∫˜˜˜˜˜˜˜˜˜˜[m
+[05:53:38] [Async Chat Thread - #65/INFO]: <PikNik> ßßßß[m
+[05:53:53] [Server thread/INFO]: PikNik was slain by Zombie
+[05:53:53] [Async Chat Thread - #65/INFO]: <PikNik> œ∑´®†¥¨ˆøπåß∂ƒ©˙∆˚¬Ω≈ç[m
+[05:53:59] [Server thread/INFO]: PikNik issued server command: /back
+[05:54:13] [Server thread/INFO]: Snickers7070 issued server command: /tell pirateboy416 should i give nik his netherite
+[05:54:14] [Server thread/INFO]: PikNik was killed trying to hurt Zombie
+[05:54:17] [Server thread/INFO]: pirateboy416 issued server command: /tpahere pinik
+[05:54:20] [Server thread/INFO]: PikNik issued server command: /back
+[05:54:22] [Server thread/INFO]: pirateboy416 issued server command: /tpahere piknik
+[05:54:23] [Server thread/INFO]: Snickers7070 issued server command: /tell pirateboy416 netherite pick
+[05:54:27] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[05:54:40] [Server thread/INFO]: PikNik issued server command: /tpahere Snickers7070
+[05:54:42] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[05:54:45] [Async Chat Thread - #65/INFO]: <TastySandvich_> ÁÉÓÚáéíóúñÑ¡¿[m
+[05:54:54] [Server thread/INFO]: Snickers7070 issued server command: /home
+[05:54:54] [Server thread/WARN]: Entity EntityPlayer['Snickers7070'/600002, l='ServerLevel[world]', x=-2463.00, y=65.00, z=-487.00](Snickers7070 at -2463.0,65.0,-487.0) left loaded chunk area
+[05:54:56] [Server thread/INFO]: PikNik issued server command: /home
+[05:55:16] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[05:55:24] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[05:55:25] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[05:55:26] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[05:55:26] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[05:55:26] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[05:55:27] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[05:55:42] [Server thread/INFO]: PikNik issued server command: /home quartz
+[05:55:46] [Server thread/INFO]: PikNik fell from a high place
+[05:55:50] [Server thread/INFO]: PikNik issued server command: /back
+[05:56:30] [Async Chat Thread - #66/INFO]: <PikNik> Poggers[m
+[05:56:41] [Async Chat Thread - #66/INFO]: <PikNik> Poggirs[m
+[05:56:44] [Async Chat Thread - #66/INFO]: <PikNik> Pawgurs[m
+[05:56:50] [Async Chat Thread - #66/INFO]: <PikNik> Pahgers[m
+[05:57:01] [Async Chat Thread - #66/INFO]: <PikNik> pugurs[m
+[05:57:03] [Server thread/INFO]: PikNik was slain by pirateboy416
+[05:57:08] [Server thread/INFO]: PikNik issued server command: /back
+[05:57:13] [Server thread/INFO]: Snickers7070 issued server command: /sethome
+[05:57:19] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[05:57:20] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[06:02:00] [Server thread/INFO]: PikNik issued server command: /delhome quartz2
+[06:02:04] [Server thread/INFO]: TastySandvich_ issued server command: /tpa Snickers7070
+[06:02:05] [Server thread/INFO]: PikNik issued server command: /sethome village
+[06:02:08] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[06:02:12] [Server thread/INFO]: PikNik issued server command: /tpahere TastySandvich_
+[06:02:23] [Server thread/INFO]: PikNik issued server command: /home
+[06:02:39] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:03:06] [Server thread/INFO]: PikNik issued server command: /home village
+[06:03:54] [Server thread/INFO]: PikNik issued server command: /home
+[06:05:01] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[06:06:36] [Server thread/INFO]: Snickers7070 issued server command: /sethome
+[06:06:43] [Server thread/INFO]: Snickers7070 issued server command: /tprequest TastySandvich_
+[06:06:45] [Server thread/INFO]: TastySandvich_ issued server command: /tpaccept
+[06:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5933ms or 118 ticks behind
+[06:08:59] [Server thread/INFO]: Snickers7070 lost connection: Timed out
+[06:09:00] [Server thread/INFO]: Snickers7070 left the game
+[06:09:03] [User Authenticator #99/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[06:09:04] [Server thread/INFO]: Snickers7070[/127.0.0.1:59012] logged in with entity id 613645 at ([world]-1325.6743934982171, 70.0, -358.01773394633364)
+[06:09:05] [Server thread/WARN]: pirateboy416 moved too quickly! 5.851726690568967,-2.0,-7.897205266688502
+[06:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25599ms or 511 ticks behind
+[06:10:00] [Server thread/INFO]: PikNik issued server command: /home
+[06:11:30] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[06:11:37] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:11:38] [Server thread/INFO]: PikNik issued server command: /home
+[06:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5051ms or 101 ticks behind
+[06:12:08] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:12:35] [Server thread/INFO]: PikNik issued server command: /home
+[06:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[06:13:22] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[06:13:26] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
+[06:14:00] [Server thread/INFO]: PikNik issued server command: /home
+[06:14:05] [Server thread/WARN]: pirateboy416 moved too quickly! -11.699379759990734,0.757002463247801,8.934612275120571
+[06:14:18] [Server thread/INFO]: PikNik issued server command: /home
+[06:14:31] [Server thread/INFO]: PikNik issued server command: /homr
+[06:14:33] [Server thread/INFO]: PikNik issued server command: /home
+[06:14:37] [Server thread/INFO]: PikNik issued server command: /home
+[06:14:40] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:15:15] [Server thread/INFO]: pirateboy416 was shot by PikNik
+[06:15:18] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:15:20] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:15:24] [Server thread/INFO]: PikNik issued server command: /home
+[06:15:35] [Server thread/INFO]: PikNik issued server command: /home
+[06:15:40] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:17:25] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard teams add "gay buddies"
+[06:17:42] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard teams add gayboys
+[06:17:52] [Server thread/INFO]: PikNik was slain by pirateboy416
+[06:17:57] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard
+[06:18:10] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard
+[06:18:15] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard teams add
+[06:18:17] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard teams
+[06:18:26] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard help
+[06:18:28] [Server thread/INFO]: TastySandvich_ issued server command: /help scoreboard
+[06:18:37] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard
+[06:18:41] [Server thread/INFO]: TastySandvich_ issued server command: /scoreboard players
+[06:18:50] [Server thread/INFO]: PikNik was slain by pirateboy416
+[06:18:52] [Server thread/INFO]: TastySandvich_ issued server command: /help scoreboard
+[06:19:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6073ms or 121 ticks behind
+[06:19:42] [Server thread/INFO]: TastySandvich_ issued server command: /team add "gay lovers"
+[06:19:50] [Server thread/INFO]: TastySandvich_ issued server command: /team add gay_lovers
+[06:19:51] [Server thread/INFO]: [TastySandvich_: Created team [gay_lovers]]
+[06:20:09] [Server thread/INFO]: TastySandvich_ issued server command: /team join gay_lovers pirateboy416
+[06:20:09] [Server thread/INFO]: [TastySandvich_: Added pirateboy416 to team [gay_lovers]]
+[06:20:10] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:20:16] [Server thread/INFO]: TastySandvich_ issued server command: /team join gay_lovers PikNik
+[06:20:16] [Server thread/INFO]: [TastySandvich_: Added PikNik to team [gay_lovers]]
+[06:20:26] [Server thread/INFO]: PikNik issued server command: /home
+[06:21:08] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:25:46] [Async Chat Thread - #67/INFO]: <Snickers7070> nigger[m
+[06:26:14] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[06:26:19] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:26:31] [Server thread/WARN]: PikNik moved too quickly! 5.350774346790331,-4.0,13.107989823450168
+[06:26:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
+[06:26:38] [Server thread/INFO]: PikNik issued server command: /tpahere pirateboy416
+[06:26:41] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[06:26:55] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:27:20] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:27:41] [Server thread/WARN]: PikNik moved wrongly!
+[06:27:53] [Server thread/INFO]: PikNik lost connection: Disconnected
+[06:27:53] [Server thread/INFO]: PikNik left the game
+[06:27:56] [User Authenticator #100/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[06:27:57] [Server thread/INFO]: PikNik[/127.0.0.1:59024] logged in with entity id 617621 at ([world]-1310.760345098992, 72.9375, -381.84974464905065)
+[06:30:39] [Server thread/INFO]: PikNik issued server command: /home
+[06:31:53] [Server thread/INFO]: PikNik issued server command: /home
+[06:32:39] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:32:58] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:33:09] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[06:33:14] [Server thread/INFO]: PikNik fell from a high place
+[06:33:19] [Server thread/INFO]: PikNik issued server command: /back
+[06:33:23] [Async Chat Thread - #68/INFO]: <PikNik> poochie[m
+[06:33:31] [Server thread/INFO]: PikNik issued server command: /home
+[06:33:49] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:33:56] [User Authenticator #101/INFO]: UUID of player cowacorns is 8b0cc839-5848-4a17-aff4-4aef44b62886
+[06:33:56] [Server thread/INFO]: cowacorns[/127.0.0.1:59040] logged in with entity id 618919 at ([world]-213.5, 86.0, 29.5)
+[06:33:58] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:00] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:01] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:02] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:03] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:04] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:04] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:05] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:05] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:05] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:06] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:06] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:07] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:07] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:07] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:08] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:34:23] [Server thread/INFO]: PikNik issued server command: /msg Snickers7070 accept (0-0)
+[06:34:26] [Server thread/INFO]: cowacorns issued server command: /spscancel
+[06:34:40] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:34:44] [Server thread/INFO]: PikNik issued server command: /tpahere cowacorns
+[06:34:48] [Server thread/INFO]: cowacorns issued server command: /tpaccept
+[06:35:11] [Server thread/INFO]: PikNik issued server command: /tpahere cowacorns
+[06:35:25] [Server thread/INFO]: PikNik issued server command: /tpahere cowacorns
+[06:35:37] [Server thread/INFO]: cowacorns issued server command: /tpaccept
+[06:36:44] [Server thread/INFO]: cowacorns drowned whilst trying to escape PikNik
+[06:36:49] [Server thread/INFO]: cowacorns issued server command: /back
+[06:36:53] [Server thread/INFO]: PikNik was slain by pirateboy416
+[06:36:57] [Server thread/INFO]: PikNik issued server command: /home
+[06:38:24] [Server thread/INFO]: TastySandvich_ issued server command: /team modify gay_lovers friendlyFire false
+[06:38:24] [Server thread/INFO]: [TastySandvich_: Disabled friendly fire for team [gay_lovers]]
+[06:40:02] [Server thread/INFO]: Snickers7070 issued server command: //
+[06:43:03] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:44:41] [Server thread/INFO]: PikNik issued server command: /home
+[06:45:03] [Server thread/INFO]: cowacorns was poked to death by a sweet berry bush
+[06:45:07] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:45:07] [Server thread/INFO]: cowacorns issued server command: /back
+[06:45:24] [Server thread/INFO]: cowacorns has made the advancement [A Seedy Place]
+[06:46:25] [Server thread/INFO]: PikNik lost connection: Disconnected
+[06:46:25] [Server thread/INFO]: PikNik left the game
+[06:46:28] [User Authenticator #102/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[06:46:28] [Server thread/INFO]: PikNik[/127.0.0.1:59058] logged in with entity id 622019 at ([world]-1317.5099999904633, 18.0625, -424.5)
+[06:46:53] [Async Chat Thread - #69/INFO]: <PikNik> No[m
+[06:47:12] [Server thread/INFO]: cowacorns has made the advancement [What a Deal!]
+[06:47:31] [Server thread/INFO]: PikNik issued server command: /home
+[06:48:06] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:48:42] [Server thread/INFO]: PikNik issued server command: /delhome quartz
+[06:48:49] [Server thread/INFO]: PikNik issued server command: /sethome xp
+[06:49:31] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:51:24] [Server thread/INFO]: PikNik issued server command: /home
+[06:52:31] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:52:40] [Server thread/WARN]: Boat (vehicle of pirateboy416) moved wrongly! 0.38851216771854524
+[06:52:40] [Server thread/WARN]: Boat (vehicle of pirateboy416) moved wrongly! 0.583845405484908
+[06:53:03] [Server thread/INFO]: PikNik issued server command: /home
+[06:53:23] [Server thread/INFO]: PikNik issued server command: /home xp
+[06:53:46] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:54:12] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[06:54:24] [Async Chat Thread - #70/INFO]: <Snickers7070> fuck you nick kill yourself[m
+[06:54:50] [Server thread/INFO]: Snickers7070 was shot by PikNik using [Mida's Drum Gun]
+[06:54:54] [Server thread/INFO]: Snickers7070 issued server command: /back
+[06:54:55] [Server thread/INFO]: pirateboy416 was slain by Enderman
+[06:54:59] [Server thread/INFO]: pirateboy416 issued server command: /back
+[06:54:59] [Server thread/WARN]: Entity EntityPlayer['pirateboy416'/542082, l='ServerLevel[world]', x=-1194.48, y=65.00, z=-542.94](pirateboy416 at -1194.4805091637497,65.0,-542.9437734613596) left loaded chunk area
+[06:55:26] [Server thread/INFO]: Snickers7070 was shot by PikNik using [Mida's Drum Gun]
+[06:55:30] [Server thread/INFO]: Snickers7070 issued server command: /back
+[06:55:39] [Server thread/INFO]: Snickers7070 was shot by PikNik using [Mida's Drum Gun]
+[06:55:44] [Server thread/INFO]: Snickers7070 issued server command: /back
+[06:56:36] [Server thread/INFO]: PikNik issued server command: /home xp
+[06:57:03] [Async Chat Thread - #71/INFO]: <Snickers7070> cant talk anymore :([m
+[06:57:08] [Async Chat Thread - #71/INFO]: <Snickers7070> nicks fault[m
+[06:57:08] [Async Chat Thread - #71/INFO]: <PikNik> LOL[m
+[06:57:12] [Async Chat Thread - #71/INFO]: <pirateboy416> fag[m
+[06:57:15] [Async Chat Thread - #71/INFO]: <PikNik> gaf[m
+[06:57:17] [Async Chat Thread - #71/INFO]: <PikNik> fag*[m
+[06:57:19] [Server thread/INFO]: cowacorns issued server command: /spscancel
+[06:57:27] [Async Chat Thread - #71/INFO]: <PikNik> what does fag mean[m
+[06:57:29] [Async Chat Thread - #71/INFO]: <pirateboy416> nicks a fag i hate him[m
+[06:57:29] [Async Chat Thread - #71/INFO]: <Snickers7070> redditfag[m
+[06:57:36] [Async Chat Thread - #71/INFO]: <pirateboy416> bc hes a fag(gay)[m
+[06:57:43] [Async Chat Thread - #71/INFO]: <PikNik> It means gay?[m
+[06:58:03] [Async Chat Thread - #71/INFO]: <PikNik> Then yes I am a fag[m
+[06:58:25] [Server thread/INFO]: PikNik issued server command: /home 2
+[06:58:49] [Async Chat Thread - #71/INFO]: <Snickers7070> can i have ur netherite pick[m
+[06:58:57] [Async Chat Thread - #71/INFO]: <PikNik> no[m
+[06:59:00] [Async Chat Thread - #71/INFO]: <Snickers7070> cool thanks[m
+[06:59:15] [Async Chat Thread - #71/INFO]: <Snickers7070> we do[m
+[06:59:17] [Async Chat Thread - #71/INFO]: <Snickers7070> follow me[m
+[06:59:29] [Async Chat Thread - #71/INFO]: <Snickers7070> fag jonathan telling me to shut up[m
+[06:59:41] [Async Chat Thread - #71/INFO]: <Snickers7070> sleeping[m
+[06:59:48] [Async Chat Thread - #71/INFO]: <Snickers7070> IKR[m
+[06:59:54] [Async Chat Thread - #71/INFO]: <Snickers7070> lol[m
+[07:00:34] [Async Chat Thread - #71/INFO]: <Snickers7070> make sure to put at least one item in each slot[m
+[07:00:42] [Async Chat Thread - #71/INFO]: <Snickers7070> fuck off nick[m
+[07:01:06] [Async Chat Thread - #71/INFO]: <Snickers7070> the what[m
+[07:01:11] [Async Chat Thread - #71/INFO]: <Snickers7070> come here[m
+[07:01:15] [Server thread/INFO]: cowacorns issued server command: /tpa Snickers7070
+[07:01:20] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[07:01:29] [Server thread/INFO]: cowacorns has made the advancement [Acquire Hardware]
+[07:01:30] [Async Chat Thread - #71/INFO]: <Snickers7070> put one in each slot[m
+[07:01:33] [Async Chat Thread - #71/INFO]: <Snickers7070> yeah[m
+[07:01:37] [Async Chat Thread - #71/INFO]: <Snickers7070> put one iron ingot back[m
+[07:01:41] [Async Chat Thread - #71/INFO]: <Snickers7070> oh you did[m
+[07:01:42] [Async Chat Thread - #71/INFO]: <Snickers7070> nice[m
+[07:02:02] [Async Chat Thread - #71/INFO]: <pirateboy416> no one go near the villiggers please[m
+[07:02:13] [Async Chat Thread - #71/INFO]: <Snickers7070> ima fist fight them[m
+[07:02:36] [Async Chat Thread - #71/INFO]: <Snickers7070> yes[m
+[07:02:38] [Async Chat Thread - #71/INFO]: <Snickers7070> do mind[m
+[07:02:51] [Server thread/INFO]: PikNik issued server command: /home
+[07:02:52] [Async Chat Thread - #71/INFO]: <Snickers7070> no[m
+[07:02:55] [Async Chat Thread - #71/INFO]: <Snickers7070> on moms[m
+[07:03:20] [Async Chat Thread - #71/INFO]: <Snickers7070> where[m
+[07:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6003ms or 120 ticks behind
+[07:03:28] [Async Chat Thread - #71/INFO]: <Snickers7070> maybe theyre both duded[m
+[07:04:06] [Async Chat Thread - #71/INFO]: <Snickers7070> shut up bitch[m
+[07:04:10] [Async Chat Thread - #71/INFO]: <Snickers7070> nick[m
+[07:04:14] [Async Chat Thread - #71/INFO]: <PikNik> what did i say[m
+[07:04:18] [Async Chat Thread - #71/INFO]: <Snickers7070> idk[m
+[07:04:24] [Async Chat Thread - #71/INFO]: <PikNik> I just said im lagging[m
+[07:04:26] [Async Chat Thread - #71/INFO]: <PikNik> bruh[m
+[07:04:28] [Async Chat Thread - #71/INFO]: <PikNik> chill[m
+[07:04:29] [Async Chat Thread - #71/INFO]: <PikNik> ax[m
+[07:04:30] [Async Chat Thread - #71/INFO]: <Snickers7070> lol[m
+[07:04:44] [Async Chat Thread - #71/INFO]: <PikNik> But pumkin[m
+[07:04:51] [Async Chat Thread - #71/INFO]: <Snickers7070> ORANGE MAN BAD[m
+[07:04:54] [Async Chat Thread - #71/INFO]: <Snickers7070> LOLOLOLOLOL[m
+[07:05:04] [Async Chat Thread - #71/INFO]: <Snickers7070> they need to be married[m
+[07:05:20] [Server thread/INFO]: PikNik issued server command: /home
+[07:05:21] [Async Chat Thread - #71/INFO]: <Snickers7070> time to cancel gay marriage sis[m
+[07:05:43] [Async Chat Thread - #71/INFO]: <Snickers7070> livin on a prayer[m
+[07:06:06] [Async Chat Thread - #71/INFO]: <Snickers7070> shut up mom[m
+[07:06:37] [Async Chat Thread - #71/INFO]: <PikNik> someone craft a gay pride banner[m
+[07:06:43] [Async Chat Thread - #71/INFO]: <Snickers7070> NO[m
+[07:06:50] [Async Chat Thread - #71/INFO]: <Snickers7070> ill mine ur house[m
+[07:06:53] [Async Chat Thread - #71/INFO]: <PikNik> no[m
+[07:07:10] [Async Chat Thread - #71/INFO]: <Snickers7070> 815 penis ave[m
+[07:07:23] [Async Chat Thread - #71/INFO]: <Snickers7070> i dont stan reylo[m
+[07:07:29] [Async Chat Thread - #71/INFO]: <pirateboy416> 891 penis ave[m
+[07:07:32] [Async Chat Thread - #71/INFO]: <Snickers7070> NO[m
+[07:07:35] [Async Chat Thread - #71/INFO]: <Snickers7070> NOT POG[m
+[07:08:17] [Async Chat Thread - #71/INFO]: <Snickers7070> dont u mean star wars episode 10[m
+[07:08:26] [Async Chat Thread - #71/INFO]: <PikNik> 9[m
+[07:08:32] [Async Chat Thread - #71/INFO]: <PikNik> cuz that movie was a roller coaster[m
+[07:08:32] [Async Chat Thread - #71/INFO]: <Snickers7070> why nines already out wtf[m
+[07:08:36] [Async Chat Thread - #71/INFO]: <PikNik> it was strange[m
+[07:08:38] [Async Chat Thread - #71/INFO]: <PikNik> but good[m
+[07:08:47] [Async Chat Thread - #71/INFO]: <PikNik> so[m
+[07:09:06] [Async Chat Thread - #71/INFO]: <PikNik> BLM Debate in my House <------ TP[m
+[07:09:10] [Async Chat Thread - #71/INFO]: <Snickers7070> whos daisy ridley queen[m
+[07:09:27] [Async Chat Thread - #71/INFO]: <Snickers7070> my case against the blacks[m
+[07:09:36] [Async Chat Thread - #71/INFO]: <Snickers7070> despite making up 13 percent of the population...[m
+[07:09:55] [Async Chat Thread - #71/INFO]: <PikNik> guys the statistics for white male murders is slcaking, we've went down since last year[m
+[07:09:55] [Server thread/INFO]: cowacorns issued server command: /spscancel
+[07:09:55] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:10:01] [Async Chat Thread - #71/INFO]: <PikNik> u know what to do[m
+[07:10:13] [Server thread/INFO]: cowacorns issued server command: /spscancel
+[07:10:13] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:10:20] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:10:20] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:10:22] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:10:27] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:10:27] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:10:32] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:10:33] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:10:33] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:10:41] [Async Chat Thread - #71/INFO]: <Snickers7070> no its logan[m
+[07:10:45] [Async Chat Thread - #71/INFO]: <PikNik> Hi Noah <3[m
+[07:10:47] [Async Chat Thread - #71/INFO]: <Snickers7070> thats logans[m
+[07:10:49] [Async Chat Thread - #71/INFO]: <PikNik> kissy kiss?[m
+[07:10:50] [Async Chat Thread - #71/INFO]: <Snickers7070> not noahs[m
+[07:11:00] [Async Chat Thread - #71/INFO]: <PikNik> *smoooooch*[m
+[07:11:04] [Async Chat Thread - #71/INFO]: <PikNik> *blush*[m
+[07:11:06] [Async Chat Thread - #71/INFO]: <PikNik> uwu[m
+[07:11:06] [Async Chat Thread - #71/INFO]: <Snickers7070> wtf is this lmao[m
+[07:11:11] [Async Chat Thread - #71/INFO]: <PikNik> Role play[m
+[07:11:11] [Async Chat Thread - #71/INFO]: <Snickers7070> EW GET OFF ME NIGGA[m
+[07:11:29] [Async Chat Thread - #71/INFO]: <PikNik> BLM Protest outside my house[m
+[07:11:42] [Async Chat Thread - #71/INFO]: <Snickers7070> *is white*[m
+[07:11:42] [Async Chat Thread - #71/INFO]: <PikNik> yes[m
+[07:12:10] [Async Chat Thread - #71/INFO]: <PikNik> BLM (Bacon Lives Matter) cuz im half pig[m
+[07:12:23] [Async Chat Thread - #71/INFO]: <Snickers7070> half pig full nig[m
+[07:12:32] [Async Chat Thread - #71/INFO]: <PikNik> cant talk now[m
+[07:12:34] [Async Chat Thread - #71/INFO]: <Snickers7070> who tf is mida[m
+[07:12:40] [Async Chat Thread - #71/INFO]: <PikNik> or ill be put downstairs[m
+[07:13:09] [Async Chat Thread - #71/INFO]: <Snickers7070> COWACORNS WTF[m
+[07:13:13] [Async Chat Thread - #71/INFO]: <Snickers7070> YOU BROKE THE ROLLERCOASTER[m
+[07:13:30] [Server thread/INFO]: cowacorns fell from a high place
+[07:13:34] [Async Chat Thread - #71/INFO]: <Snickers7070> EZ[m
+[07:13:37] [Server thread/INFO]: cowacorns issued server command: /back
+[07:14:02] [Async Chat Thread - #71/INFO]: <Snickers7070> BABE[m
+[07:14:12] [Async Chat Thread - #71/INFO]: <PikNik> we're through![m
+[07:14:13] [Async Chat Thread - #71/INFO]: <Snickers7070> stawp it[m
+[07:14:24] [Async Chat Thread - #71/INFO]: <PikNik> i caught u seeing someone else[m
+[07:14:34] [Async Chat Thread - #71/INFO]: <PikNik> youve been sending memes to other guys[m
+[07:14:39] [Async Chat Thread - #71/INFO]: <Snickers7070> BABE ID NEVER DO THAT TO YOU IN A MILLION TRILLION YEARS[m
+[07:14:44] [Async Chat Thread - #71/INFO]: <Snickers7070> THEYRE JUST FRIEEEENDS[m
+[07:14:52] [Async Chat Thread - #71/INFO]: <PikNik> JUST FRIENDS?![m
+[07:15:01] [Async Chat Thread - #71/INFO]: <PikNik> U SENT THEM MY MEMES[m
+[07:15:02] [Async Chat Thread - #71/INFO]: <Snickers7070> YEEEEEEEEEES BABE IM TELLING U BABE[m
+[07:15:04] [Async Chat Thread - #71/INFO]: <PikNik> MY MEMES[m
+[07:15:12] [Async Chat Thread - #71/INFO]: <Snickers7070> I JUST FOLLOW THE SAME ACCOUNTS[m
+[07:15:17] [Async Chat Thread - #71/INFO]: <PikNik> LEAVE OR ILL UNLEASH MY FEMALE WRATH[m
+[07:15:24] [Async Chat Thread - #71/INFO]: <Snickers7070> fine[m
+[07:15:29] [Async Chat Thread - #71/INFO]: <PikNik> WERE DONE[m
+[07:15:29] [Async Chat Thread - #71/INFO]: <Snickers7070> but ill be back in the battle bus[m
+[07:15:35] [Async Chat Thread - #71/INFO]: <PikNik> kk[m
+[07:15:54] [Async Chat Thread - #71/INFO]: <Snickers7070> and im OFFICAIALLY UNSTANNING RAYLO[m
+[07:16:02] [Async Chat Thread - #71/INFO]: <PikNik> ITS REYLO NOT RAYLO[m
+[07:16:10] [Async Chat Thread - #71/INFO]: <Snickers7070> E X A C T L Y[m
+[07:16:14] [Async Chat Thread - #71/INFO]: <PikNik> U WERE NEVER A STAN TO BEGIN WITH[m
+[07:16:20] [Server thread/INFO]: cowacorns was slain by pirateboy416
+[07:16:24] [Async Chat Thread - #71/INFO]: <Snickers7070> BC I FUCKING HATE YOU CUNT[m
+[07:16:24] [Server thread/INFO]: cowacorns issued server command: /back
+[07:16:38] [Async Chat Thread - #71/INFO]: <PikNik> :'([m
+[07:16:41] [Async Chat Thread - #71/INFO]: <PikNik> really?[m
+[07:16:44] [Async Chat Thread - #71/INFO]: <Snickers7070> yeah[m
+[07:16:46] [Server thread/INFO]: pirateboy416 drowned whilst trying to escape cowacorns
+[07:16:46] [Async Chat Thread - #71/INFO]: <PikNik> is that how u feel[m
+[07:16:47] [Async Chat Thread - #71/INFO]: <Snickers7070> its not a joke guys[m
+[07:16:47] [Server thread/INFO]: cowacorns has made the advancement [Suit Up]
+[07:16:53] [Server thread/INFO]: pirateboy416 issued server command: /back
+[07:16:53] [Async Chat Thread - #71/INFO]: <Snickers7070> does anyone even read cha[m
+[07:17:02] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[07:17:07] [Async Chat Thread - #71/INFO]: <TastySandvich_> no[m
+[07:17:12] [Async Chat Thread - #71/INFO]: <PikNik> In MC, I broke up with u, but irl, we're still a thing right?[m
+[07:17:21] [Async Chat Thread - #71/INFO]: <Snickers7070> hahaaa u wish[m
+[07:17:29] [Async Chat Thread - #71/INFO]: <Snickers7070> u die in game u die irl[m
+[07:17:31] [Async Chat Thread - #71/INFO]: <PikNik> *$&$#($*%($*$[m
+[07:17:45] [Async Chat Thread - #71/INFO]: <Snickers7070> alright thats it im mining nicks house[m
+[07:17:50] [Server thread/INFO]: PikNik issued server command: /home
+[07:17:54] [Async Chat Thread - #71/INFO]: <PikNik> go ahead[m
+[07:18:03] [Server thread/INFO]: cowacorns issued server command: /tpahere pirateboy416
+[07:18:08] [Server thread/INFO]: PikNik issued server command: /spscancel
+[07:18:08] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:18:09] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:18:14] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
+[07:18:16] [Async Chat Thread - #71/INFO]: <Snickers7070> that was logan[m
+[07:18:23] [Async Chat Thread - #71/INFO]: <PikNik> logan cancelled it[m
+[07:18:27] [Async Chat Thread - #71/INFO]: <Snickers7070> logan stop cancelling sleeping[m
+[07:18:31] [Server thread/INFO]: PikNik issued server command: /spscancel
+[07:18:42] [Server thread/INFO]: PikNik issued server command: /tpa Snickers7070
+[07:18:50] [Server thread/INFO]: Snickers7070 issued server command: /tpaccept
+[07:19:00] [Async Chat Thread - #71/INFO]: <Snickers7070> i miss u so much ohmyfuckinggod[m
+[07:19:05] [Async Chat Thread - #71/INFO]: <PikNik> same uwu[m
+[07:19:08] [Async Chat Thread - #71/INFO]: <PikNik> Im sorry[m
+[07:19:10] [Async Chat Thread - #71/INFO]: <Snickers7070> x3[m
+[07:19:11] [Async Chat Thread - #71/INFO]: <PikNik> so so sorry[m
+[07:19:12] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:19:12] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:19:13] [Async Chat Thread - #71/INFO]: <PikNik> hug?[m
+[07:19:14] [Async Chat Thread - #71/INFO]: <Snickers7070> LOGAN[m
+[07:19:17] [Async Chat Thread - #71/INFO]: <Snickers7070> STOP CANCELLING SLEEP[m
+[07:19:21] [Server thread/INFO]: cowacorns issued server command: /spscancel
+[07:19:21] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:19:22] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:19:24] [Async Chat Thread - #71/INFO]: <PikNik> wait[m
+[07:19:28] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:19:28] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:19:28] [Server thread/INFO]: cowacorns issued server command: /spscancel
+[07:19:32] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:19:33] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:19:34] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:19:34] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:19:35] [Server thread/INFO]: Snickers7070 issued server command: /spscancel
+[07:19:36] [Async Chat Thread - #71/INFO]: <PikNik> when I hugged u, I pulled a note from ur pocket[m
+[07:19:40] [Server thread/INFO]: cowacorns issued server command: /spscancel
+[07:19:40] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.42  [WARNING] [Exception] cowacorns has never slept before.
+[07:19:44] [Async Chat Thread - #71/INFO]: <PikNik> who's tastysandvich?[m
+[07:19:57] [Async Chat Thread - #71/INFO]: <PikNik> and why are they in ur "close friends"[m
+[07:19:58] [Async Chat Thread - #71/INFO]: <Snickers7070> i thought u were ok with a poly relationship[m
+[07:20:09] [Async Chat Thread - #71/INFO]: <PikNik> Im not a mormon[m
+[07:20:10] [Async Chat Thread - #71/INFO]: <Snickers7070> its 2020 BITCH[m
+[07:20:21] [Async Chat Thread - #71/INFO]: <PikNik> I dont stand with polygamy[m
+[07:20:33] [Async Chat Thread - #71/INFO]: <Snickers7070> just ask eric urself if were dating then[m
+[07:20:39] [Async Chat Thread - #71/INFO]: <PikNik> TastySandvich_[m
+[07:20:44] [Async Chat Thread - #71/INFO]: <PikNik> r u dating Snickers7070[m
+[07:20:47] [Server thread/INFO]: cowacorns has made the advancement [Monster Hunter]
+[07:21:15] [Async Chat Thread - #71/INFO]: <PikNik> has thanked the battlebus driver[m
+[07:21:28] [Async Chat Thread - #71/INFO]: <Snickers7070> *has thanked the bus driver*[m
+[07:21:30] [Async Chat Thread - #71/INFO]: <Snickers7070> fuck[m
+[07:21:30] [Async Chat Thread - #71/INFO]: <pirateboy416> has asked nick to kill himself[m
+[07:21:38] [Server thread/INFO]: Snickers7070 issued server command: /help
+[07:21:43] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
+[07:21:43] [Server thread/INFO]: pirateboy416 left the game
+[07:21:48] [Async Chat Thread - #71/INFO]: <PikNik> TastySandvich_[m
+[07:21:54] [Async Chat Thread - #71/INFO]: <PikNik> r u dating snicker[m
+[07:22:17] [Async Chat Thread - #71/INFO]: <PikNik> jumo off the bus[m
+[07:22:23] [Async Chat Thread - #71/INFO]: <PikNik> land at Tilted towers[m
+[07:22:43] [Server thread/INFO]: cowacorns has made the advancement [Stone Age]
+[07:23:06] [Server thread/INFO]: Snickers7070 was shot by PikNik using [Daisy Ridley's Undisputable Beauty]
+[07:23:10] [Server thread/INFO]: Snickers7070 issued server command: /BACVK
+[07:23:13] [Server thread/INFO]: Snickers7070 issued server command: /BACK
+[07:23:22] [Async Chat Thread - #71/INFO]: <PikNik> I SIMP DAISY RIDLEY[m
+[07:23:27] [Async Chat Thread - #71/INFO]: <PikNik> I ADMIT IT[m
+[07:23:44] [Async Chat Thread - #71/INFO]: <Snickers7070> gimme my melons whore[m
+[07:23:57] [Async Chat Thread - #71/INFO]: <PikNik> come n get them[m
+[07:24:12] [Server thread/INFO]: PikNik issued server command: /home
+[07:24:38] [Async Chat Thread - #71/INFO]: <PikNik> Mt Fujii[m
+[07:24:47] [Async Chat Thread - #71/INFO]: <PikNik> I know[m
+[07:24:52] [Async Chat Thread - #71/INFO]: <PikNik> thats why i typed that[m
+[07:24:59] [Async Chat Thread - #71/INFO]: <PikNik> what'd u get[m
+[07:25:10] [Async Chat Thread - #71/INFO]: <PikNik> nice[m
+[07:25:27] [Async Chat Thread - #71/INFO]: <PikNik> ii[m
+[07:25:38] [Async Chat Thread - #71/INFO]: <Snickers7070> the villagers are all over the fucking place[m
+[07:25:46] [Async Chat Thread - #71/INFO]: <PikNik> shut up[m
+[07:25:49] [Async Chat Thread - #71/INFO]: <PikNik> zip it[m
+[07:25:52] [Async Chat Thread - #71/INFO]: <Snickers7070> nigger[m
+[07:26:33] [Async Chat Thread - #71/INFO]: <PikNik> tell us another fujii story[m
+[07:26:42] [Async Chat Thread - #71/INFO]: <PikNik> Ethan[m
+[07:26:43] [Async Chat Thread - #71/INFO]: <PikNik> tell us another fujii story[m
+[07:26:45] [Async Chat Thread - #71/INFO]: <Snickers7070> BLAST PROCCESSING[m
+[07:26:57] [Async Chat Thread - #71/INFO]: <PikNik> ah yes[m
+[07:27:00] [Async Chat Thread - #71/INFO]: <Snickers7070> just dont have frosting[m
+[07:27:01] [Async Chat Thread - #71/INFO]: <Snickers7070> wtf[m
+[07:27:01] [Async Chat Thread - #71/INFO]: <PikNik> cweem cheese[m

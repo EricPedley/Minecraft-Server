@@ -131,25 +131,35 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     z: -501
   debri:
     world: world_nether
-    x: -369
-    y: 14
-    z: 38
+    x: -356
+    y: 17
+    z: 49
+  water:
+    world: world
+    x: -1307
+    y: 73
+    z: -387
+  mine2:
+    world: world
+    x: -1015
+    y: 13
+    z: -247
 ba536c4a-a147-4893-8fc4-8fafaa331357:
   default:
     world: world
-    x: -1288
-    y: 72
-    z: -488
+    x: -1278
+    y: 77
+    z: -489
   '2':
     world: world
-    x: -1310
+    x: -1309
     y: 69
     z: -354
   '3':
     world: world_nether
-    x: -248
-    y: 39
-    z: -46
+    x: -37
+    y: 58
+    z: 67
   '4':
     world: world
     x: -1432
@@ -157,6 +167,43 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -614
   '5':
     world: world
-    x: -1317
+    x: -1281
+    y: 90
+    z: -487
+  '6':
+    world: world
+    x: -1278
+    y: 68
+    z: -454
+  '7':
+    world: world
+    x: -1265
+    y: 93
+    z: -484
+  '1':
+    world: world
+    x: -1278
+    y: 77
+    z: -489
+  village:
+    world: world
+    x: -2956
+    y: 63
+    z: -857
+  xp:
+    world: world
+    x: -1318
     y: 11
     z: -416
+ee0897a7-af69-494c-9d62-b08040f6c86c:
+  default:
+    world: world
+    x: -1310
+    y: 73
+    z: -370
+ca955fc8-7edc-4189-b56f-dc56fbd5ce1e:
+  default:
+    world: world
+    x: -2936
+    y: 67
+    z: -840
