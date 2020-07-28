@@ -144,6 +144,11 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     x: -1015
     y: 13
     z: -247
+  nick:
+    world: world
+    x: -1275
+    y: 72
+    z: -487
 ba536c4a-a147-4893-8fc4-8fafaa331357:
   default:
     world: world
@@ -152,24 +157,24 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -489
   '2':
     world: world
-    x: -1309
-    y: 69
-    z: -354
+    x: -1324
+    y: 70
+    z: -360
   '3':
     world: world_nether
     x: -37
     y: 58
-    z: 67
+    z: 709
   '4':
     world: world
-    x: -1432
-    y: 14
-    z: -614
+    x: -1405
+    y: 11
+    z: -112
   '5':
     world: world
-    x: -1281
-    y: 90
-    z: -487
+    x: -2944
+    y: 68
+    z: -765
   '6':
     world: world
     x: -1278
