@@ -1,2 +1,0 @@
-#!/bin/bash
-java -Xmx3800M -Xms3800M -jar spigot-1.16.1.jar

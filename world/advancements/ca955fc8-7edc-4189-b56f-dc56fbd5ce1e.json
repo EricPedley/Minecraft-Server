@@ -1224,14 +1224,17 @@
       "minecraft:cold_ocean": "2020-07-27 00:54:43 +0000",
       "minecraft:forest": "2020-07-22 06:35:50 +0000",
       "minecraft:mountains": "2020-07-22 06:47:59 +0000",
+      "minecraft:desert": "2020-07-29 05:55:10 +0000",
       "minecraft:birch_forest": "2020-07-27 00:52:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-07-27 06:04:57 +0000",
+      "minecraft:savanna_plateau": "2020-07-29 05:53:17 +0000",
       "minecraft:beach": "2020-07-25 06:39:03 +0000",
       "minecraft:dark_forest": "2020-07-27 00:48:21 +0000",
       "minecraft:river": "2020-07-22 06:49:14 +0000",
       "minecraft:lukewarm_ocean": "2020-07-27 05:56:26 +0000",
       "minecraft:wooded_hills": "2020-07-22 07:18:17 +0000",
       "minecraft:swamp": "2020-07-27 01:10:35 +0000",
+      "minecraft:savanna": "2020-07-29 05:52:34 +0000",
       "minecraft:plains": "2020-07-22 06:36:47 +0000"
     },
     "done": false
@@ -1392,6 +1395,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-07-28 22:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-07-29 07:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-07-25 18:19:36 +0000"
@@ -1530,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-07-29 05:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-07-22 06:43:51 +0000"
@@ -1656,6 +1677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-07-29 07:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-07-27 01:06:55 +0000"
@@ -1704,6 +1731,7 @@
       "cooked_beef": "2020-07-25 07:11:12 +0000",
       "bread": "2020-07-22 06:41:34 +0000",
       "melon_slice": "2020-07-26 22:48:26 +0000",
+      "beetroot": "2020-07-29 07:56:28 +0000",
       "carrot": "2020-07-22 07:11:52 +0000"
     },
     "done": false
@@ -1927,6 +1955,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-07-22 06:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-07-29 07:03:46 +0000"
     },
     "done": true
   },
@@ -2359,6 +2393,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-07-25 06:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-07-29 07:45:03 +0000"
     },
     "done": true
   },

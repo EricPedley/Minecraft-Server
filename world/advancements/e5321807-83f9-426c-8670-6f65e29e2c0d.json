@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-07-29 07:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-07-24 05:41:40 +0000"
@@ -617,9 +623,11 @@
       "minecraft:wither_skeleton": "2020-07-27 22:42:59 +0000",
       "minecraft:piglin": "2020-07-24 00:31:54 +0000",
       "minecraft:enderman": "2020-07-18 06:12:32 +0000",
+      "minecraft:silverfish": "2020-07-29 06:48:22 +0000",
       "minecraft:endermite": "2020-07-18 07:36:01 +0000",
       "minecraft:zombie": "2020-07-18 05:41:01 +0000",
-      "minecraft:drowned": "2020-07-18 06:42:52 +0000"
+      "minecraft:drowned": "2020-07-18 06:42:52 +0000",
+      "minecraft:zombie_villager": "2020-07-29 06:43:00 +0000"
     },
     "done": false
   },
@@ -1037,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-07-29 05:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-07-18 05:30:22 +0000"
@@ -1265,11 +1279,16 @@
       "minecraft:forest": "2020-07-18 05:28:02 +0000",
       "minecraft:mountains": "2020-07-18 08:07:40 +0000",
       "minecraft:deep_cold_ocean": "2020-07-18 05:46:40 +0000",
+      "minecraft:warm_ocean": "2020-07-29 04:18:04 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-07-28 23:17:57 +0000",
+      "minecraft:savanna_plateau": "2020-07-29 04:14:49 +0000",
       "minecraft:beach": "2020-07-18 05:46:22 +0000",
       "minecraft:dark_forest": "2020-07-18 05:41:37 +0000",
       "minecraft:river": "2020-07-18 05:31:05 +0000",
+      "minecraft:lukewarm_ocean": "2020-07-28 23:18:12 +0000",
       "minecraft:wooded_mountains": "2020-07-23 23:30:24 +0000",
       "minecraft:wooded_hills": "2020-07-18 05:57:55 +0000",
+      "minecraft:stone_shore": "2020-07-29 06:35:11 +0000",
       "minecraft:swamp": "2020-07-24 04:24:39 +0000",
       "minecraft:savanna": "2020-07-24 06:07:52 +0000",
       "minecraft:plains": "2020-07-18 05:28:20 +0000"
@@ -1464,6 +1483,12 @@
       "minecraft:basalt_deltas": "2020-07-24 00:49:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-07-28 22:06:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1753,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-07-29 07:04:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-07-27 01:03:18 +0000"
@@ -1804,6 +1835,8 @@
       "salmon": "2020-07-18 05:31:21 +0000",
       "dried_kelp": "2020-07-18 06:48:58 +0000",
       "melon_slice": "2020-07-27 04:50:01 +0000",
+      "golden_carrot": "2020-07-29 05:53:50 +0000",
+      "beetroot": "2020-07-29 07:04:20 +0000",
       "cooked_chicken": "2020-07-18 05:46:52 +0000",
       "carrot": "2020-07-18 05:50:35 +0000"
     },
@@ -2034,6 +2067,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-07-18 05:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-07-29 07:04:17 +0000"
     },
     "done": true
   },
@@ -2667,6 +2706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-07-29 07:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-07-22 06:44:03 +0000"
@@ -2706,6 +2751,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2020-07-27 06:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-07-29 07:55:30 +0000"
     },
     "done": true
   },
@@ -2754,6 +2805,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-07-18 06:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-07-28 23:19:50 +0000"
     },
     "done": true
   },

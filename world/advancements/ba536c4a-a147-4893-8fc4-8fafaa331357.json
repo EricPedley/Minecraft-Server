@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-07-28 20:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-07-18 05:38:35 +0000"
@@ -644,6 +650,7 @@
       "minecraft:magma_cube": "2020-07-27 22:41:10 +0000",
       "minecraft:spider": "2020-07-24 21:57:09 +0000",
       "minecraft:creeper": "2020-07-25 05:54:37 +0000",
+      "minecraft:slime": "2020-07-29 04:03:50 +0000",
       "minecraft:phantom": "2020-07-26 22:41:11 +0000",
       "minecraft:zombified_piglin": "2020-07-27 22:41:00 +0000",
       "minecraft:witch": "2020-07-25 05:04:52 +0000",
@@ -651,6 +658,8 @@
       "minecraft:cave_spider": "2020-07-25 20:04:23 +0000",
       "minecraft:piglin": "2020-07-24 22:03:25 +0000",
       "minecraft:silverfish": "2020-07-25 20:00:49 +0000",
+      "minecraft:enderman": "2020-07-29 05:48:12 +0000",
+      "minecraft:endermite": "2020-07-29 07:29:43 +0000",
       "minecraft:zombie": "2020-07-18 05:54:19 +0000",
       "minecraft:drowned": "2020-07-26 04:12:45 +0000",
       "minecraft:zombie_villager": "2020-07-25 01:15:06 +0000"
@@ -1305,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-07-29 04:04:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-07-18 05:38:35 +0000"
@@ -1343,6 +1358,8 @@
       "minecraft:lukewarm_ocean": "2020-07-27 06:01:48 +0000",
       "minecraft:wooded_mountains": "2020-07-25 20:05:46 +0000",
       "minecraft:wooded_hills": "2020-07-18 05:56:59 +0000",
+      "minecraft:stone_shore": "2020-07-28 22:52:02 +0000",
+      "minecraft:swamp": "2020-07-28 19:01:02 +0000",
       "minecraft:plains": "2020-07-18 05:13:30 +0000"
     },
     "done": false
@@ -1626,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-07-29 03:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2020-07-26 21:12:59 +0000"
@@ -1725,6 +1748,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-07-18 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-07-28 22:41:19 +0000"
     },
     "done": true
   },
@@ -1863,6 +1892,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-07-24 22:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-07-29 05:45:03 +0000"
     },
     "done": true
   },
@@ -2258,6 +2293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-07-29 05:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-07-25 05:51:57 +0000"
@@ -2393,6 +2434,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-07-18 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-07-29 04:04:05 +0000"
     },
     "done": true
   },
@@ -2636,6 +2683,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-07-28 19:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-07-25 20:12:41 +0000"
@@ -2720,6 +2773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-07-29 04:04:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-07-18 05:17:36 +0000"
@@ -2771,6 +2830,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2020-07-25 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-07-29 07:14:08 +0000"
     },
     "done": true
   },
@@ -2891,6 +2956,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2020-07-27 05:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-07-28 18:27:05 +0000"
     },
     "done": true
   },

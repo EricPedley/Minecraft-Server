@@ -99,21 +99,11 @@ bb2c2a7a-3028-4d64-82df-d2f4ac9324ce:
     y: 76
     z: 1333
 e5321807-83f9-426c-8670-6f65e29e2c0d:
-  penis:
-    world: world
-    x: -1520
-    y: 11
-    z: -405
   house:
     world: world
     x: -1315
     y: 73
     z: -372
-  penis2:
-    world: world
-    x: -1289
-    y: 11
-    z: -339
   nether:
     world: world_nether
     x: -166
@@ -124,21 +114,11 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     x: -1241
     y: 23
     z: -500
-  wow:
-    world: world
-    x: -1282
-    y: 12
-    z: -501
   debri:
     world: world_nether
-    x: -356
-    y: 17
-    z: 49
-  water:
-    world: world
-    x: -1307
-    y: 73
-    z: -387
+    x: -193
+    y: 14
+    z: -79
   mine2:
     world: world
     x: -1015
@@ -149,57 +129,67 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     x: -1275
     y: 72
     z: -487
+  villagers:
+    world: world
+    x: -2943
+    y: 72
+    z: -765
+  emeralds:
+    world: world
+    x: -208
+    y: 64
+    z: 146
+  temple:
+    world: world
+    x: -3435
+    y: 62
+    z: -309
+  default:
+    world: world
+    x: -1306
+    y: 72
+    z: -389
 ba536c4a-a147-4893-8fc4-8fafaa331357:
+  village:
+    world: world
+    x: -2936
+    y: 65
+    z: -784
+  '2':
+    world: world
+    x: -1665
+    y: 11
+    z: -93
   default:
     world: world
     x: -1278
     y: 77
     z: -489
-  '2':
+  xp:
     world: world
-    x: -1324
-    y: 70
-    z: -360
-  '3':
-    world: world_nether
-    x: -37
-    y: 58
-    z: 709
-  '4':
-    world: world
-    x: -1405
-    y: 11
-    z: -112
-  '5':
-    world: world
-    x: -2944
-    y: 68
-    z: -765
-  '6':
-    world: world
-    x: -1278
-    y: 68
-    z: -454
-  '7':
+    x: -1317
+    y: 9
+    z: -416
+  battlebus:
     world: world
     x: -1265
     y: 93
     z: -484
-  '1':
+  base:
     world: world
-    x: -1278
-    y: 77
-    z: -489
-  village:
+    x: -1310
+    y: 69
+    z: -357
+  nether:
+    world: world_nether
+    x: -37
+    y: 58
+    z: 709
+  mine:
     world: world
-    x: -2956
-    y: 63
-    z: -857
-  xp:
-    world: world
-    x: -1318
+    x: -1405
     y: 11
-    z: -416
+    z: -112
 ee0897a7-af69-494c-9d62-b08040f6c86c:
   default:
     world: world
