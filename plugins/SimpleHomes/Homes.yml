@@ -155,11 +155,6 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     x: -2936
     y: 65
     z: -784
-  '2':
-    world: world
-    x: -1665
-    y: 11
-    z: -93
   default:
     world: world
     x: -1278
@@ -177,8 +172,8 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -484
   base:
     world: world
-    x: -1310
-    y: 69
+    x: -1311
+    y: 68
     z: -357
   nether:
     world: world_nether
@@ -190,6 +185,11 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     x: -1405
     y: 11
     z: -112
+  '2':
+    world: world
+    x: -1277
+    y: 65
+    z: -497
 ee0897a7-af69-494c-9d62-b08040f6c86c:
   default:
     world: world

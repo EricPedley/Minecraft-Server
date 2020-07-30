@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-07-18 05:56:54 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-07-18 05:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-07-30 04:38:05 +0000"
     },
     "done": true
   },
@@ -661,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2020-07-22 06:40:04 +0000"
@@ -904,6 +922,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-07-18 06:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-07-30 03:41:05 +0000"
     },
     "done": true
   },
@@ -1592,6 +1616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-07-30 03:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2020-07-27 01:24:13 +0000"
@@ -1634,6 +1664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-07-24 00:12:47 +0000"
@@ -1643,6 +1679,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-07-18 05:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-07-30 03:41:05 +0000"
     },
     "done": true
   },
@@ -1772,6 +1814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-07-22 06:40:04 +0000"
@@ -1828,6 +1876,7 @@
       "cooked_beef": "2020-07-23 23:47:22 +0000",
       "beef": "2020-07-18 05:50:46 +0000",
       "porkchop": "2020-07-18 05:30:13 +0000",
+      "potato": "2020-07-30 04:12:28 +0000",
       "cooked_cod": "2020-07-18 06:40:56 +0000",
       "mutton": "2020-07-18 05:30:32 +0000",
       "bread": "2020-07-27 07:13:01 +0000",
@@ -1837,6 +1886,7 @@
       "melon_slice": "2020-07-27 04:50:01 +0000",
       "golden_carrot": "2020-07-29 05:53:50 +0000",
       "beetroot": "2020-07-29 07:04:20 +0000",
+      "cooked_rabbit": "2020-07-30 04:20:17 +0000",
       "cooked_chicken": "2020-07-18 05:46:52 +0000",
       "carrot": "2020-07-18 05:50:35 +0000"
     },
@@ -1881,6 +1931,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2020-07-18 06:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
     },
     "done": true
   },
@@ -2121,6 +2177,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2020-07-18 07:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
     },
     "done": true
   },
@@ -2400,6 +2462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-07-18 07:42:49 +0000"
@@ -2460,6 +2528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-07-18 06:47:13 +0000"
@@ -2469,6 +2543,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2020-07-26 23:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-07-30 05:00:52 +0000"
     },
     "done": true
   },
@@ -2553,6 +2633,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-07-18 05:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2020-07-30 05:45:13 +0000"
     },
     "done": true
   },
