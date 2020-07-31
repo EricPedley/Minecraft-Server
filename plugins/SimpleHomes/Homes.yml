@@ -104,16 +104,6 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     x: -1315
     y: 73
     z: -372
-  nether:
-    world: world_nether
-    x: -166
-    y: 36
-    z: -391
-  dungeon:
-    world: world
-    x: -1241
-    y: 23
-    z: -500
   debri:
     world: world_nether
     x: -193
@@ -149,17 +139,22 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     x: -1306
     y: 72
     z: -389
+  magma:
+    world: world_nether
+    x: -43
+    y: 31
+    z: -376
+  gold:
+    world: world_nether
+    x: -167
+    y: 249
+    z: -114
 ba536c4a-a147-4893-8fc4-8fafaa331357:
   village:
     world: world
     x: -2936
     y: 65
     z: -784
-  default:
-    world: world
-    x: -1278
-    y: 77
-    z: -489
   xp:
     world: world
     x: -1317
@@ -172,9 +167,9 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -484
   base:
     world: world
-    x: -1311
-    y: 68
-    z: -357
+    x: -1316
+    y: 69
+    z: -355
   nether:
     world: world_nether
     x: -37
@@ -185,17 +180,42 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     x: -1405
     y: 11
     z: -112
-  '2':
+  xp2:
+    world: world_nether
+    x: -164
+    y: 246
+    z: -123
+  default:
     world: world
-    x: -1277
-    y: 65
-    z: -497
+    x: -1280
+    y: 77
+    z: -489
 ee0897a7-af69-494c-9d62-b08040f6c86c:
   default:
     world: world
     x: -1310
     y: 73
     z: -370
+  goldfarm:
+    world: world_nether
+    x: -164
+    y: 246
+    z: -122
+  spawner:
+    world: world
+    x: -1318
+    y: 9
+    z: -416
+  mending:
+    world: world
+    x: -2948
+    y: 64
+    z: -770
+  storage:
+    world: world
+    x: -1326
+    y: 71
+    z: -362
 ca955fc8-7edc-4189-b56f-dc56fbd5ce1e:
   default:
     world: world

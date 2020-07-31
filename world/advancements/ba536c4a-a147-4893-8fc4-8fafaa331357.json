@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-07-30 23:12:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-07-18 05:54:00 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-07-25 20:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-07-30 23:42:26 +0000"
     },
     "done": true
   },
@@ -428,6 +440,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-07-25 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-07-31 01:04:28 +0000"
     },
     "done": true
   },
@@ -1362,6 +1380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2020-07-31 05:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2020-07-25 01:03:32 +0000"
@@ -1385,6 +1409,8 @@
       "minecraft:cold_ocean": "2020-07-18 05:46:44 +0000",
       "minecraft:forest": "2020-07-18 05:16:41 +0000",
       "minecraft:mountains": "2020-07-25 00:29:04 +0000",
+      "minecraft:taiga": "2020-07-30 21:46:27 +0000",
+      "minecraft:giant_tree_taiga": "2020-07-30 21:47:08 +0000",
       "minecraft:deep_cold_ocean": "2020-07-18 05:46:37 +0000",
       "minecraft:desert": "2020-07-25 00:57:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-07-27 06:02:16 +0000",
@@ -1661,6 +1687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2020-07-31 00:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-07-18 05:38:35 +0000"
@@ -1730,6 +1762,12 @@
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2020-07-25 07:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2020-07-31 05:44:31 +0000"
     },
     "done": true
   },
@@ -2505,6 +2543,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-07-31 05:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2020-07-31 05:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-07-18 06:54:51 +0000"
@@ -2550,6 +2600,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-07-25 04:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-07-31 05:39:29 +0000"
     },
     "done": true
   },
@@ -3027,6 +3083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-07-31 05:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-07-28 18:27:05 +0000"
@@ -3198,6 +3260,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-07-25 20:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-07-31 03:57:00 +0000"
     },
     "done": true
   },
