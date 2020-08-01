@@ -1,350 +1,541 @@
-[00:00:46] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
-[00:00:55] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome goldfarm
-[00:01:39] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[00:01:51] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
-[00:01:56] [Server thread/INFO]: PikNik was slain by Zombified Piglin
-[00:02:01] [Server thread/INFO]: PikNik issued server command: /bac,
-[00:02:03] [Server thread/INFO]: PikNik issued server command: /back
-[00:02:07] [Server thread/INFO]: PikNik was slain by Zombified Piglin
-[00:02:12] [Server thread/INFO]: PikNik issued server command: /back
-[00:02:15] [Server thread/INFO]: PikNik issued server command: /home
-[00:02:19] [Server thread/INFO]: PikNik issued server command: /back
-[00:02:23] [Server thread/INFO]: PikNik issued server command: /home xp2
-[00:02:43] [Server thread/INFO]: PikNik was slain by Zombified Piglin
-[00:02:53] [Server thread/INFO]: PikNik issued server command: /back
-[00:02:57] [Server thread/INFO]: PikNik fell from a high place
-[00:03:03] [Server thread/INFO]: PikNik issued server command: /back
-[00:03:23] [Server thread/INFO]: PikNik issued server command: /home xp2
-[00:03:24] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[00:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5089ms or 101 ticks behind
-[00:03:38] [Server thread/WARN]: ttvNaThanosn moved too quickly! -1.043695621726556,-0.4334870982234804,-11.695469549257552
-[00:04:38] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
-[00:04:45] [Server thread/INFO]: PikNik issued server command: /home xp
-[00:05:00] [Server thread/INFO]: PikNik issued server command: /home
-[00:05:24] [Server thread/INFO]: PikNik issued server command: /home xp
-[00:07:07] [Server thread/INFO]: PikNik issued server command: /home xp2
-[00:07:25] [Server thread/INFO]: PikNik issued server command: /sethome xp2
-[00:07:34] [Server thread/INFO]: PikNik issued server command: /sethome xp2
-[00:08:46] [Server thread/INFO]: PikNik issued server command: /home village
-[00:09:24] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[00:09:46] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
-[00:09:55] [Server thread/INFO]: ttvNaThanosn fell from a high place
-[00:09:58] [Server thread/INFO]: ttvNaThanosn issued server command: /back
-[00:10:52] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[00:10:53] [Server thread/INFO]: ttvNaThanosn left the game
-[00:12:03] [User Authenticator #69/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[00:12:03] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:35908] logged in with entity id 151925 at ([world_nether]-162.5188595577233, 129.0, -119.86895026728676)
-[00:12:40] [Async Chat Thread - #46/INFO]: <ttvNaThanosn> -162 -120[m
-[00:13:26] [Server thread/INFO]: ttvNaThanosn fell from a high place
-[00:13:29] [Server thread/INFO]: ttvNaThanosn issued server command: /back
-[00:13:59] [Server thread/INFO]: PikNik issued server command: /home
-[00:13:59] [Server thread/WARN]: Entity EntityPlayer['PikNik'/144319, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[00:14:52] [Server thread/INFO]: ttvNaThanosn fell from a high place
-[00:14:56] [Server thread/INFO]: ttvNaThanosn issued server command: /back
-[00:17:44] [Server thread/INFO]: ttvNaThanosn fell from a high place
-[00:17:47] [Server thread/INFO]: ttvNaThanosn issued server command: /back
-[00:20:39] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[00:21:48] [Server thread/INFO]: PikNik issued server command: /home
-[00:23:55] [Server thread/INFO]: PikNik issued server command: /home
-[00:24:23] [Server thread/INFO]: PikNik issued server command: /hone
-[00:24:26] [Server thread/INFO]: PikNik issued server command: /home
-[00:25:31] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[00:25:31] [Server thread/INFO]: ttvNaThanosn left the game
-[00:31:13] [Server thread/INFO]: PikNik issued server command: /home
-[00:31:36] [Server thread/INFO]: PikNik issued server command: /home base
-[00:33:16] [Server thread/INFO]: PikNik issued server command: /home
-[00:33:16] [Server thread/WARN]: Entity EntityPlayer['PikNik'/144319, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[00:33:42] [Server thread/INFO]: PikNik issued server command: /home
-[00:34:07] [Server thread/INFO]: PikNik issued server command: /home
-[00:34:44] [Server thread/INFO]: PikNik issued server command: /home
-[00:35:20] [Server thread/INFO]: PikNik issued server command: /home
-[00:35:22] [Server thread/INFO]: PikNik issued server command: /home
-[00:35:23] [Server thread/INFO]: PikNik issued server command: /home
-[00:36:18] [Server thread/INFO]: PikNik issued server command: /home
-[00:38:20] [Server thread/INFO]: PikNik issued server command: /home
-[00:41:41] [Server thread/INFO]: PikNik issued server command: /home
-[00:42:37] [Server thread/INFO]: PikNik issued server command: /home
-[00:44:49] [Server thread/INFO]: PikNik issued server command: /home
-[00:47:39] [Server thread/INFO]: PikNik issued server command: /home
-[00:48:57] [Server thread/INFO]: PikNik issued server command: /home
-[01:01:33] [Server thread/INFO]: PikNik issued server command: /home
-[01:02:36] [Server thread/INFO]: PikNik issued server command: /home
-[01:04:02] [Server thread/INFO]: PikNik issued server command: /home
-[01:04:29] [Server thread/INFO]: PikNik issued server command: /home
-[01:08:14] [Server thread/INFO]: PikNik issued server command: /home
-[01:12:20] [Server thread/INFO]: PikNik issued server command: /home
-[01:12:41] [Server thread/INFO]: PikNik issued server command: /home
-[01:17:22] [Server thread/INFO]: PikNik issued server command: /home
-[01:17:45] [Server thread/INFO]: PikNik issued server command: /home
-[01:22:16] [Server thread/INFO]: PikNik issued server command: /home
-[01:22:44] [Server thread/INFO]: PikNik issued server command: /home
-[01:23:03] [Server thread/INFO]: PikNik issued server command: /home
-[01:25:53] [Server thread/INFO]: PikNik issued server command: /home base
-[01:29:17] [Server thread/INFO]: PikNik issued server command: /home
-[01:29:17] [Server thread/WARN]: Entity EntityPlayer['PikNik'/144319, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[01:29:41] [Server thread/INFO]: PikNik issued server command: /home
-[01:34:38] [Server thread/INFO]: PikNik issued server command: /home
-[01:34:57] [Server thread/INFO]: PikNik issued server command: /home
-[01:35:19] [Server thread/INFO]: PikNik issued server command: /home
-[01:44:16] [Server thread/INFO]: PikNik lost connection: Disconnected
-[01:44:16] [Server thread/INFO]: PikNik left the game
-[02:23:15] [User Authenticator #70/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[02:23:15] [Server thread/INFO]: PikNik[/127.0.0.1:36038] logged in with entity id 157566 at ([world]-1244.414111413746, 64.0, -486.7787352354485)
-[02:23:26] [Server thread/INFO]: PikNik issued server command: /home base
-[02:26:41] [Server thread/INFO]: PikNik issued server command: /home
-[02:26:42] [Server thread/WARN]: Entity EntityPlayer['PikNik'/157566, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[02:27:08] [Server thread/INFO]: PikNik issued server command: /home base
-[02:33:55] [Server thread/INFO]: PikNik issued server command: /home
-[02:33:55] [Server thread/WARN]: Entity EntityPlayer['PikNik'/157566, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[02:34:48] [Server thread/INFO]: PikNik issued server command: /home
-[02:36:11] [Server thread/INFO]: PikNik issued server command: /home
-[02:37:21] [Server thread/INFO]: PikNik issued server command: /home nether
-[02:37:33] [Server thread/INFO]: PikNik issued server command: /home nether
-[02:40:07] [Server thread/INFO]: PikNik issued server command: /home
-[02:42:52] [Server thread/WARN]: PikNik moved wrongly!
-[02:42:52] [Server thread/WARN]: PikNik moved wrongly!
-[02:43:42] [Server thread/INFO]: PikNik issued server command: /home
-[02:45:20] [Server thread/INFO]: PikNik issued server command: /home
-[02:55:44] [Server thread/INFO]: PikNik issued server command: /home
-[02:56:18] [Server thread/INFO]: PikNik issued server command: /home
-[02:56:20] [Server thread/INFO]: PikNik issued server command: /home
-[02:56:22] [Server thread/INFO]: PikNik issued server command: /home
-[02:57:42] [Server thread/INFO]: PikNik issued server command: /home
-[03:05:40] [Server thread/INFO]: PikNik lost connection: Disconnected
-[03:05:41] [Server thread/INFO]: PikNik left the game
-[03:05:57] [User Authenticator #71/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[03:05:57] [Server thread/INFO]: PikNik[/127.0.0.1:36084] logged in with entity id 160975 at ([world]-1238.3475915530748, 64.0, -486.1465596469317)
-[03:18:35] [Server thread/INFO]: PikNik issued server command: /home
-[03:19:27] [Server thread/INFO]: PikNik issued server command: /home
-[03:27:53] [Server thread/INFO]: PikNik lost connection: Disconnected
-[03:27:54] [Server thread/INFO]: PikNik left the game
-[03:27:56] [User Authenticator #72/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[03:27:56] [Server thread/INFO]: PikNik[/127.0.0.1:36096] logged in with entity id 162202 at ([world]-1253.30347747732, 64.0, -485.98322896059403)
-[03:30:03] [Server thread/INFO]: PikNik issued server command: /home
-[03:41:23] [Server thread/INFO]: PikNik issued server command: /home
-[03:41:44] [Server thread/INFO]: PikNik issued server command: /home
-[04:00:36] [Server thread/INFO]: PikNik issued server command: /home
-[04:01:43] [User Authenticator #73/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[04:01:43] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36116] logged in with entity id 163705 at ([world]-1311.544698228016, 72.0, -363.3778861470346)
-[04:01:47] [Async Chat Thread - #47/INFO]: <PikNik> FINALLY[m
-[04:01:49] [Async Chat Thread - #47/INFO]: <PikNik> SOMEONE JOINED[m
-[04:01:55] [Async Chat Thread - #47/INFO]: <PikNik> IVE BEEN HERE SINCE 7[m
-[04:01:58] [Async Chat Thread - #47/INFO]: <PikNik> lol[m
-[04:02:02] [Async Chat Thread - #47/INFO]: <ttvNaThanosn> gamer beans[m
-[04:02:03] [Async Chat Thread - #47/INFO]: <ttvNaThanosn> JOIN[m
-[04:05:14] [Server thread/INFO]: PikNik issued server command: /home
-[04:05:24] [Server thread/INFO]: PikNik issued server command: /home base
-[04:06:13] [Server thread/INFO]: PikNik issued server command: /home
-[04:06:52] [Server thread/INFO]: PikNik issued server command: /home
-[04:06:55] [Server thread/INFO]: PikNik issued server command: /home base
-[04:07:30] [Server thread/INFO]: PikNik issued server command: /home
-[04:07:31] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[04:07:44] [Server thread/INFO]: PikNik issued server command: /home
-[04:07:59] [Server thread/INFO]: PikNik issued server command: /home
-[04:08:55] [Server thread/INFO]: PikNik issued server command: /home base
-[04:09:36] [Server thread/INFO]: PikNik issued server command: /home
-[04:10:24] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[04:10:24] [Server thread/INFO]: ttvNaThanosn left the game
-[04:11:25] [User Authenticator #74/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[04:11:25] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36144] logged in with entity id 164525 at ([world]-1299.699999988079, 70.0, -372.6795567036401)
-[04:12:50] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[04:12:50] [Server thread/INFO]: ttvNaThanosn left the game
-[04:13:15] [User Authenticator #75/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[04:13:15] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36152] logged in with entity id 164733 at ([world]-1295.4201938441327, 74.0, -393.7137669682086)
-[04:16:53] [Server thread/INFO]: PikNik issued server command: /home
-[04:20:11] [Server thread/INFO]: PikNik issued server command: /home
-[04:20:14] [Server thread/INFO]: PikNik issued server command: /home base
-[04:20:59] [Server thread/INFO]: PikNik issued server command: /home
-[04:21:36] [Server thread/INFO]: PikNik issued server command: /home base
-[04:21:39] [Server thread/INFO]: PikNik issued server command: /home
-[04:21:50] [Server thread/INFO]: PikNik issued server command: /home base
-[04:22:32] [Server thread/INFO]: PikNik issued server command: /home
-[04:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[04:25:02] [Server thread/INFO]: PikNik issued server command: /home
-[04:25:46] [Server thread/INFO]: PikNik issued server command: /home
-[04:25:49] [Server thread/INFO]: PikNik issued server command: /home base
-[04:26:02] [Server thread/INFO]: PikNik issued server command: /home
-[04:29:20] [Server thread/INFO]: PikNik issued server command: /home
-[04:30:35] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[04:30:35] [Server thread/INFO]: ttvNaThanosn left the game
-[04:31:25] [Server thread/INFO]: PikNik issued server command: /home
-[04:33:46] [Server thread/INFO]: PikNik issued server command: /home
-[04:35:32] [User Authenticator #76/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[04:35:32] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36172] logged in with entity id 166642 at ([world]-1309.2724492023222, 71.0, -362.56519780316563)
-[04:35:35] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[04:35:35] [Server thread/INFO]: ttvNaThanosn left the game
-[04:35:53] [Server thread/INFO]: PikNik issued server command: /home
-[04:36:53] [Server thread/INFO]: PikNik issued server command: /home
-[04:36:56] [Server thread/INFO]: PikNik issued server command: /home base
-[04:37:43] [Server thread/INFO]: PikNik issued server command: /home
-[04:37:43] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[04:38:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@47adb250[id=<null>,name=ttvNaThanosn,properties={},legacy=false] (/127.0.0.1:36184) lost connection: Disconnected
-[04:39:18] [User Authenticator #77/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[04:39:18] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36186] logged in with entity id 166910 at ([world]-1309.2724492023222, 71.0, -362.56519780316563)
-[04:39:27] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[04:39:27] [Server thread/INFO]: ttvNaThanosn left the game
-[04:41:19] [User Authenticator #78/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[04:41:19] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36196] logged in with entity id 167020 at ([world]-1303.699999988079, 72.0, -364.1749086484713)
-[04:42:52] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[04:42:52] [Server thread/INFO]: ttvNaThanosn left the game
-[04:45:37] [Server thread/INFO]: PikNik issued server command: /home base
-[04:45:37] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1313.00, y=73.00, z=-377.00](PikNik at -1313.0,73.0,-377.0) left loaded chunk area
-[04:50:57] [Server thread/INFO]: PikNik issued server command: /home
-[04:50:57] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[04:51:19] [Server thread/INFO]: PikNik issued server command: /home
-[04:51:35] [Server thread/INFO]: PikNik issued server command: /home base
-[04:51:35] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1313.00, y=73.00, z=-377.00](PikNik at -1313.0,73.0,-377.0) left loaded chunk area
-[04:52:38] [Server thread/INFO]: PikNik issued server command: /home
-[04:52:38] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[04:54:27] [Server thread/INFO]: PikNik issued server command: /home base
-[04:54:27] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1313.00, y=73.00, z=-377.00](PikNik at -1313.0,73.0,-377.0) left loaded chunk area
-[04:54:34] [Server thread/INFO]: PikNik issued server command: /sethome base
-[04:54:36] [Server thread/INFO]: PikNik issued server command: /sethome base
-[04:54:50] [Server thread/INFO]: PikNik issued server command: /home
-[04:54:50] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[05:00:15] [User Authenticator #79/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:00:15] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36208] logged in with entity id 168134 at ([world]-1250.3156294715598, 60.0, -503.4922490440035)
-[05:01:24] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[05:01:24] [Server thread/INFO]: ttvNaThanosn left the game
-[05:03:10] [User Authenticator #80/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:03:10] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36218] logged in with entity id 168302 at ([world]-1312.5516676401592, 73.0, -373.92746215642546)
-[05:04:42] [Server thread/INFO]: PikNik issued server command: /home base
-[05:04:42] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1315.30, y=69.00, z=-354.76](PikNik at -1315.2958223306268,69.0,-354.7590243538984) left loaded chunk area
-[05:05:08] [Server thread/INFO]: PikNik issued server command: /home
-[05:12:02] [Server thread/INFO]: PikNik issued server command: /home
-[05:14:29] [Server thread/INFO]: PikNik issued server command: /home
-[05:16:51] [Server thread/INFO]: PikNik issued server command: /home
-[05:18:24] [Server thread/INFO]: PikNik issued server command: /home
-[05:18:32] [Server thread/INFO]: PikNik issued server command: /home
-[05:20:46] [Server thread/INFO]: PikNik issued server command: /home
-[05:22:14] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[05:22:14] [Server thread/INFO]: ttvNaThanosn left the game
-[05:22:46] [User Authenticator #81/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:22:47] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36238] logged in with entity id 169743 at ([world]-1262.4743528027013, 63.0, -456.6131380656568)
-[05:28:39] [Server thread/INFO]: PikNik issued server command: /home
-[05:29:19] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[05:29:19] [Server thread/INFO]: ttvNaThanosn left the game
-[05:29:42] [Server thread/INFO]: PikNik issued server command: /home
-[05:31:23] [Server thread/INFO]: PikNik issued server command: /home
-[05:31:25] [Server thread/INFO]: PikNik issued server command: /home base
-[05:31:25] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1315.30, y=69.00, z=-354.76](PikNik at -1315.2958223306268,69.0,-354.7590243538984) left loaded chunk area
-[05:31:44] [Server thread/INFO]: PikNik issued server command: /home
-[05:34:01] [User Authenticator #82/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:34:01] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36256] logged in with entity id 170448 at ([world]-1309.7294166441402, 73.0, -368.9738862272941)
-[05:34:30] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[05:34:30] [Server thread/INFO]: ttvNaThanosn left the game
-[05:34:46] [User Authenticator #83/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:34:46] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36262] logged in with entity id 170498 at ([world]-1313.3878075980026, 73.0, -371.17729878916776)
-[05:36:22] [Server thread/INFO]: PikNik issued server command: /home
-[05:37:42] [Server thread/INFO]: PikNik issued server command: /home base
-[05:40:18] [Server thread/INFO]: PikNik issued server command: /home
-[05:40:18] [Server thread/WARN]: Entity EntityPlayer['PikNik'/162202, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[05:40:42] [Server thread/INFO]: PikNik issued server command: /home
-[05:42:35] [Server thread/INFO]: PikNik issued server command: /hom
-[05:42:37] [Server thread/INFO]: PikNik issued server command: /home
-[05:43:09] [Server thread/INFO]: PikNik issued server command: /home
-[05:44:52] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[05:44:52] [Server thread/INFO]: ttvNaThanosn left the game
-[05:46:12] [User Authenticator #84/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:46:13] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36272] logged in with entity id 171559 at ([world]-1289.691274621087, 69.0, -359.3672606292764)
-[05:47:38] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[05:47:38] [Server thread/INFO]: ttvNaThanosn left the game
-[05:48:22] [User Authenticator #85/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:48:22] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36282] logged in with entity id 171719 at ([world]-1273.0412080994518, 65.0, -356.4385173421057)
-[05:50:37] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[05:50:37] [Server thread/INFO]: ttvNaThanosn left the game
-[05:50:43] [Server thread/INFO]: PikNik issued server command: /home
-[05:51:08] [User Authenticator #86/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[05:51:08] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36290] logged in with entity id 172043 at ([world]-1287.7612048346225, 67.0, -356.30000001192093)
-[05:54:30] [Server thread/INFO]: PikNik issued server command: /home
-[05:54:40] [Server thread/INFO]: PikNik issued server command: /home base
-[05:55:09] [Server thread/INFO]: PikNik issued server command: /home
-[05:57:31] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
-[05:57:37] [Server thread/INFO]: ttvNaThanosn issued server command: /tpdeny
-[05:57:50] [Server thread/INFO]: PikNik issued server command: /tpr ttvNaThanosn
-[05:58:05] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
-[05:58:10] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
-[05:58:14] [Server thread/INFO]: PikNik issued server command: /home
-[05:58:22] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
-[05:58:25] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
-[05:58:46] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[05:59:05] [Server thread/INFO]: PikNik issued server command: /home
-[06:00:16] [Server thread/INFO]: PikNik issued server command: /home
-[06:03:09] [Server thread/INFO]: PikNik issued server command: /home
-[06:04:14] [Server thread/INFO]: PikNik issued server command: /home
-[06:06:57] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
-[06:07:24] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[06:09:02] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome spawner
-[06:10:22] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[06:10:36] [Server thread/INFO]: ttvNaThanosn issued server command: /home spawner
-[06:10:47] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[06:11:29] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[06:11:29] [Server thread/INFO]: ttvNaThanosn left the game
-[06:11:42] [Server thread/INFO]: PikNik issued server command: /home
-[06:11:48] [User Authenticator #87/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[06:11:48] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36312] logged in with entity id 175015 at ([world]-1275.3990650539492, 67.0, -343.0083638998847)
-[06:12:01] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[06:12:01] [Server thread/INFO]: ttvNaThanosn left the game
-[06:12:57] [User Authenticator #88/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[06:12:57] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36320] logged in with entity id 175081 at ([world]-1277.3006558100976, 69.0, -341.0018934717668)
-[06:15:50] [Server thread/INFO]: PikNik issued server command: /home
-[06:15:57] [Server thread/INFO]: PikNik lost connection: Disconnected
-[06:15:57] [Server thread/INFO]: PikNik left the game
-[06:15:59] [User Authenticator #89/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[06:15:59] [Server thread/INFO]: PikNik[/127.0.0.1:36326] logged in with entity id 175388 at ([world]-1280.0, 77.0, -486.65182589573976)
-[06:16:35] [Server thread/INFO]: PikNik issued server command: /home
-[06:16:54] [Server thread/INFO]: PikNik issued server command: /home nether
-[06:17:42] [Server thread/INFO]: ttvNaThanosn issued server command: /home spawner
-[06:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[06:25:47] [Server thread/INFO]: PikNik issued server command: /tpa ttvNaThanosn
-[06:25:53] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
-[06:25:58] [Async Chat Thread - #48/INFO]: <ttvNaThanosn> oh :P[m
-[06:26:12] [Server thread/INFO]: PikNik issued server command: /home base
-[06:26:13] [Async Chat Thread - #48/INFO]: <ttvNaThanosn> thanks[m
-[06:26:16] [Async Chat Thread - #48/INFO]: <PikNik> np[m
-[06:26:28] [Async Chat Thread - #48/INFO]: <PikNik> cya[m
-[06:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9608ms or 192 ticks behind
-[06:26:28] [Async Chat Thread - #48/INFO]: <ttvNaThanosn> mending tommorow[m
-[06:26:29] [Async Chat Thread - #49/INFO]: <PikNik> tgn[m
-[06:26:34] [Async Chat Thread - #49/INFO]: <PikNik> yeah[m
-[06:26:35] [Async Chat Thread - #49/INFO]: <ttvNaThanosn> i got like2 more minutes tho[m
-[06:26:46] [Server thread/INFO]: PikNik issued server command: /home
-[06:27:39] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[06:27:42] [Async Chat Thread - #50/INFO]: <PikNik> im gonna hop off[m
-[06:27:46] [Async Chat Thread - #50/INFO]: <PikNik> im really tired[m
-[06:27:56] [Async Chat Thread - #50/INFO]: <ttvNaThanosn> can u tp me to mending villager first?[m
-[06:28:05] [Async Chat Thread - #50/INFO]: <PikNik> sure[m
-[06:28:07] [Server thread/INFO]: PikNik issued server command: /home village
-[06:28:07] [Server thread/WARN]: Entity EntityPlayer['PikNik'/175388, l='ServerLevel[world]', x=-2936.00, y=65.00, z=-784.00](PikNik at -2936.0,65.0,-784.0) left loaded chunk area
-[06:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5055ms or 101 ticks behind
-[06:28:21] [Async Chat Thread - #50/INFO]: <PikNik> im lagging badl[m
-[06:28:24] [Async Chat Thread - #50/INFO]: <PikNik> badly*[m
-[06:28:28] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
-[06:28:37] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
-[06:28:59] [Async Chat Thread - #50/INFO]: <ttvNaThanosn> thx[m
-[06:29:01] [Async Chat Thread - #50/INFO]: <PikNik> np[m
-[06:29:03] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome mending
-[06:29:03] [Async Chat Thread - #50/INFO]: <PikNik> sethome[m
-[06:29:08] [Async Chat Thread - #50/INFO]: <PikNik> so u can come back here[m
-[06:29:08] [Async Chat Thread - #50/INFO]: <ttvNaThanosn> i did[m
-[06:29:09] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[06:29:09] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/175081, l='ServerLevel[world]', x=-1310.00, y=73.00, z=-370.00](ttvNaThanosn at -1310.0,73.0,-370.0) left loaded chunk area
-[06:29:11] [Async Chat Thread - #50/INFO]: <PikNik> k[m
-[06:29:11] [Async Chat Thread - #50/INFO]: <PikNik> cya[m
-[06:29:18] [Server thread/INFO]: PikNik lost connection: Disconnected
-[06:29:18] [Server thread/INFO]: PikNik left the game
-[06:31:45] [Server thread/INFO]: ttvNaThanosn issued server command: /home mending
-[06:31:45] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/175081, l='ServerLevel[world]', x=-2947.32, y=64.00, z=-769.78](ttvNaThanosn at -2947.324740339707,64.0,-769.7797958521905) left loaded chunk area
-[06:31:56] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[06:31:56] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/175081, l='ServerLevel[world]', x=-1310.00, y=73.00, z=-370.00](ttvNaThanosn at -1310.0,73.0,-370.0) left loaded chunk area
-[06:33:08] [Server thread/INFO]: ttvNaThanosn issued server command: /home mending
-[06:33:08] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/175081, l='ServerLevel[world]', x=-2947.32, y=64.00, z=-769.78](ttvNaThanosn at -2947.324740339707,64.0,-769.7797958521905) left loaded chunk area
-[06:33:18] [Server thread/INFO]: ttvNaThanosn issued server command: /home
-[06:33:18] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/175081, l='ServerLevel[world]', x=-1310.00, y=73.00, z=-370.00](ttvNaThanosn at -1310.0,73.0,-370.0) left loaded chunk area
-[06:42:29] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome storage
-[06:53:08] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[06:53:08] [Server thread/INFO]: ttvNaThanosn left the game
-[06:53:25] [User Authenticator #90/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
-[06:53:26] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36350] logged in with entity id 180406 at ([world]-1285.034635084871, 67.0, -342.16861551896955)
-[06:59:15] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
-[06:59:15] [Server thread/INFO]: ttvNaThanosn left the game
+[00:11:54] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome
+[00:11:57] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:11:58] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:12:05] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome
+[00:12:09] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:12:11] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:14:58] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:15:56] [Server thread/INFO]: ttvNaThanosn issued server command: /ec
+[00:16:00] [Server thread/INFO]: ttvNaThanosn issued server command: /enderchest
+[00:16:44] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[00:16:44] [Server thread/INFO]: ttvNaThanosn left the game
+[00:18:13] [User Authenticator #108/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[00:18:13] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36874] logged in with entity id 232442 at ([world]-1285.300000011921, 73.0, -344.66728363145074)
+[00:21:03] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[00:21:03] [Server thread/INFO]: ttvNaThanosn left the game
+[00:23:17] [User Authenticator #109/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[00:23:17] [Server thread/INFO]: PikNik[/127.0.0.1:36882] logged in with entity id 232888 at ([world]-1273.699999988079, 67.0, -470.69999998807907)
+[00:26:05] [User Authenticator #110/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[00:26:05] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36886] logged in with entity id 233417 at ([world]-1278.1436279094667, 77.5, -349.68610666945625)
+[00:26:11] [Async Chat Thread - #62/INFO]: <PikNik> hey[m
+[00:26:16] [Async Chat Thread - #62/INFO]: <ttvNaThanosn> hi[m
+[00:26:25] [Async Chat Thread - #62/INFO]: <ttvNaThanosn> im boutta show my brother the world[m
+[00:26:29] [Async Chat Thread - #62/INFO]: <ttvNaThanosn> hes watching my screenshare[m
+[00:26:33] [Async Chat Thread - #62/INFO]: <PikNik> k[m
+[00:28:18] [Server thread/INFO]: PikNik issued server command: /home
+[00:30:48] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[00:30:48] [Server thread/INFO]: ttvNaThanosn left the game
+[00:33:32] [User Authenticator #111/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[00:33:32] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36898] logged in with entity id 234145 at ([world]-1283.5, 73.0000002, -346.5)
+[00:36:50] [Server thread/ERROR]: Block at -1,162, 50, -664 is Block{minecraft:water} but has net.minecraft.server.v1_16_R1.TileEntityChest@497292b9. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[00:42:18] [Server thread/INFO]: PikNik was impaled by Drowned
+[00:42:22] [Server thread/INFO]: PikNik issued server command: /back
+[00:42:22] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-955.99, y=62.01, z=-726.89](PikNik at -955.9889136495142,62.01435758416336,-726.8898376858009) left loaded chunk area
+[00:45:47] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
+[00:46:18] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:46:41] [Server thread/WARN]: ttvNaThanosn moved too quickly! 0.004478294841646857,8.0,-8.418213222259048
+[00:48:00] [Server thread/INFO]: ttvNaThanosn fell from a high place
+[00:48:05] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[00:48:18] [Async Chat Thread - #63/INFO]: <ttvNaThanosn> home[m
+[00:48:20] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:48:26] [Async Chat Thread - #63/INFO]: <ttvNaThanosn> oops lol[m
+[00:48:37] [Async Chat Thread - #63/INFO]: <ttvNaThanosn> come check out the house and join gamer beans[m
+[00:48:44] [Async Chat Thread - #63/INFO]: <PikNik> k[m
+[00:48:46] [Async Chat Thread - #63/INFO]: <PikNik> hold on[m
+[00:48:51] [Async Chat Thread - #63/INFO]: <PikNik> been swimming for a while[m
+[00:51:04] [Server thread/INFO]: ttvNaThanosn issued server command: /tpr PikNik
+[00:51:07] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[00:51:14] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome desert
+[00:51:38] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[00:51:38] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/234145, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[00:52:15] [Server thread/INFO]: ttvNaThanosn issued server command: /tpahere PikNik
+[00:52:17] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[00:54:16] [Server thread/INFO]: PikNik issued server command: /home
+[00:54:16] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[00:54:21] [Server thread/INFO]: PikNik issued server command: /tpa ttvNaThanosn
+[00:54:21] [Server thread/INFO]: ttvNaThanosn issued server command: /tpahere PikNik
+[00:54:27] [Server thread/INFO]: PikNik issued server command: /tpaccept
+[00:55:04] [Server thread/INFO]: PikNik issued server command: /home
+[00:55:04] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[01:00:51] [Server thread/INFO]: PikNik issued server command: /home village
+[01:00:52] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-2936.00, y=65.00, z=-784.00](PikNik at -2936.0,65.0,-784.0) left loaded chunk area
+[01:01:02] [Server thread/INFO]: PikNik issued server command: /home
+[01:01:03] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[01:01:46] [Server thread/INFO]: PikNik issued server command: /home village
+[01:01:46] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-2936.00, y=65.00, z=-784.00](PikNik at -2936.0,65.0,-784.0) left loaded chunk area
+[01:02:07] [Server thread/INFO]: PikNik issued server command: /home
+[01:02:07] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[01:02:21] [Server thread/INFO]: ttvNaThanosn issued server command: /home srotage
+[01:02:24] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[01:02:41] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[01:04:58] [Server thread/INFO]: PikNik issued server command: /home
+[01:04:59] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[01:05:12] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[01:10:58] [Server thread/INFO]: PikNik issued server command: /home
+[01:15:31] [Server thread/INFO]: PikNik issued server command: /home
+[01:20:51] [Server thread/INFO]: PikNik issued server command: /homr
+[01:20:52] [Server thread/INFO]: PikNik issued server command: /home
+[01:20:58] [Server thread/INFO]: PikNik issued server command: /home base
+[01:21:14] [Server thread/INFO]: PikNik issued server command: /home
+[01:23:34] [Server thread/INFO]: PikNik issued server command: /home
+[01:23:47] [Server thread/INFO]: PikNik issued server command: /home base
+[01:23:47] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1316.00, y=69.00, z=-355.00](PikNik at -1316.0,69.0,-355.0) left loaded chunk area
+[01:24:08] [Server thread/INFO]: PikNik issued server command: /home
+[01:27:34] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[01:28:49] [Server thread/INFO]: PikNik issued server command: /home
+[01:30:19] [Server thread/INFO]: PikNik issued server command: /home
+[01:30:54] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[01:36:39] [Server thread/INFO]: PikNik issued server command: /home
+[01:37:11] [Server thread/INFO]: PikNik issued server command: /home
+[01:39:52] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[01:40:09] [Server thread/INFO]: PikNik issued server command: /home base
+[01:42:02] [Server thread/INFO]: PikNik issued server command: /home
+[01:42:02] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[01:46:43] [Server thread/INFO]: PikNik issued server command: /home base
+[01:49:47] [Server thread/INFO]: PikNik issued server command: /home
+[01:51:29] [Server thread/INFO]: PikNik issued server command: /home
+[01:52:59] [Server thread/INFO]: PikNik issued server command: /home
+[01:53:53] [Async Chat Thread - #64/INFO]: <ttvNaThanosn> gtg[m
+[01:53:54] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[01:53:54] [Server thread/INFO]: ttvNaThanosn left the game
+[01:56:49] [Server thread/INFO]: PikNik issued server command: /home
+[01:59:22] [Server thread/INFO]: PikNik issued server command: /home
+[02:05:00] [Server thread/INFO]: PikNik issued server command: /home
+[02:07:24] [Server thread/INFO]: PikNik issued server command: /home
+[02:07:43] [Server thread/INFO]: PikNik issued server command: /home base
+[02:07:43] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1316.00, y=69.00, z=-355.00](PikNik at -1316.0,69.0,-355.0) left loaded chunk area
+[02:09:07] [Server thread/INFO]: PikNik issued server command: /home
+[02:09:07] [Server thread/WARN]: Entity EntityPlayer['PikNik'/232888, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[02:09:11] [Server thread/INFO]: PikNik issued server command: /home
+[02:09:13] [Server thread/INFO]: PikNik issued server command: /home
+[02:13:56] [Server thread/INFO]: PikNik issued server command: /home
+[02:18:28] [Server thread/INFO]: PikNik lost connection: Disconnected
+[02:18:28] [Server thread/INFO]: PikNik left the game
+[03:03:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b05a2e7[id=<null>,name=PikNik,properties={},legacy=false] (/127.0.0.1:36962) lost connection: Disconnected
+[03:03:26] [User Authenticator #113/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[03:03:27] [Server thread/INFO]: PikNik[/127.0.0.1:36966] logged in with entity id 245122 at ([world]-1236.1836741287766, 68.0, -493.35558017333574)
+[03:07:52] [Server thread/INFO]: PikNik issued server command: /home
+[03:08:04] [Server thread/INFO]: PikNik issued server command: /home
+[03:08:44] [Server thread/INFO]: PikNik issued server command: /home
+[03:13:08] [Server thread/INFO]: PikNik issued server command: /home
+[03:13:34] [Server thread/INFO]: PikNik issued server command: /home base
+[03:15:38] [User Authenticator #114/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[03:15:38] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36970] logged in with entity id 246051 at ([world]-1241.065112465553, 65.0625, -485.43238378001485)
+[03:15:39] [Server thread/INFO]: PikNik issued server command: /home
+[03:15:51] [Async Chat Thread - #65/INFO]: <ttvNaThanosn> hey[m
+[03:15:59] [Async Chat Thread - #65/INFO]: <PikNik> oh i didnt see u join lol[m
+[03:16:03] [Async Chat Thread - #65/INFO]: <ttvNaThanosn> join discord[m
+[03:16:05] [Async Chat Thread - #65/INFO]: <PikNik> got on about 5 mins ago[m
+[03:16:57] [Server thread/INFO]: PikNik issued server command: /home base
+[03:17:31] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[03:17:31] [Server thread/INFO]: ttvNaThanosn left the game
+[03:18:41] [User Authenticator #115/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[03:18:41] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36980] logged in with entity id 246312 at ([world]-1333.9736490438233, 73.0, -382.4592856268611)
+[03:19:12] [Server thread/INFO]: PikNik issued server command: /home
+[03:19:14] [Server thread/INFO]: PikNik issued server command: /home base
+[03:19:35] [Server thread/INFO]: PikNik issued server command: /home
+[03:20:45] [Server thread/INFO]: PikNik issued server command: /home base
+[03:20:45] [Server thread/WARN]: Entity EntityPlayer['PikNik'/245122, l='ServerLevel[world]', x=-1316.00, y=69.00, z=-355.00](PikNik at -1316.0,69.0,-355.0) left loaded chunk area
+[03:20:58] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:22:22] [Server thread/INFO]: PikNik issued server command: /home
+[03:25:19] [Server thread/INFO]: ttvNaThanosn issued server command: /homelist
+[03:26:05] [Async Chat Thread - #66/INFO]: <PikNik> ./delhome <name>[m
+[03:26:06] [Server thread/INFO]: ttvNaThanosn issued server command: /delhome storage
+[03:26:10] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:26:15] [Server thread/INFO]: ttvNaThanosn issued server command: /homelist
+[03:26:38] [Server thread/INFO]: PikNik issued server command: /home
+[03:26:56] [Server thread/INFO]: ttvNaThanosn issued server command: /home villagers
+[03:27:00] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome villagers
+[03:27:14] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome pumpkin
+[03:27:32] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome storage
+[03:28:31] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome piknik
+[03:29:12] [Server thread/INFO]: PikNik issued server command: /home base
+[03:29:45] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[03:31:05] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:31:05] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/246312, l='ServerLevel[world]', x=-1324.09, y=70.00, z=-360.92](ttvNaThanosn at -1324.0905564955474,70.0,-360.9197178236526) left loaded chunk area
+[03:31:14] [Server thread/INFO]: ttvNaThanosn issued server command: /home piknik
+[03:31:14] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/246312, l='ServerLevel[world]', x=-1280.06, y=72.00, z=-480.58](ttvNaThanosn at -1280.0557218687304,72.0,-480.57544221961587) left loaded chunk area
+[03:32:11] [Server thread/INFO]: PikNik issued server command: /home
+[03:33:58] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:33:58] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/246312, l='ServerLevel[world]', x=-1324.09, y=70.00, z=-360.92](ttvNaThanosn at -1324.0905564955474,70.0,-360.9197178236526) left loaded chunk area
+[03:34:32] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:34:32] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/246312, l='ServerLevel[world]', x=-1280.06, y=72.00, z=-480.58](ttvNaThanosn at -1280.0557218687304,72.0,-480.57544221961587) left loaded chunk area
+[03:38:10] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:38:10] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/246312, l='ServerLevel[world]', x=-1324.09, y=70.00, z=-360.92](ttvNaThanosn at -1324.0905564955474,70.0,-360.9197178236526) left loaded chunk area
+[03:38:32] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:38:32] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/246312, l='ServerLevel[world]', x=-1280.06, y=72.00, z=-480.58](ttvNaThanosn at -1280.0557218687304,72.0,-480.57544221961587) left loaded chunk area
+[03:41:12] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:41:12] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/246312, l='ServerLevel[world]', x=-1280.06, y=72.00, z=-480.58](ttvNaThanosn at -1280.0557218687304,72.0,-480.57544221961587) left loaded chunk area
+[03:41:31] [Server thread/INFO]: PikNik issued server command: /home
+[03:41:52] [Server thread/INFO]: PikNik issued server command: /home
+[03:43:50] [Server thread/INFO]: PikNik issued server command: /home
+[03:44:02] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[03:44:02] [Server thread/INFO]: ttvNaThanosn left the game
+[03:44:13] [User Authenticator #116/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[03:44:13] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:36992] logged in with entity id 249607 at ([world]-1254.4773377091801, 63.0, -507.03557234212496)
+[03:46:04] [Server thread/INFO]: PikNik issued server command: /home
+[03:46:31] [Server thread/INFO]: PikNik issued server command: /home
+[03:47:14] [Server thread/INFO]: PikNik issued server command: /home
+[03:48:30] [Server thread/INFO]: PikNik issued server command: /home
+[03:49:27] [Server thread/INFO]: PikNik issued server command: /home
+[03:50:22] [Server thread/INFO]: PikNik issued server command: /home
+[03:51:05] [Server thread/INFO]: PikNik issued server command: /home
+[03:51:38] [Server thread/INFO]: PikNik issued server command: /home
+[03:51:58] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[03:51:58] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/249607, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[03:52:03] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:53:13] [Server thread/INFO]: PikNik issued server command: /home
+[03:53:15] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[03:53:18] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[03:53:21] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:53:49] [Server thread/INFO]: PikNik issued server command: /home
+[03:54:24] [Server thread/INFO]: PikNik issued server command: /home
+[03:54:39] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:55:29] [Server thread/INFO]: PikNik issued server command: /home
+[03:56:18] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[03:56:22] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:56:25] [Server thread/INFO]: PikNik issued server command: /home
+[03:56:41] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:56:41] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/249607, l='ServerLevel[world]', x=-1325.00, y=70.00, z=-361.00](ttvNaThanosn at -1325.0,70.0,-361.0) left loaded chunk area
+[03:56:59] [Server thread/INFO]: PikNik issued server command: /home
+[03:57:03] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:57:29] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:57:37] [Server thread/INFO]: PikNik issued server command: /home
+[03:58:14] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:58:38] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[03:58:38] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/249607, l='ServerLevel[world]', x=-1325.00, y=70.00, z=-361.00](ttvNaThanosn at -1325.0,70.0,-361.0) left loaded chunk area
+[03:58:42] [Server thread/INFO]: PikNik issued server command: /home
+[03:58:48] [User Authenticator #117/INFO]: UUID of player pirateboy416 is e5321807-83f9-426c-8670-6f65e29e2c0d
+[03:58:48] [Server thread/INFO]: pirateboy416[/127.0.0.1:37002] logged in with entity id 250449 at ([world]-1309.4064052631943, 72.9375, -385.7379258241928)
+[03:58:58] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[03:59:01] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[03:59:01] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[03:59:13] [Server thread/INFO]: PikNik issued server command: /tpa pirateboy416
+[03:59:18] [Server thread/INFO]: PikNik issued server command: /home base
+[04:01:16] [Server thread/INFO]: PikNik was shot by pirateboy416
+[04:01:20] [Server thread/INFO]: PikNik issued server command: /back
+[04:02:50] [Server thread/INFO]: PikNik issued server command: /home
+[04:03:51] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[04:04:08] [Server thread/INFO]: PikNik issued server command: /home
+[04:07:18] [Server thread/INFO]: PikNik issued server command: /home
+[04:10:47] [Async Chat Thread - #67/INFO]: <pirateboy416> man says dont act spoiled after taking all of our diamonds for his armor[m
+[04:11:30] [Async Chat Thread - #67/INFO]: <PikNik> chill[m
+[04:11:48] [Async Chat Thread - #67/INFO]: <PikNik> my man's really being salty for a few diamonds[m
+[04:12:02] [Server thread/INFO]: PikNik issued server command: /home
+[04:14:24] [Server thread/INFO]: PikNik issued server command: /home
+[04:14:37] [Server thread/INFO]: PikNik issued server command: /home
+[04:16:24] [Server thread/INFO]: PikNik issued server command: /home
+[04:16:33] [Server thread/INFO]: PikNik issued server command: /homelist
+[04:16:42] [Server thread/INFO]: PikNik issued server command: /delhome battlebus
+[04:16:56] [Server thread/INFO]: PikNik issued server command: /sethome casino
+[04:17:06] [Server thread/INFO]: PikNik issued server command: /sethome casino
+[04:17:11] [Server thread/INFO]: PikNik issued server command: /sethome casino
+[04:18:12] [Server thread/INFO]: pirateboy416 issued server command: /home gold
+[04:18:15] [Server thread/INFO]: pirateboy416 issued server command: /home
+[04:18:52] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
+[04:19:03] [Server thread/INFO]: ttvNaThanosn issued server command: /tpahere pirateboy416
+[04:19:05] [Server thread/INFO]: pirateboy416 issued server command: /tpa ttvnathanosn
+[04:19:09] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
+[04:19:09] [Server thread/INFO]: PikNik issued server command: /home
+[04:19:16] [Server thread/INFO]: pirateboy416 issued server command: /sethome gold
+[04:19:36] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:20:03] [Server thread/INFO]: PikNik issued server command: /home
+[04:20:51] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:21:13] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[04:21:20] [Server thread/INFO]: pirateboy416 issued server command: /home gold
+[04:21:49] [Async Chat Thread - #68/INFO]: <ttvNaThanosn> sleep[m
+[04:21:54] [Server thread/INFO]: PikNik issued server command: /home
+[04:22:20] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:22:28] [Server thread/INFO]: PikNik issued server command: /home
+[04:23:23] [Server thread/INFO]: PikNik issued server command: /home base
+[04:24:49] [Server thread/INFO]: PikNik issued server command: /home
+[04:25:48] [Server thread/INFO]: ttvNaThanosn was slain by Iron Golem
+[04:25:52] [Server thread/INFO]: ttvNaThanosn issued server command: /back
+[04:26:16] [Server thread/INFO]: pirateboy416 issued server command: /home house
+[04:27:49] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
+[04:27:49] [Server thread/INFO]: pirateboy416 left the game
+[04:28:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20893ms or 417 ticks behind
+[04:28:37] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[04:28:37] [Server thread/INFO]: ttvNaThanosn left the game
+[04:28:40] [User Authenticator #118/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[04:28:40] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:37018] logged in with entity id 253939 at ([world]-1327.7030265893914, 76.0, -394.0445833820997)
+[04:32:17] [Server thread/INFO]: ttvNaThanosn issued server command: /delhome pumpkin
+[04:32:22] [Server thread/INFO]: ttvNaThanosn issued server command: /delhome villager
+[04:34:59] [Server thread/INFO]: PikNik issued server command: /home
+[04:35:23] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:37:10] [Server thread/INFO]: PikNik issued server command: /home
+[04:37:45] [Server thread/INFO]: PikNik issued server command: /home
+[04:37:47] [Server thread/INFO]: PikNik issued server command: /home base
+[04:39:49] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:40:45] [Server thread/INFO]: PikNik issued server command: /home base
+[04:40:45] [Server thread/WARN]: Entity EntityPlayer['PikNik'/245122, l='ServerLevel[world]', x=-1316.00, y=69.00, z=-355.00](PikNik at -1316.0,69.0,-355.0) left loaded chunk area
+[04:41:15] [Server thread/INFO]: ttvNaThanosn has made the advancement [Hidden in the Depths]
+[04:41:24] [Server thread/INFO]: PikNik issued server command: /home
+[04:41:24] [Server thread/WARN]: Entity EntityPlayer['PikNik'/245122, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[04:41:47] [Server thread/INFO]: PikNik issued server command: /home base
+[04:41:47] [Server thread/WARN]: Entity EntityPlayer['PikNik'/245122, l='ServerLevel[world]', x=-1316.00, y=69.00, z=-355.00](PikNik at -1316.0,69.0,-355.0) left loaded chunk area
+[04:42:12] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[04:43:52] [Server thread/INFO]: PikNik issued server command: /home
+[04:43:52] [Server thread/WARN]: Entity EntityPlayer['PikNik'/245122, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[04:44:27] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:44:52] [Server thread/INFO]: PikNik issued server command: /home
+[04:45:09] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:45:59] [Server thread/INFO]: PikNik issued server command: /home
+[04:49:01] [Server thread/INFO]: PikNik issued server command: /home
+[04:49:09] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:49:44] [Server thread/INFO]: PikNik issued server command: /home
+[04:49:48] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:50:41] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[04:51:07] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
+[04:51:26] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
+[04:52:46] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[04:52:46] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[04:54:14] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[04:54:22] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
+[04:54:24] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
+[04:54:38] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[04:54:38] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[04:54:46] [Server thread/INFO]: PikNik issued server command: /home
+[04:54:49] [Server thread/INFO]: PikNik issued server command: /home xp
+[04:54:59] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:55:02] [Server thread/INFO]: PikNik issued server command: /tpahere ttvNaThanosn
+[04:55:03] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
+[04:56:22] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[04:56:22] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[04:57:14] [Server thread/INFO]: PikNik issued server command: /home casino
+[04:58:28] [Server thread/INFO]: ttvNaThanosn issued server command: /home PikNik
+[05:00:03] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:00:03] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[05:01:27] [Server thread/INFO]: PikNik lost connection: Disconnected
+[05:01:27] [Server thread/INFO]: PikNik left the game
+[05:11:38] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:13:26] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:15:29] [Server thread/INFO]: ttvNaThanosn issued server command: /home mending
+[05:15:29] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-2948.00, y=64.00, z=-770.00](ttvNaThanosn at -2948.0,64.0,-770.0) left loaded chunk area
+[05:15:47] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:15:47] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[05:16:16] [Server thread/INFO]: ttvNaThanosn issued server command: /
+[05:16:25] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome pumpkin
+[05:16:37] [Server thread/INFO]: ttvNaThanosn issued server command: /sethome villager
+[05:17:44] [Server thread/INFO]: ttvNaThanosn issued server command: /home mending
+[05:17:44] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-2948.00, y=64.00, z=-770.00](ttvNaThanosn at -2948.0,64.0,-770.0) left loaded chunk area
+[05:18:10] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:18:10] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[05:19:42] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[05:19:49] [Server thread/INFO]: ttvNaThanosn issued server command: /home villager
+[05:20:17] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:20:56] [Server thread/INFO]: ttvNaThanosn issued server command: /home spawner
+[05:23:35] [Server thread/INFO]: ttvNaThanosn issued server command: /home goldfarm
+[05:25:05] [Server thread/INFO]: ttvNaThanosn issued server command: /home spawner
+[05:26:23] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[05:26:29] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:26:40] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[05:26:53] [Server thread/INFO]: ttvNaThanosn issued server command: /home villager
+[05:27:31] [Server thread/INFO]: ttvNaThanosn issued server command: /home spawner
+[05:30:57] [User Authenticator #119/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[05:30:58] [Server thread/INFO]: PikNik[/127.0.0.1:37050] logged in with entity id 260167 at ([world]-1253.5996353088826, 68.0, -497.6757741674777)
+[05:31:05] [Async Chat Thread - #69/INFO]: <ttvNaThanosn> hi[m
+[05:31:10] [Async Chat Thread - #69/INFO]: <PikNik> just showing my brother what I built[m
+[05:31:14] [Async Chat Thread - #69/INFO]: <ttvNaThanosn> kk[m
+[05:35:02] [Server thread/INFO]: PikNik issued server command: /home 10
+[05:35:06] [Server thread/INFO]: PikNik issued server command: /home 9
+[05:35:09] [Server thread/INFO]: PikNik issued server command: /homelist
+[05:35:13] [Server thread/INFO]: PikNik issued server command: /home mine
+[05:35:18] [Server thread/INFO]: PikNik issued server command: /home nether
+[05:35:27] [Server thread/INFO]: PikNik issued server command: /home base
+[05:36:40] [Server thread/INFO]: PikNik issued server command: /home
+[05:37:26] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[05:37:51] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:38:09] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[05:38:14] [Server thread/INFO]: ttvNaThanosn issued server command: /home villager
+[05:40:42] [Async Chat Thread - #70/INFO]: <PikNik> I finished showing him my the server[m
+[05:40:46] [Async Chat Thread - #70/INFO]: <PikNik> I might stay though[m
+[05:41:04] [Async Chat Thread - #70/INFO]: <ttvNaThanosn> k[m
+[05:41:05] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:41:23] [Async Chat Thread - #70/INFO]: <ttvNaThanosn> wait wheres the looting villager?[m
+[05:41:34] [Async Chat Thread - #70/INFO]: <PikNik> my private village[m
+[05:41:36] [Async Chat Thread - #70/INFO]: <PikNik> u set a home there[m
+[05:41:39] [Async Chat Thread - #70/INFO]: <ttvNaThanosn> ok[m
+[05:41:48] [Async Chat Thread - #70/INFO]: <ttvNaThanosn> is it lvl3?[m
+[05:41:53] [Async Chat Thread - #70/INFO]: <PikNik> yeah[m
+[05:41:58] [Async Chat Thread - #70/INFO]: <ttvNaThanosn> nice[m
+[05:42:03] [Server thread/INFO]: ttvNaThanosn issued server command: /home mending
+[05:42:03] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-2948.00, y=64.00, z=-770.00](ttvNaThanosn at -2948.0,64.0,-770.0) left loaded chunk area
+[05:42:26] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:42:26] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-1282.00, y=73.00, z=-344.00](ttvNaThanosn at -1282.0,73.0,-344.0) left loaded chunk area
+[05:44:03] [Async Chat Thread - #71/INFO]: <PikNik> I want to make a diagonal bridge to my casino[m
+[05:44:11] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> do it[m
+[05:44:12] [Async Chat Thread - #71/INFO]: <PikNik> that goes over the river[m
+[05:44:17] [Async Chat Thread - #71/INFO]: <PikNik> but i suck at bridges[m
+[05:44:25] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> i can do one while ur gone[m
+[05:44:27] [Async Chat Thread - #71/INFO]: <PikNik> I cant make them properly curved[m
+[05:44:29] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> is cobble ok?[m
+[05:44:41] [Async Chat Thread - #71/INFO]: <PikNik> hmmm[m
+[05:44:41] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> wait lemme show u something[m
+[05:44:49] [Async Chat Thread - #71/INFO]: <PikNik> I want it to look modern[m
+[05:44:52] [Async Chat Thread - #71/INFO]: <PikNik> and luxurious[m
+[05:44:56] [Async Chat Thread - #71/INFO]: <PikNik> from here[m
+[05:44:59] [Async Chat Thread - #71/INFO]: <PikNik> to the entrance[m
+[05:45:25] [Async Chat Thread - #71/INFO]: <PikNik> what materials u need? I can fetch them[m
+[05:45:26] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> i was thinking rustic-modern[m
+[05:45:31] [Async Chat Thread - #71/INFO]: <PikNik> yeah[m
+[05:45:36] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> if u want extra modern the a shitload of quartz[m
+[05:45:38] [Async Chat Thread - #71/INFO]: <PikNik> that would fit the theme of the casino itself[m
+[05:45:44] [Async Chat Thread - #71/INFO]: <PikNik> yeah then no[m
+[05:45:48] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> kk[m
+[05:45:49] [Async Chat Thread - #71/INFO]: <PikNik> rustic-modern is fine[m
+[05:45:51] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> thats all[m
+[05:45:53] [Async Chat Thread - #71/INFO]: <PikNik> dark spruce[m
+[05:46:02] [Async Chat Thread - #71/INFO]: <PikNik> I can get it if u need some[m
+[05:46:06] [Async Chat Thread - #71/INFO]: <ttvNaThanosn> sure[m
+[05:46:08] [Server thread/INFO]: PikNik issued server command: /home base
+[05:47:47] [Server thread/INFO]: ttvNaThanosn issued server command: /home mending
+[05:47:47] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/253939, l='ServerLevel[world]', x=-2948.00, y=64.00, z=-770.00](ttvNaThanosn at -2948.0,64.0,-770.0) left loaded chunk area
+[05:48:05] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:48:07] [Async Chat Thread - #72/INFO]: <ttvNaThanosn> brb[m
+[05:48:08] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[05:48:08] [Server thread/INFO]: ttvNaThanosn left the game
+[05:49:22] [User Authenticator #120/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[05:49:22] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:37062] logged in with entity id 262286 at ([world]-1282.0, 73.0, -344.0)
+[05:49:32] [Async Chat Thread - #73/INFO]: <ttvNaThanosn> back, also dont convert the wood to planks yet[m
+[05:49:36] [Async Chat Thread - #73/INFO]: <PikNik> yeah ik[m
+[05:49:42] [Async Chat Thread - #73/INFO]: <ttvNaThanosn> i wanna buld some of it outta the wood[m
+[05:49:46] [Async Chat Thread - #73/INFO]: <ttvNaThanosn> build([m
+[05:49:49] [Async Chat Thread - #73/INFO]: <ttvNaThanosn> build**[m
+[05:51:31] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:55:07] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> hi[m
+[05:55:12] [Async Chat Thread - #74/INFO]: <PikNik> hu lol[m
+[05:55:19] [Async Chat Thread - #74/INFO]: <PikNik> hi*[m
+[05:55:27] [Server thread/INFO]: PikNik issued server command: /home base
+[05:55:44] [Async Chat Thread - #74/INFO]: <PikNik> I got 4+ stacks[m
+[05:55:58] [Server thread/INFO]: PikNik issued server command: /home
+[05:56:00] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> nice ill stop working on the pumpkin farm and get to work on the bridge[m
+[05:56:04] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[05:56:05] [Async Chat Thread - #74/INFO]: <PikNik> k thx[m
+[05:56:15] [Server thread/INFO]: PikNik issued server command: /home base
+[05:56:23] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> wheres the stacks?[m
+[05:56:27] [Server thread/INFO]: PikNik issued server command: /tpa ttvNaThanosn
+[05:56:29] [Server thread/INFO]: PikNik issued server command: /tpa ttvNaThanosn
+[05:56:30] [Server thread/INFO]: ttvNaThanosn issued server command: /tpaccept
+[05:56:40] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> wow[m
+[05:56:43] [Async Chat Thread - #74/INFO]: <PikNik> lol[m
+[05:56:49] [Async Chat Thread - #74/INFO]: <PikNik> is it enough XD[m
+[05:56:54] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> k thx for the wood bye noob[m
+[05:56:55] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> jk[m
+[05:57:04] [Async Chat Thread - #74/INFO]: <PikNik> >:|[m
+[05:57:11] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> im jokin[m
+[05:57:14] [Async Chat Thread - #74/INFO]: <PikNik> ik[m
+[05:57:21] [Async Chat Thread - #74/INFO]: <PikNik> sarcasm[m
+[05:57:25] [Server thread/INFO]: PikNik issued server command: /home base
+[05:57:27] [Async Chat Thread - #74/INFO]: <ttvNaThanosn> hmmm[m
+[06:00:59] [Async Chat Thread - #75/INFO]: <ttvNaThanosn> sleep pls[m
+[06:01:02] [Server thread/INFO]: PikNik issued server command: /home
+[06:01:28] [Async Chat Thread - #75/INFO]: <PikNik> can I have 4 logs pls[m
+[06:01:37] [Async Chat Thread - #75/INFO]: <PikNik> gracias[m
+[06:01:41] [Server thread/INFO]: PikNik issued server command: /home casino
+[06:03:16] [Async Chat Thread - #76/INFO]: <PikNik> can water flow through slabs[m
+[06:03:22] [Async Chat Thread - #76/INFO]: <ttvNaThanosn> yes[m
+[06:03:27] [Async Chat Thread - #76/INFO]: <PikNik> ok good to know[m
+[06:03:29] [Async Chat Thread - #76/INFO]: <ttvNaThanosn> you have to put water in the slab[m
+[06:06:56] [Async Chat Thread - #77/INFO]: <ttvNaThanosn> noice[m
+[06:07:02] [Async Chat Thread - #77/INFO]: <PikNik> lol i won[m
+[06:07:38] [Async Chat Thread - #77/INFO]: <PikNik> can I have some slabs[m
+[06:07:49] [Async Chat Thread - #77/INFO]: <ttvNaThanosn> ill just give u planks[m
+[06:07:54] [Async Chat Thread - #77/INFO]: <PikNik> I think it'd look nicer if we replaced these blocks in the mid with slabs[m
+[06:08:08] [Async Chat Thread - #77/INFO]: <ttvNaThanosn> these are slabs[m
+[06:08:30] [Async Chat Thread - #77/INFO]: <PikNik> wait vm[m
+[06:08:43] [Async Chat Thread - #77/INFO]: <PikNik> I changed nothing[m
+[06:11:50] [Async Chat Thread - #78/INFO]: <ttvNaThanosn> sleep[m
+[06:11:52] [Async Chat Thread - #78/INFO]: <PikNik> tysm, you've honestly been really helpful to me - not just this, but with many other projects[m
+[06:11:54] [Server thread/INFO]: PikNik issued server command: /home
+[06:12:18] [Async Chat Thread - #78/INFO]: <PikNik> feel free to take whatever resources u need from my chests[m
+[06:12:30] [Async Chat Thread - #78/INFO]: <PikNik> idc if it's ancient debris, take it[m
+[06:12:34] [Async Chat Thread - #78/INFO]: <ttvNaThanosn> especially when i start 90% of the projects :PPPPPP[m
+[06:12:37] [Async Chat Thread - #78/INFO]: <PikNik> i dont have a lot anyways[m
+[06:12:52] [Async Chat Thread - #78/INFO]: <ttvNaThanosn> u are also free to use my tools room in my house[m
+[06:13:02] [Async Chat Thread - #78/INFO]: <PikNik> thx[m
+[06:13:17] [Async Chat Thread - #78/INFO]: <ttvNaThanosn> it has anvil, stonecutter, smithing table, etc[m
+[06:13:24] [Server thread/INFO]: PikNik issued server command: /home
+[06:13:38] [Server thread/INFO]: PikNik issued server command: /home casino
+[06:13:40] [Async Chat Thread - #78/INFO]: <ttvNaThanosn> what a nice bridge we have here[m
+[06:13:45] [Async Chat Thread - #78/INFO]: <PikNik> ah yes[m
+[06:13:54] [Async Chat Thread - #78/INFO]: <ttvNaThanosn> ok i need to do smth rq[m
+[06:13:56] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[06:13:56] [Server thread/INFO]: ttvNaThanosn left the game
+[06:14:37] [Server thread/INFO]: PikNik issued server command: /home
+[06:16:08] [User Authenticator #121/INFO]: UUID of player ttvNaThanosn is ee0897a7-af69-494c-9d62-b08040f6c86c
+[06:16:08] [Server thread/INFO]: ttvNaThanosn[/127.0.0.1:37076] logged in with entity id 264246 at ([world]-1252.0141372790072, 64.0625, -490.1642618348959)
+[06:16:13] [Async Chat Thread - #79/INFO]: <ttvNaThanosn> ok im back[m
+[06:16:22] [Async Chat Thread - #79/INFO]: <PikNik> thought u left for the night[m
+[06:16:27] [Async Chat Thread - #79/INFO]: <PikNik> I was confused[m
+[06:16:35] [Async Chat Thread - #79/INFO]: <ttvNaThanosn> you want ur wood back or ill put in the sorter[m
+[06:16:40] [Async Chat Thread - #79/INFO]: <PikNik> sorter[m
+[06:16:53] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[06:16:53] [Server thread/WARN]: Entity EntityPlayer['ttvNaThanosn'/264246, l='ServerLevel[world]', x=-1325.00, y=70.00, z=-361.00](ttvNaThanosn at -1325.0,70.0,-361.0) left loaded chunk area
+[06:16:59] [Server thread/INFO]: PikNik issued server command: /home
+[06:18:08] [Async Chat Thread - #80/INFO]: <PikNik> hey, is it possible to craft armor stands with arms[m
+[06:18:19] [Async Chat Thread - #80/INFO]: <ttvNaThanosn> idk much about that but i think not[m
+[06:18:28] [Server thread/INFO]: PikNik issued server command: /home
+[06:19:03] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[06:19:18] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[06:19:28] [Server thread/INFO]: PikNik issued server command: /home casino
+[06:20:32] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[06:20:44] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[06:21:38] [Server thread/INFO]: PikNik issued server command: /home
+[06:22:14] [Server thread/INFO]: PikNik issued server command: /home
+[06:23:50] [Server thread/INFO]: PikNik issued server command: /home
+[06:23:51] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[06:23:58] [Async Chat Thread - #81/INFO]: <ttvNaThanosn> sleepy time :D[m
+[06:24:16] [Server thread/INFO]: PikNik issued server command: /home
+[06:24:55] [Server thread/INFO]: PikNik issued server command: /home
+[06:25:15] [Server thread/INFO]: ttvNaThanosn issued server command: /home sorter
+[06:25:20] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[06:25:32] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[06:29:25] [Async Chat Thread - #82/INFO]: <PikNik> lag[m
+[06:32:02] [Async Chat Thread - #83/INFO]: <PikNik> need help[m
+[06:32:05] [Async Chat Thread - #83/INFO]: <PikNik> ?[m
+[06:32:07] [Async Chat Thread - #83/INFO]: <ttvNaThanosn> no[m
+[06:32:10] [Async Chat Thread - #83/INFO]: <ttvNaThanosn> almost done[m
+[06:32:11] [Async Chat Thread - #83/INFO]: <PikNik> k[m
+[06:32:55] [Server thread/INFO]: PikNik issued server command: /home casino
+[06:33:49] [Async Chat Thread - #84/INFO]: <PikNik> I think im gonna hop off[m
+[06:33:56] [Async Chat Thread - #84/INFO]: <PikNik> pretty late[m
+[06:33:57] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> can u sleep first pls?[m
+[06:34:00] [Server thread/INFO]: PikNik issued server command: /home
+[06:34:01] [Async Chat Thread - #84/INFO]: <PikNik> sure[m
+[06:34:02] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> thx[m
+[06:34:51] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> thx[m
+[06:35:04] [Async Chat Thread - #84/INFO]: <PikNik> np[m
+[06:35:14] [Async Chat Thread - #84/INFO]: <PikNik> do u see arrows?[m
+[06:35:17] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> YES[m
+[06:35:19] [Async Chat Thread - #84/INFO]: <PikNik> lol[m
+[06:35:20] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> UHHH[m
+[06:35:29] [Async Chat Thread - #84/INFO]: <PikNik> i wanted to see how far they'd go[m
+[06:35:36] [Async Chat Thread - #84/INFO]: <PikNik> i didnt intend on killing u[m
+[06:35:41] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> oh ok[m
+[06:35:47] [Async Chat Thread - #84/INFO]: <PikNik> ok cya[m
+[06:35:49] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> pls stop now lol[m
+[06:35:51] [Async Chat Thread - #84/INFO]: <ttvNaThanosn> bye[m
+[06:35:52] [Server thread/INFO]: PikNik lost connection: Disconnected
+[06:35:52] [Server thread/INFO]: PikNik left the game
+[06:44:42] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[06:45:49] [Async Chat Thread - #85/INFO]: <ttvNaThanosn> sleepy time :D[m
+[06:52:32] [Server thread/INFO]: ttvNaThanosn issued server command: /home sorter
+[06:52:35] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[06:53:27] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[06:55:56] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[06:56:40] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[06:56:51] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[06:57:56] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[06:58:24] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin\
+[06:58:26] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[06:59:18] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[06:59:59] [Server thread/INFO]: ttvNaThanosn issued server command: /home storage
+[07:00:27] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[07:04:08] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[07:04:18] [Server thread/INFO]: ttvNaThanosn issued server command: /home villager
+[07:04:41] [Server thread/INFO]: ttvNaThanosn issued server command: /home pumpkin
+[07:04:49] [Server thread/INFO]: ttvNaThanosn issued server command: /home villager
+[07:11:08] [Server thread/INFO]: ttvNaThanosn issued server command: /home
+[07:11:10] [Server thread/INFO]: ttvNaThanosn lost connection: Disconnected
+[07:11:10] [Server thread/INFO]: ttvNaThanosn left the game
