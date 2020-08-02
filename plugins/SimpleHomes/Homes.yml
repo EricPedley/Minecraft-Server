@@ -146,9 +146,9 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     z: -376
   gold:
     world: world_nether
-    x: -163
+    x: -164
     y: 246
-    z: -123
+    z: -122
 ba536c4a-a147-4893-8fc4-8fafaa331357:
   village:
     world: world
@@ -201,21 +201,11 @@ ee0897a7-af69-494c-9d62-b08040f6c86c:
     x: -164
     y: 246
     z: -122
-  spawner:
-    world: world
-    x: -1318
-    y: 9
-    z: -416
   mending:
     world: world
     x: -2948
     y: 64
     z: -770
-  desert:
-    world: world
-    x: -498
-    y: 67
-    z: -788
   villagers:
     world: world
     x: -1321
@@ -231,19 +221,44 @@ ee0897a7-af69-494c-9d62-b08040f6c86c:
     x: -1281
     y: 72
     z: -481
-  pumpkin:
+  spawner:
     world: world
-    x: -1348
-    y: 71
-    z: -385
-  villager:
+    x: -1319
+    y: 9
+    z: -418
+  desert:
     world: world
-    x: -1321
-    y: 75
-    z: -390
+    x: -317
+    y: 63
+    z: -887
+  swamp:
+    world: world
+    x: -1680
+    y: 67
+    z: -698
+  stronghold:
+    world: world
+    x: -2207
+    y: 39
+    z: -1156
 ca955fc8-7edc-4189-b56f-dc56fbd5ce1e:
   default:
+    world: world_nether
+    x: -165
+    y: 246
+    z: -123
+  '1':
     world: world
-    x: -2936
-    y: 67
-    z: -840
+    x: -1303
+    y: 73
+    z: -389
+  '2':
+    world: world
+    x: -1300
+    y: 62
+    z: -345
+  '3':
+    world: world
+    x: -2949
+    y: 70
+    z: -769

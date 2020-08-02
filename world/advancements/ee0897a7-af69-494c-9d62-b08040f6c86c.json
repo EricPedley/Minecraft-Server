@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-08-01 23:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-07-25 07:45:54 +0000"
@@ -440,6 +446,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2020-07-25 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-08-01 23:53:59 +0000"
     },
     "done": true
   },
@@ -608,6 +620,7 @@
       "minecraft:zombified_piglin": "2020-07-30 23:37:34 +0000",
       "minecraft:witch": "2020-07-25 21:32:49 +0000",
       "minecraft:piglin": "2020-07-26 03:35:19 +0000",
+      "minecraft:silverfish": "2020-08-01 23:54:44 +0000",
       "minecraft:zombie": "2020-07-25 07:59:26 +0000"
     },
     "done": false
@@ -795,6 +808,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2020-07-25 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-08-01 23:54:00 +0000"
     },
     "done": true
   },
@@ -1257,10 +1276,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-07-25 07:29:53 +0000",
+      "minecraft:mountains": "2020-08-01 23:47:11 +0000",
+      "minecraft:desert_hills": "2020-08-01 23:21:41 +0000",
       "minecraft:desert": "2020-08-01 00:51:08 +0000",
       "minecraft:beach": "2020-07-25 08:05:14 +0000",
       "minecraft:river": "2020-07-25 21:42:14 +0000",
+      "minecraft:wooded_mountains": "2020-08-01 23:48:08 +0000",
       "minecraft:wooded_hills": "2020-07-25 20:16:56 +0000",
+      "minecraft:swamp": "2020-08-01 23:48:29 +0000",
+      "minecraft:savanna": "2020-08-01 23:23:20 +0000",
       "minecraft:plains": "2020-07-25 07:29:11 +0000"
     },
     "done": false
@@ -1292,6 +1316,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-07-25 07:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-08-01 23:53:59 +0000"
     },
     "done": true
   },
@@ -1786,6 +1816,7 @@
     "criteria": {
       "sweet_berries": "2020-07-25 07:32:45 +0000",
       "cooked_beef": "2020-07-27 00:28:11 +0000",
+      "porkchop": "2020-08-02 00:13:40 +0000",
       "potato": "2020-07-31 23:14:29 +0000",
       "pumpkin_pie": "2020-07-31 21:46:25 +0000",
       "melon_slice": "2020-07-25 07:35:25 +0000",
@@ -1850,6 +1881,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-30 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-08-01 23:53:59 +0000"
     },
     "done": true
   },
@@ -1993,6 +2030,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2020-08-01 18:23:53 +0000",
       "minecraft:chicken": "2020-07-30 15:35:42 +0000"
     },
     "done": false
@@ -2051,6 +2089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-08-01 23:24:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-07-25 07:39:35 +0000"
@@ -2066,6 +2110,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-07-25 07:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-08-01 23:53:59 +0000"
     },
     "done": true
   },
@@ -2402,6 +2452,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2020-07-25 17:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-08-01 23:53:59 +0000"
     },
     "done": true
   },
@@ -2768,6 +2824,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-07-25 07:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-08-01 23:53:59 +0000"
     },
     "done": true
   },

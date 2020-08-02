@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-08-02 06:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-07-18 05:56:54 +0000"
@@ -631,6 +637,7 @@
       "minecraft:magma_cube": "2020-07-24 00:30:17 +0000",
       "minecraft:spider": "2020-07-18 06:19:30 +0000",
       "minecraft:creeper": "2020-07-18 06:46:46 +0000",
+      "minecraft:phantom": "2020-08-02 04:01:58 +0000",
       "minecraft:zombified_piglin": "2020-07-27 03:16:03 +0000",
       "minecraft:wither_skeleton": "2020-07-27 22:42:59 +0000",
       "minecraft:piglin": "2020-07-24 00:31:54 +0000",
@@ -1871,6 +1878,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-07-18 05:37:55 +0000",
+      "chicken": "2020-08-02 06:37:08 +0000",
       "cooked_mutton": "2020-07-23 23:33:44 +0000",
       "sweet_berries": "2020-07-18 06:27:31 +0000",
       "cooked_beef": "2020-07-23 23:47:22 +0000",
@@ -2814,6 +2822,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-07-18 07:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-08-02 00:18:25 +0000"
     },
     "done": true
   },
