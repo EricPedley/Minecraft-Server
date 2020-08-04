@@ -187,9 +187,9 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -490
   temp:
     world: world
-    x: -1305
-    y: 58
-    z: -348
+    x: -1322
+    y: 64
+    z: -482
 ee0897a7-af69-494c-9d62-b08040f6c86c:
   default:
     world: world
@@ -262,6 +262,11 @@ ca955fc8-7edc-4189-b56f-dc56fbd5ce1e:
     x: -2949
     y: 70
     z: -769
+  '4':
+    world: world
+    x: 441
+    y: 67
+    z: -655
 a8dd5891-61fc-43dd-8b30-5191bbdd89ca:
   default:
     world: world

@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-07-24 05:41:40 +0000"
@@ -640,6 +646,7 @@
       "minecraft:phantom": "2020-08-02 04:01:58 +0000",
       "minecraft:zombified_piglin": "2020-07-27 03:16:03 +0000",
       "minecraft:wither_skeleton": "2020-07-27 22:42:59 +0000",
+      "minecraft:cave_spider": "2020-08-04 00:48:42 +0000",
       "minecraft:piglin": "2020-07-24 00:31:54 +0000",
       "minecraft:enderman": "2020-07-18 06:12:32 +0000",
       "minecraft:silverfish": "2020-07-29 06:48:22 +0000",
@@ -887,6 +894,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2020-07-27 06:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
     },
     "done": true
   },
@@ -1309,7 +1322,10 @@
       "minecraft:cold_ocean": "2020-07-18 05:46:46 +0000",
       "minecraft:forest": "2020-07-18 05:28:02 +0000",
       "minecraft:mountains": "2020-07-18 08:07:40 +0000",
+      "minecraft:desert_hills": "2020-08-04 06:47:56 +0000",
       "minecraft:deep_cold_ocean": "2020-07-18 05:46:40 +0000",
+      "minecraft:desert": "2020-08-04 06:47:38 +0000",
+      "minecraft:birch_forest": "2020-08-04 06:51:39 +0000",
       "minecraft:warm_ocean": "2020-07-29 04:18:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-07-28 23:17:57 +0000",
       "minecraft:savanna_plateau": "2020-07-29 04:14:49 +0000",
@@ -1913,6 +1929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2020-07-18 06:38:24 +0000"
@@ -1928,6 +1950,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-07-18 05:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
     },
     "done": true
   },
@@ -2705,6 +2733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2020-08-03 20:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2020-07-27 01:24:13 +0000"
@@ -2810,6 +2844,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-07-22 06:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
     },
     "done": true
   },
@@ -2951,6 +2991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-07-18 05:56:54 +0000"
@@ -2993,6 +3039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-18 06:48:32 +0000"
@@ -3008,6 +3060,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-07-25 08:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-08-03 20:36:53 +0000"
     },
     "done": true
   },
