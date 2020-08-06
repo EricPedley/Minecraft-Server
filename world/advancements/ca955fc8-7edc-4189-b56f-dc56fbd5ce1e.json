@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2020-08-06 04:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2020-07-25 21:53:31 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2020-07-27 01:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-08-06 04:54:50 +0000"
     },
     "done": true
   },
@@ -1363,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-08-06 04:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-07-22 06:39:43 +0000"
@@ -1392,6 +1410,9 @@
       "minecraft:cold_ocean": "2020-07-27 00:54:43 +0000",
       "minecraft:forest": "2020-07-22 06:35:50 +0000",
       "minecraft:mountains": "2020-07-22 06:47:59 +0000",
+      "minecraft:taiga": "2020-08-06 05:46:26 +0000",
+      "minecraft:desert_hills": "2020-08-06 05:09:18 +0000",
+      "minecraft:taiga_hills": "2020-08-06 05:48:31 +0000",
       "minecraft:desert": "2020-07-29 05:55:10 +0000",
       "minecraft:birch_forest": "2020-07-27 00:52:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-07-27 06:04:57 +0000",
@@ -1681,6 +1702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-08-06 04:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2020-07-25 22:25:25 +0000"
@@ -1726,6 +1753,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-07-25 18:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2020-08-06 04:54:50 +0000"
     },
     "done": true
   },
@@ -2460,6 +2493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-08-06 04:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-07-25 07:24:02 +0000"
@@ -2955,6 +2994,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-07-25 08:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2020-08-06 04:54:50 +0000"
     },
     "done": true
   },
