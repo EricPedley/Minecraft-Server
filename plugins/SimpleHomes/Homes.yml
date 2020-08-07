@@ -109,11 +109,6 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     x: -193
     y: 14
     z: -79
-  mine2:
-    world: world
-    x: -1015
-    y: 13
-    z: -247
   nick:
     world: world
     x: -1275
@@ -146,9 +141,14 @@ e5321807-83f9-426c-8670-6f65e29e2c0d:
     z: -122
   hhs:
     world: world
-    x: -1255
-    y: 88
-    z: -409
+    x: -1304
+    y: 74
+    z: -406
+  top:
+    world: world
+    x: -1299
+    y: 96
+    z: -402
 ba536c4a-a147-4893-8fc4-8fafaa331357:
   village:
     world: world
@@ -157,39 +157,39 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -784
   base:
     world: world
-    x: -1316
-    y: 69
-    z: -355
+    x: -1233
+    y: 63
+    z: -374
   nether:
     world: world_nether
     x: -37
     y: 58
     z: 709
-  mine:
-    world: world
-    x: -1405
-    y: 11
-    z: -112
-  xp2:
-    world: world_nether
-    x: -164
-    y: 246
-    z: -122
   default:
     world: world
     x: -1280
     y: 77
     z: -489
-  casino:
-    world: world
-    x: -1244
-    y: 64
-    z: -490
   nether2:
     world: world_nether
     x: 190
     y: 68
     z: 210
+  ice:
+    world: world
+    x: -5463
+    y: 92
+    z: 6337
+  coral:
+    world: world
+    x: -7633
+    y: 62
+    z: 6074
+  jungle:
+    world: world
+    x: -10740
+    y: 66
+    z: 934
 ee0897a7-af69-494c-9d62-b08040f6c86c:
   default:
     world: world
@@ -249,9 +249,9 @@ ca955fc8-7edc-4189-b56f-dc56fbd5ce1e:
     z: -123
   '1':
     world: world
-    x: -1307
+    x: -1301
     y: 73
-    z: -386
+    z: -387
   '2':
     world: world
     x: -1300
@@ -264,17 +264,33 @@ ca955fc8-7edc-4189-b56f-dc56fbd5ce1e:
     z: -769
   '4':
     world: world
-    x: 441
-    y: 67
-    z: -655
+    x: 380
+    y: 72
+    z: -596
   '5':
     world: world
     x: -1527
     y: 91
     z: -3031
+  '7':
+    world: world
+    x: -1221
+    y: 129
+    z: -377
+  '6':
+    world: world
+    x: -1221
+    y: 129
+    z: -377
 a8dd5891-61fc-43dd-8b30-5191bbdd89ca:
   default:
     world: world
     x: -1276
     y: 93
     z: -486
+c324175c-270f-45ea-844b-fb3a3165d609:
+  default:
+    world: world
+    x: -1222
+    y: 129
+    z: -375

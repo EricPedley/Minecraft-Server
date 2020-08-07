@@ -657,6 +657,7 @@
       "minecraft:creeper": "2020-07-18 06:46:46 +0000",
       "minecraft:phantom": "2020-08-02 04:01:58 +0000",
       "minecraft:zombified_piglin": "2020-07-27 03:16:03 +0000",
+      "minecraft:witch": "2020-08-06 20:22:50 +0000",
       "minecraft:wither_skeleton": "2020-07-27 22:42:59 +0000",
       "minecraft:cave_spider": "2020-08-04 00:48:42 +0000",
       "minecraft:piglin": "2020-07-24 00:31:54 +0000",
@@ -1122,6 +1123,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-07-18 05:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-08-06 20:22:50 +0000"
     },
     "done": true
   },
@@ -2409,6 +2416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-08-06 20:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2020-07-18 05:44:20 +0000"
@@ -3087,6 +3100,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2020-08-06 20:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-07-18 06:20:52 +0000"
@@ -3186,6 +3205,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-07-24 21:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-08-06 20:46:37 +0000"
     },
     "done": true
   },
