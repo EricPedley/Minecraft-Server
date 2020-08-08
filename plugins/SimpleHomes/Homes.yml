@@ -294,3 +294,14 @@ c324175c-270f-45ea-844b-fb3a3165d609:
     x: -1222
     y: 129
     z: -375
+8b0cc839-5848-4a17-aff4-4aef44b62886:
+  default:
+    world: world
+    x: -1249
+    y: 63
+    z: -374
+  mine:
+    world: world
+    x: -1941
+    y: 11
+    z: 717
