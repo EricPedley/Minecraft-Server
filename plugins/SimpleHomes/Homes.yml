@@ -157,9 +157,9 @@ ba536c4a-a147-4893-8fc4-8fafaa331357:
     z: -784
   base:
     world: world
-    x: -1233
-    y: 63
-    z: -374
+    x: -1224
+    y: 110
+    z: -343
   nether:
     world: world_nether
     x: -37

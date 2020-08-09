@@ -1,110 +1,30 @@
-[03:34:54] [User Authenticator #23/INFO]: UUID of player pirateboy416 is e5321807-83f9-426c-8670-6f65e29e2c0d
-[03:34:55] [Server thread/INFO]: pirateboy416[/127.0.0.1:42374] logged in with entity id 70537 at ([world]-1305.989342158657, 73.9375, -406.87172070746175)
-[03:51:45] [Server thread/INFO]: pirateboy416 issued server command: /home hhs
-[03:52:42] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[03:56:31] [Server thread/INFO]: pirateboy416 issued server command: /home hhs
-[04:00:54] [User Authenticator #24/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[04:00:54] [Server thread/INFO]: PikNik[/127.0.0.1:42386] logged in with entity id 72557 at ([world]-1226.575972948706, 63.0, -378.91333870405435)
-[04:01:05] [Async Chat Thread - #16/INFO]: <PikNik> hold on
-[04:01:09] [Async Chat Thread - #16/INFO]: <pirateboy416> oh no nick left the discord im gonna kms
-[04:01:16] [Async Chat Thread - #16/INFO]: <PikNik> my airpods are fricking things up
-[04:01:35] [Async Chat Thread - #16/INFO]: <PikNik> they confuse the input settings on discord and then make them not work
-[04:01:53] [Async Chat Thread - #16/INFO]: <PikNik> yeah ik i have that effect on ppl
-[04:02:04] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[04:03:20] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[04:05:17] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[04:05:26] [Async Chat Thread - #17/INFO]: <PikNik> fixed
-[04:05:42] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[04:07:59] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[04:08:36] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[04:13:44] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
-[04:13:44] [Server thread/INFO]: pirateboy416 left the game
-[04:39:05] [User Authenticator #25/INFO]: UUID of player cowacorns is 8b0cc839-5848-4a17-aff4-4aef44b62886
-[04:39:05] [Server thread/INFO]: cowacorns[/127.0.0.1:42410] logged in with entity id 75050 at ([world]-1325.4588429210091, 79.0, -381.9163500611012)
-[04:42:20] [Server thread/INFO]: PikNik issued server command: /home\
-[04:42:22] [Server thread/INFO]: PikNik issued server command: /home
-[04:43:09] [Server thread/INFO]: PikNik issued server command: /home base
-[04:45:57] [Server thread/INFO]: cowacorns was shot by Skeleton
-[04:46:02] [Server thread/INFO]: cowacorns issued server command: /back
-[04:46:16] [Server thread/INFO]: cowacorns was shot by Skeleton
-[04:46:20] [Server thread/INFO]: cowacorns issued server command: /back
-[04:49:03] [Server thread/INFO]: cowacorns was slain by Zombie
-[04:49:08] [Server thread/INFO]: cowacorns issued server command: /back
-[04:53:51] [Server thread/INFO]: PikNik issued server command: /home
-[04:54:18] [Server thread/INFO]: PikNik issued server command: /tpahere cowacorns
-[04:55:48] [Server thread/INFO]: PikNik issued server command: /home
-[04:56:25] [Server thread/INFO]: PikNik issued server command: /home base
-[04:56:25] [Server thread/WARN]: Entity EntityPlayer['PikNik'/72557, l='ServerLevel[world]', x=-1233.00, y=63.00, z=-374.00](PikNik at -1233.0,63.0,-374.0) left loaded chunk area
-[04:57:00] [Server thread/INFO]: cowacorns has made the advancement [Best Friends Forever]
-[04:58:21] [Server thread/INFO]: PikNik issued server command: /home
-[04:58:29] [Server thread/INFO]: PikNik issued server command: /home base
-[05:03:29] [Server thread/INFO]: PikNik fell from a high place
-[05:03:34] [Server thread/INFO]: PikNik issued server command: /back
-[05:06:29] [Server thread/INFO]: cowacorns has made the advancement [Isn't It Iron Pick]
-[05:10:38] [Server thread/INFO]: PikNik issued server command: /home base
-[05:17:12] [Server thread/INFO]: PikNik issued server command: /tpa cowacorns
-[05:17:14] [Server thread/INFO]: cowacorns has made the advancement [Diamonds!]
-[05:17:28] [Server thread/INFO]: cowacorns issued server command: /tpa PikNik
-[05:17:34] [Server thread/INFO]: PikNik issued server command: /tpaccept
-[05:17:39] [Server thread/INFO]: cowacorns issued server command: /sethome
-[05:17:42] [Server thread/INFO]: cowacorns issued server command: /back
-[05:17:42] [Server thread/WARN]: Entity EntityPlayer['cowacorns'/75050, l='ServerLevel[world]', x=-2366.84, y=16.00, z=603.96](cowacorns at -2366.839139967464,16.0,603.9614810557642) left loaded chunk area
-[05:17:47] [Server thread/INFO]: cowacorns issued server command: /home
-[05:17:51] [Server thread/INFO]: cowacorns issued server command: /back
-[05:17:54] [Server thread/INFO]: cowacorns issued server command: /back
-[05:18:15] [Server thread/INFO]: PikNik issued server command: /tpa cowacorns
-[05:18:18] [Server thread/INFO]: cowacorns issued server command: /tpaccept
-[05:18:20] [Server thread/INFO]: PikNik issued server command: /back
-[05:19:53] [Server thread/INFO]: PikNik issued server command: /home village
-[05:19:53] [Server thread/WARN]: Entity EntityPlayer['PikNik'/72557, l='ServerLevel[world]', x=-2936.00, y=65.00, z=-784.00](PikNik at -2936.0,65.0,-784.0) left loaded chunk area
-[05:20:01] [Server thread/INFO]: PikNik issued server command: /tpahere cowacorns
-[05:21:42] [Server thread/INFO]: PikNik issued server command: /home ice
-[05:21:42] [Server thread/WARN]: Entity EntityPlayer['PikNik'/72557, l='ServerLevel[world]', x=-5463.00, y=92.00, z=6337.00](PikNik at -5463.0,92.0,6337.0) left loaded chunk area
-[05:22:16] [Server thread/INFO]: PikNik issued server command: /home
-[05:31:45] [Server thread/INFO]: PikNik issued server command: /home village
-[05:31:45] [Server thread/WARN]: Entity EntityPlayer['PikNik'/72557, l='ServerLevel[world]', x=-2936.00, y=65.00, z=-784.00](PikNik at -2936.0,65.0,-784.0) left loaded chunk area
-[05:31:48] [Server thread/INFO]: PikNik issued server command: /tpahere cowacorns
-[05:31:50] [Server thread/INFO]: cowacorns issued server command: /tpaccept
-[05:32:45] [Server thread/INFO]: cowacorns issued server command: /home
-[05:32:45] [Server thread/WARN]: Entity EntityPlayer['cowacorns'/75050, l='ServerLevel[world]', x=-1248.25, y=63.00, z=-373.63](cowacorns at -1248.2531340215464,63.0,-373.6296865580928) left loaded chunk area
-[05:32:49] [Server thread/INFO]: PikNik issued server command: /home
-[05:33:56] [Server thread/INFO]: PikNik issued server command: /tpahere cowacorns
-[05:34:09] [Server thread/INFO]: cowacorns issued server command: /tpaccept
-[05:35:28] [Server thread/INFO]: PikNik issued server command: /home
-[05:37:44] [Server thread/INFO]: PikNik issued server command: /home jungle
-[05:37:44] [Server thread/WARN]: Entity EntityPlayer['PikNik'/72557, l='ServerLevel[world]', x=-10740.00, y=66.00, z=934.00](PikNik at -10740.0,66.0,934.0) left loaded chunk area
-[05:37:55] [Server thread/INFO]: PikNik issued server command: /home
-[05:37:55] [Server thread/WARN]: Entity EntityPlayer['PikNik'/72557, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
-[05:38:29] [Server thread/INFO]: PikNik issued server command: /home jungle
-[05:38:29] [Server thread/WARN]: Entity EntityPlayer['PikNik'/72557, l='ServerLevel[world]', x=-10740.00, y=66.00, z=934.00](PikNik at -10740.0,66.0,934.0) left loaded chunk area
-[05:39:59] [Server thread/INFO]: PikNik lost connection: Disconnected
-[05:39:59] [Server thread/INFO]: PikNik left the game
-[05:44:29] [Server thread/INFO]: cowacorns suffocated in a wall
-[05:44:35] [Server thread/INFO]: cowacorns issued server command: /back
-[05:44:35] [Server thread/WARN]: Entity EntityPlayer['cowacorns'/75050, l='ServerLevel[world]', x=-2293.30, y=21.20, z=525.93](cowacorns at -2293.300000011921,21.200000047683716,525.9250000119209) left loaded chunk area
-[05:46:01] [Server thread/INFO]: cowacorns has made the advancement [Not Today, Thank You]
-[05:55:30] [User Authenticator #26/INFO]: UUID of player pirateboy416 is e5321807-83f9-426c-8670-6f65e29e2c0d
-[05:55:30] [Server thread/INFO]: pirateboy416[/127.0.0.1:42436] logged in with entity id 85410 at ([world]-1293.6992606017018, 93.0, -400.4483254438854)
-[05:58:29] [Server thread/INFO]: pirateboy416 issued server command: /home hhs
-[05:58:40] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[06:13:08] [Server thread/INFO]: pirateboy416 fell from a high place
-[06:13:12] [Server thread/INFO]: pirateboy416 issued server command: /back
-[06:13:18] [Server thread/INFO]: pirateboy416 issued server command: /home top
-[06:31:22] [Server thread/INFO]: pirateboy416 issued server command: /home house
-[06:42:32] [Server thread/INFO]: cowacorns has made the advancement [Cover Me With Diamonds]
-[06:43:02] [Server thread/INFO]: cowacorns issued server command: /sethome mine
-[06:43:05] [Server thread/INFO]: cowacorns issued server command: /tpa pi
-[06:43:14] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
-[06:43:56] [Server thread/INFO]: pirateboy416 was slain by cowacorns
-[06:44:01] [Server thread/INFO]: pirateboy416 issued server command: /back
-[06:45:41] [Server thread/INFO]: cowacorns fell from a high place
-[06:45:45] [Server thread/INFO]: cowacorns issued server command: /back
-[06:47:12] [Server thread/INFO]: cowacorns issued server command: /tpa pirateboy416
-[06:47:15] [Server thread/INFO]: pirateboy416 issued server command: /tpaccept
-[06:47:29] [Server thread/INFO]: cowacorns fell from a high place
-[06:47:33] [Server thread/INFO]: cowacorns issued server command: /back
-[06:48:25] [Server thread/INFO]: pirateboy416 issued server command: /home house
-[06:48:54] [Server thread/INFO]: cowacorns lost connection: Disconnected
-[06:48:54] [Server thread/INFO]: cowacorns left the game
-[06:48:59] [Server thread/INFO]: pirateboy416 lost connection: Disconnected
-[06:49:00] [Server thread/INFO]: pirateboy416 left the game
+[00:21:00] [User Authenticator #35/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
+[00:21:01] [Server thread/INFO]: PikNik[/127.0.0.1:42864] logged in with entity id 115925 at ([world]-1222.1955820851394, 120.0, -367.75989870437354)
+[00:24:59] [Server thread/INFO]: PikNik issued server command: /home
+[00:24:59] [Server thread/WARN]: Entity EntityPlayer['PikNik'/115925, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[00:25:38] [Server thread/INFO]: PikNik issued server command: /home baser
+[00:25:40] [Server thread/INFO]: PikNik issued server command: /home base
+[00:25:40] [Server thread/WARN]: Entity EntityPlayer['PikNik'/115925, l='ServerLevel[world]', x=-1224.00, y=108.00, z=-356.00](PikNik at -1224.0,108.0,-356.0) left loaded chunk area
+[00:25:48] [Server thread/INFO]: PikNik issued server command: /home base
+[00:26:18] [Server thread/INFO]: PikNik issued server command: /home base
+[00:33:14] [Server thread/INFO]: PikNik issued server command: /home
+[00:33:14] [Server thread/WARN]: Entity EntityPlayer['PikNik'/115925, l='ServerLevel[world]', x=-1280.00, y=77.00, z=-489.00](PikNik at -1280.0,77.0,-489.0) left loaded chunk area
+[00:34:46] [Server thread/INFO]: PikNik issued server command: /home base
+[00:34:46] [Server thread/WARN]: Entity EntityPlayer['PikNik'/115925, l='ServerLevel[world]', x=-1224.00, y=108.00, z=-356.00](PikNik at -1224.0,108.0,-356.0) left loaded chunk area
+[00:35:33] [Server thread/INFO]: PikNik issued server command: /sethome base
+[00:39:27] [Server thread/INFO]: PikNik issued server command: /home base
+[00:47:59] [Server thread/INFO]: PikNik issued server command: /home base
+[00:55:01] [Server thread/INFO]: PikNik issued server command: /home base
+[00:55:36] [Server thread/INFO]: PikNik issued server command: /home base
+[00:56:14] [Server thread/INFO]: PikNik issued server command: /home base
+[01:11:52] [Server thread/INFO]: PikNik issued server command: /home base
+[01:23:18] [Server thread/INFO]: PikNik issued server command: /home
+[01:23:30] [Server thread/INFO]: PikNik issued server command: /home base
+[01:23:30] [Server thread/WARN]: Entity EntityPlayer['PikNik'/115925, l='ServerLevel[world]', x=-1223.57, y=93.00, z=-342.56](PikNik at -1223.5669114859322,93.0,-342.5629176890112) left loaded chunk area
+[01:32:18] [Server thread/INFO]: PikNik issued server command: /home base
+[01:32:33] [Server thread/INFO]: PikNik issued server command: /sethome base
+[01:32:35] [Server thread/INFO]: PikNik issued server command: /home base
+[01:32:37] [Server thread/INFO]: PikNik issued server command: /sethome base
+[01:36:04] [Server thread/INFO]: PikNik issued server command: /home base
+[01:44:43] [Server thread/INFO]: PikNik lost connection: Disconnected
+[01:44:43] [Server thread/INFO]: PikNik left the game
