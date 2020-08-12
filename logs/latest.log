@@ -1,10 +1,4 @@
-[01:00:51] [User Authenticator #49/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[01:00:52] [Server thread/INFO]: PikNik[/127.0.0.1:43986] logged in with entity id 151264 at ([world]-1291.6529349084662, 73.0, -413.5188503373379)
-[01:02:37] [Server thread/INFO]: PikNik issued server command: /home
-[01:02:46] [Async Chat Thread - #19/INFO]: <PikNik> rs
-[01:03:03] [Server thread/INFO]: PikNik issued server command: /home base
-[01:03:03] [Server thread/WARN]: Entity EntityPlayer['PikNik'/151264, l='ServerLevel[world]', x=-1309.00, y=68.00, z=-357.00](PikNik at -1309.0,68.0,-357.0) left loaded chunk area
-[01:03:27] [Server thread/INFO]: PikNik issued server command: /home base
-[01:03:41] [Server thread/INFO]: PikNik issued server command: /home
-[01:03:46] [Server thread/INFO]: PikNik lost connection: Disconnected
-[01:03:46] [Server thread/INFO]: PikNik left the game
+[07:29:06] [User Authenticator #51/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[07:29:07] [Server thread/INFO]: Snickers7070[/127.0.0.1:44612] logged in with entity id 155986 at ([world]-1308.5, 73.0000002, -371.5)
+[07:29:54] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
+[07:29:54] [Server thread/INFO]: Snickers7070 left the game
