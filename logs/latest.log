@@ -1,4 +1,30 @@
-[07:29:06] [User Authenticator #51/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
-[07:29:07] [Server thread/INFO]: Snickers7070[/127.0.0.1:44612] logged in with entity id 155986 at ([world]-1308.5, 73.0000002, -371.5)
-[07:29:54] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
-[07:29:54] [Server thread/INFO]: Snickers7070 left the game
+[00:56:58] [User Authenticator #52/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[00:56:59] [Server thread/INFO]: TastySandvich_[/127.0.0.1:44944] logged in with entity id 157486 at ([world]-1310.5744770629703, 72.9375, -382.83115170419194)
+[00:58:24] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[00:58:24] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/157486, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
+[01:01:09] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[01:03:46] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[01:03:46] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/157486, l='ServerLevel[world]', x=-1310.00, y=73.00, z=-380.00](TastySandvich_ at -1310.0,73.0,-380.0) left loaded chunk area
+[01:07:24] [Server thread/INFO]: TastySandvich_ issued server command: /home nether
+[01:07:27] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:07:43] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[01:07:54] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:08:07] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[01:11:46] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:14:02] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[01:14:20] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:18:00] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[01:18:13] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:19:56] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[01:20:10] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:24:27] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[01:26:13] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:28:07] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[01:28:39] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:35:47] [Server thread/INFO]: TastySandvich_ issued server command: /give TastySandvich_ minecraft:name_tag
+[01:35:47] [Server thread/INFO]: [TastySandvich_: Gave 1 [Name Tag] to TastySandvich_]
+[01:36:03] [Server thread/INFO]: TastySandvich_ issued server command: /home
+[01:36:20] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
+[01:36:56] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
+[01:43:18] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[01:43:18] [Server thread/INFO]: TastySandvich_ left the game
