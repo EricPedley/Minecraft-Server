@@ -1,30 +1,5 @@
-[00:56:58] [User Authenticator #52/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[00:56:59] [Server thread/INFO]: TastySandvich_[/127.0.0.1:44944] logged in with entity id 157486 at ([world]-1310.5744770629703, 72.9375, -382.83115170419194)
-[00:58:24] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[00:58:24] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/157486, l='ServerLevel[world]', x=-187.00, y=72.00, z=908.00](TastySandvich_ at -187.0,72.0,908.0) left loaded chunk area
-[01:01:09] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:03:46] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
-[01:03:46] [Server thread/WARN]: Entity EntityPlayer['TastySandvich_'/157486, l='ServerLevel[world]', x=-1310.00, y=73.00, z=-380.00](TastySandvich_ at -1310.0,73.0,-380.0) left loaded chunk area
-[01:07:24] [Server thread/INFO]: TastySandvich_ issued server command: /home nether
-[01:07:27] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:07:43] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
-[01:07:54] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:08:07] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
-[01:11:46] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:14:02] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:14:20] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:18:00] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:18:13] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:19:56] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:20:10] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:24:27] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:26:13] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:28:07] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:28:39] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:35:47] [Server thread/INFO]: TastySandvich_ issued server command: /give TastySandvich_ minecraft:name_tag
-[01:35:47] [Server thread/INFO]: [TastySandvich_: Gave 1 [Name Tag] to TastySandvich_]
-[01:36:03] [Server thread/INFO]: TastySandvich_ issued server command: /home
-[01:36:20] [Server thread/INFO]: TastySandvich_ issued server command: /home fortress
-[01:36:56] [Server thread/INFO]: TastySandvich_ issued server command: /home danny
-[01:43:18] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[01:43:18] [Server thread/INFO]: TastySandvich_ left the game
+[00:06:33] [User Authenticator #53/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
+[00:06:38] [Server thread/INFO]: TastySandvich_[/127.0.0.1:41994] logged in with entity id 166175 at ([world]-1278.0480393917007, 77.0, -485.91085024094264)
+[00:06:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6342ms or 126 ticks behind
+[00:07:10] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
+[00:07:10] [Server thread/INFO]: TastySandvich_ left the game
