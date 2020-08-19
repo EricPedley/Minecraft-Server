@@ -1,14 +1,8 @@
-[05:30:09] [User Authenticator #54/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
-[05:30:10] [Server thread/INFO]: Snickers7070[/127.0.0.1:42584] logged in with entity id 168343 at ([world]-1278.0234627311115, 66.0, -367.45604928634725)
-[05:32:47] [User Authenticator #55/INFO]: UUID of player PikNik is ba536c4a-a147-4893-8fc4-8fafaa331357
-[05:32:48] [Server thread/INFO]: PikNik[/127.0.0.1:42594] logged in with entity id 168886 at ([world]-1280.0, 77.0, -489.0)
-[05:34:22] [User Authenticator #56/INFO]: UUID of player TastySandvich_ is 60840569-b4e5-4cf7-ba91-44a32e8746ae
-[05:34:23] [Server thread/INFO]: TastySandvich_[/127.0.0.1:42600] logged in with entity id 168994 at ([world]-1274.4272310169572, 77.0, -486.4549846464915)
-[05:37:18] [Server thread/INFO]: TastySandvich_ lost connection: Disconnected
-[05:37:18] [Server thread/INFO]: TastySandvich_ left the game
-[05:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5523ms or 110 ticks behind
-[05:37:28] [Server thread/WARN]: PikNik moved too quickly! 2.733492348951586,2.7287758923075103,17.866079525727173
-[05:47:16] [Server thread/INFO]: PikNik lost connection: Disconnected
-[05:47:16] [Server thread/INFO]: PikNik left the game
-[05:47:18] [Server thread/INFO]: Snickers7070 lost connection: Disconnected
-[05:47:18] [Server thread/INFO]: Snickers7070 left the game
+[04:12:24] [User Authenticator #57/INFO]: UUID of player Snickers7070 is ca955fc8-7edc-4189-b56f-dc56fbd5ce1e
+[04:12:27] [Server thread/INFO]: Snickers7070[/127.0.0.1:43654] logged in with entity id 174199 at ([world]-1306.90832463467, 73.9375, -396.01826421249143)
+[04:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5775ms or 115 ticks behind
+[04:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10341ms or 206 ticks behind
+[04:22:40] [Server thread/WARN]: Snickers7070 moved too quickly! -11.794132511616908,2.5013359791121417,-0.7173546077320907
+[04:23:42] [Server thread/WARN]: Snickers7070 moved too quickly! 9.778075628802071,3.4186640077748365,-1.4967003709345477
+[04:24:40] [Server thread/INFO]: Snickers7070 lost connection: Timed out
+[04:24:40] [Server thread/INFO]: Snickers7070 left the game
